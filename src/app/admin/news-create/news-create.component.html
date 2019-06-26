@@ -1,0 +1,89 @@
+<div class="container">
+    <div class="card-panel">
+        <h2>Создание новой новости</h2>
+        <div class="row">
+            <form [formGroup]="form" (ngSubmit)="onSubmit()">
+                <div class="input-field col s12">
+                    <p>После создания новости Вы сможете добавить для неё перевод. Выберите первый язык для новости:</p>
+                    <p>
+                        <label>
+                            <input
+                                    formControlName="lang"
+                                    type="radio"
+                                    value="ru"
+                            />
+                            <span>Ru</span>
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            <input
+                                    formControlName="lang"
+                                    type="radio"
+                                    value="uk"
+                            />
+                            <span>Uk</span>
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            <input
+                                    formControlName="lang"
+                                    type="radio"
+                                    value="en"
+                            />
+                            <span>En</span>
+                        </label>
+                    </p>
+                </div>
+                <div class="input-field col s12">
+                    <input
+                            id="title"
+                            type="text"
+                            class="validate"
+                            formControlName="title"
+                            [ngClass]="{'invalid': form.get('title').invalid && form.get('title').touched}"
+                    >
+                    <label for="title">Заголовок</label>
+                    <span
+                            class="helper-text red-text"
+                            *ngIf="form.get('title').invalid && form.get('title').touched"
+                    >
+            <span *ngIf="form.get('title')['errors']['required']">
+              Укажите заголовок
+            </span>
+          </span>
+                    <span class="helper-text">На основе заголовка будет автоматически сгенерирована ссылка для новости. Например: "Первая новость" -> "/news/Pervaya-novost"</span>
+                </div>
+                <div class="input-field col s12">
+                    <quill-editor
+                            [modules]="modules"
+                            #editor
+                            [formats]="formats"
+                            (onEditorCreated)="addBindingCreated($event)"
+                            formControlName="body"
+                            [placeholder]="'Введите текст...'| translate"
+                    ></quill-editor>
+                    <span
+                            class="helper-text red-text"
+                            *ngIf="form.get('body').invalid && form.get('body').touched"
+                    >
+            <span *ngIf="form.get('body')['errors']['required']">
+              Укажите содержание
+            </span>
+          </span>
+                </div>
+                <div class="col s12">
+                    <button class="btn waves-effect waves-light right"
+                            type="submit"
+                            name="action"
+                            [disabled]="form.invalid"
+                    >
+                        Создать
+                        <i class="material-icons right">send</i>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

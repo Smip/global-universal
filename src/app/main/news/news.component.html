@@ -1,0 +1,63 @@
+<div class="container">
+    <div class="card-panel">
+        <h1>{{ "Новости"| translate }}</h1>
+        <div *ngIf="!isLoaded" class="center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+            <p>{{'Загрузка...' | translate}}</p>
+        </div>
+        <div *ngIf="isLoaded">
+            <div class="col s12" *ngFor="let article of articles">
+                <div class="card-panel">
+                    <div class="row">
+                        <div class="col s12">
+                            <h2><a [routerLink]="['/'+translate.currentLang, 'news', article.slug]">{{(article.contents
+                                | findLang: translate.currentLang) ? (article.contents | findLang:
+                                translate.currentLang).title : article.slug}}</a></h2>
+                        </div>
+                        <div class="col s12">
+                            <div></div>
+                            {{(article.contents | findLang: translate.currentLang) ? (((article.contents | findLang:
+                            translate.currentLang).body) | cutArticle) : ''}}
+                        </div>
+                        <div class="col s12">
+                            <hr>
+                        </div>
+                        <div class="col s6">
+                            {{article.createdAt | moment:"YYYY-MM-DD[T]HH:mm:ss.SSS[Z]":"YYYY.MM.DD"}}
+                        </div>
+                        <div class="col s6 right-align">
+                            <a [routerLink]="['/'+translate.currentLang, 'news', article.slug]">{{"Читать полностью..."
+                                | translate}}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 center-align" *ngIf="articles.length === 0">
+                {{'На данный момент новостей нет.' | translate}}
+            </div>
+            <global-parinator-buttons
+                    (goPage)="goToPage($event)"
+                    (goNext)="onNext()"
+                    (goPrev)="onPrev()"
+                    [link]="'/'+translate.currentLang+'/news/page'"
+                    [pagesToShow]="3"
+                    [page]="currentPage"
+                    [perPage]="itemsOnPage"
+                    [count]="totalItems">
+            </global-parinator-buttons>
+
+        </div>
+    </div>
+</div>

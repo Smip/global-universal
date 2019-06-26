@@ -1,0 +1,77 @@
+<div class="container center-align">
+    <div class="card-panel">
+        <div *ngIf="fileUploading" class="center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+            <p>{{'Загрузка...' | translate}}</p>
+        </div>
+        <div class="row" *ngIf="!fileUploading">
+            <div class="col s12">
+                <p>Для загрузки новых тарифов, выберите CSV файл, с полями code;destination;rate. Предыдущие тарифы
+                    будут автоматически удалены!</p>
+                <form action="#">
+                    <div class="file-field input-field">
+                        <div class="btn">
+                            <span>***.csv</span>
+                            <input type="file" accept=".csv" (change)="handleFileInput($event.target.files)">
+                        </div>
+                        <div class="file-path-wrapper">
+                            <input class="file-path validate" type="text">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container center-align">
+    <div class="card-panel">
+        <div class="row">
+            <div class="col l10 offset-l1 s12">
+                <input #searchInput [placeholder]="'Найдите страну или регион куда хотите позвонить' | translate">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="card-panel">
+        <div *ngIf="!isLoaded" class="center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+            <p>{{'Загрузка...' | translate}}</p>
+        </div>
+        <div *ngIf="isLoaded">
+            <div class="row">
+                <div class="col l12 s12" *ngFor="let tarif of tarifs">
+                    <span class="orange-text">{{tarif.code}}</span>
+                    ({{tarif.destination}})
+                    <span class="right">
+            <span class="orange-text"><strong>{{tarif.rate}}</strong></span> {{"грн"| translate}}.
+          </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

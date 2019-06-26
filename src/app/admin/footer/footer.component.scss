@@ -1,0 +1,7 @@
+ul:not(.browser-default) > li {
+  display: inline-block;
+  margin-left: 40px;
+  &:first-child {
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,37 @@
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <a [routerLink]="'/news' | localize: translate.currentLang"
+               class="waves-effect waves-light btn-flat back-btn">
+                <i class="material-icons left">keyboard_backspace</i>
+                {{'К другим новостям'|translate}}
+            </a>
+        </div>
+    </div>
+
+    <div class="card-panel">
+        <div *ngIf="!isLoaded" class="center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+            <p>{{'Загрузка...' | translate}}</p>
+        </div>
+        <div *ngIf="isLoaded">
+            <h1>
+                {{content.title}}
+            </h1>
+            <div [innerHTML]="content.body"></div>
+        </div>
+
+    </div>
+</div>

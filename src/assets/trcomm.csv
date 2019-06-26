@@ -1,0 +1,5519 @@
+code;destination;rate
+1;usa 2;0.84
+1201555;usa other;1.4
+1202555;usa other;1.4
+1203555;usa other;1.4
+1204;canada manitoba;0.56
+1205555;usa other;1.4
+1206555;usa other;1.4
+1207555;usa other;1.4
+1208555;usa other;1.4
+1209555;usa other;1.4
+1210555;usa other;1.4
+1212555;usa new york city;1.4
+1213555;usa other;1.4
+1214555;usa other;1.4
+1215555;usa other;1.4
+1216555;usa other;1.4
+1217555;usa other;1.4
+1218555;usa other;1.4
+1219555;usa other;1.4
+1224555;usa other;1.4
+1225555;usa other;1.4
+1226;canada ontario;0.56
+1228555;usa other;1.4
+1229555;usa other;1.4
+1231555;usa other;1.4
+1234555;usa other;1.4
+1236;canada vancouver;0.56
+1239555;usa other;1.4
+1240555;usa other;1.4
+1242;bahamas;5.88
+1246;barbados;8.68
+1248555;usa other;1.4
+1249;canada ontario;0.56
+1250;canada victoria 2;0.56
+1250232;canada victoria;5.6
+1250233;canada victoria;5.6
+1250234;canada victoria;5.6
+1250235;canada victoria;5.6
+1250237;canada victoria;5.6
+1250239;canada victoria;5.6
+1250321;canada victoria;5.6
+1250471;canada victoria;5.6
+1250500;canada victoria;5.6
+1250622;canada victoria;5.6
+1250624;canada victoria;5.6
+1250627;canada victoria;5.6
+1250771;canada victoria;5.6
+1250772;canada victoria;5.6
+1250773;canada victoria;5.6
+1250774;canada victoria;5.6
+1250775;canada victoria;5.6
+1250776;canada victoria;5.6
+1250778;canada victoria;5.6
+1250779;canada victoria;5.6
+1251555;usa other;1.4
+1252555;usa other;1.4
+1253555;usa other;1.4
+1254555;usa other;1.4
+1256555;usa other;1.4
+1260555;usa other;1.4
+1262555;usa other;1.4
+1264;anguilla;21
+1264235;anguilla mobile cable & wireless;10.64
+1264469;anguilla mobile;10.64
+1264476;anguilla mobile cable & wireless;10.64
+1264536;anguilla mobile weblinks;10.64
+1264537;anguilla mobile weblinks;10.64
+1264538;anguilla mobile weblinks;10.64
+1264539;anguilla mobile weblinks;10.64
+1264543;anguilla mobile;10.64
+1264581;anguilla mobile at&t;10.64
+1264582;anguilla mobile at&t;10.64
+1264583;anguilla mobile at&t;10.64
+1264584;anguilla mobile at&t;10.64
+1264729;anguilla mobile cable & wireless;10.64
+1264772;anguilla mobile cable & wireless;10.64
+1267555;usa other;1.4
+1268;antigua and barbuda;8.4
+1269555;usa other;1.4
+1270555;usa other;1.4
+1276555;usa other;1.4
+1281555;usa other;1.4
+1284;british virgin islands;8.96
+1289;canada hamilton;0.56
+1301555;usa other;1.4
+1302555;usa other;1.4
+1303555;usa other;1.4
+1304555;usa other;1.4
+1305555;usa other;1.4
+1306;canada saskatchewan;0.56
+1307555;usa other;1.4
+1308555;usa other;1.4
+1309555;usa other;1.4
+1310555;usa other;1.4
+1312555;usa other;1.4
+1313555;usa other;1.4
+1314555;usa other;1.4
+1315555;usa other;1.4
+1316555;usa other;1.4
+1317555;usa other;1.4
+1318555;usa other;1.4
+1319555;usa other;1.4
+1320555;usa other;1.4
+1321555;usa other;1.4
+1323555;usa other;1.4
+1325555;usa other;1.4
+1330555;usa other;1.4
+1331555;usa other;1.4
+1334555;usa other;1.4
+1336555;usa other;1.4
+1337555;usa other;1.4
+1339555;usa other;1.4
+1340;usa virgin islands;1.4
+1343;canada ontario;0.56
+1345;cayman islands;7
+1347555;usa new york city;1.4
+1351555;usa other;1.4
+1352555;usa other;1.4
+1360555;usa other;1.4
+1361555;usa other;1.4
+1365;canada ontario;0.56
+1386555;usa other;1.4
+1401555;usa other;1.4
+1402555;usa other;1.4
+1403;canada southern albert;0.56
+1404555;usa other;1.4
+1405555;usa other;1.4
+1406555;usa other;1.4
+1407555;usa other;1.4
+1408555;usa other;1.4
+1409555;usa other;1.4
+1410555;usa other;1.4
+1412555;usa other;1.4
+1413555;usa other;1.4
+1414555;usa other;1.4
+1415555;usa other;1.4
+1416;canada toronto;0.56
+1417555;usa other;1.4
+1418;canada quebec;0.56
+1419555;usa other;1.4
+1423555;usa other;1.4
+1424555;usa other;1.4
+1425555;usa other;1.4
+1430555;usa other;1.4
+1431;canada manitoba;0.56
+1432555;usa other;1.4
+1434555;usa other;1.4
+1435555;usa other;1.4
+1437;canada ontario;0.56
+1438;canada quebec;0.56
+1440555;usa other;1.4
+1441;bermuda;1.96
+1443555;usa other;1.4
+1450;canada suburban montre;0.56
+1469555;usa other;1.4
+1470555;usa other;1.4
+1473;grenada;8.96
+1475555;usa other;1.4
+1478555;usa other;1.4
+1479555;usa other;1.4
+1480555;usa other;1.4
+1484555;usa other;1.4
+1500555;usa directory assistance;1.4
+1501555;usa other;1.4
+1502555;usa other;1.4
+1503555;usa other;1.4
+1504555;usa other;1.4
+1505555;usa other;1.4
+1506;canada new brunswick;0.56
+1507555;usa other;1.4
+1508555;usa other;1.4
+1509555;usa other;1.4
+1510555;usa other;1.4
+1512555;usa other;1.4
+1513555;usa other;1.4
+1514;canada quebec montreal;0.56
+1515555;usa other;1.4
+1516555;usa other;1.4
+1517555;usa other;1.4
+1518555;usa other;1.4
+1519;canada ontario london;0.56
+1520555;usa other;1.4
+1530555;usa other;1.4
+1540555;usa other;1.4
+1541555;usa other;1.4
+1551555;usa other;1.4
+1559555;usa other;1.4
+1561555;usa other;1.4
+1562555;usa other;1.4
+1563555;usa other;1.4
+1564555;usa;1.4
+1567555;usa other;1.4
+1570555;usa other;1.4
+1571555;usa other;1.4
+1573555;usa other;1.4
+1574555;usa other;1.4
+1575555;usa other;1.4
+1579;canada quebec;0.56
+1580555;usa other;1.4
+1581;canada quebec;0.56
+1585555;usa other;1.4
+1586555;usa other;1.4
+1587;canada albert;0.56
+1600;canada non geographic;0.56
+1601555;usa other;1.4
+1602555;usa other;1.4
+1603555;usa other;1.4
+1604;canada vancouver;0.56
+1605555;usa other;1.4
+1606555;usa other;1.4
+1607555;usa other;1.4
+1608555;usa other;1.4
+1609555;usa other;1.4
+1610555;usa other;1.4
+1612555;usa other;1.4
+1613;canada ontario kingston;0.56
+1614555;usa other;1.4
+1615555;usa other;1.4
+1616555;usa other;1.4
+1617555;usa other;1.4
+1618555;usa other;1.4
+1619555;usa other;1.4
+1620555;usa other;1.4
+1623555;usa other;1.4
+1626555;usa other;1.4
+1630555;usa other;1.4
+1631555;usa other;1.4
+1636555;usa other;1.4
+1639;canada saskatchewan;0.56
+1641555;usa other;1.4
+1646555;usa new york city;1.4
+1647;canada toronto;0.56
+1649;turks and caicos islands;8.96
+1650555;usa other;1.4
+1651555;usa other;1.4
+1660555;usa other;1.4
+1661555;usa other;1.4
+1662555;usa other;1.4
+1664;montserrat;8.68
+1670;mariana islands;1.68
+1671;guam;1.12
+1678555;usa other;1.4
+1682555;usa other;1.4
+1684;american samoa;1.4
+1701555;usa other;1.4
+1702555;usa other;1.4
+1703555;usa other;1.4
+1704555;usa other;1.4
+1705;canada ontario north bay;0.56
+1706555;usa other;1.4
+1707555;usa other;1.4
+1708555;usa other;1.4
+1709;canada newfoundland;0.56
+1710555;usa other;1.4
+1712555;usa other;1.4
+1713555;usa other;1.4
+1714555;usa other;1.4
+1715555;usa other;1.4
+1716555;usa other;1.4
+1717555;usa other;1.4
+1718555;usa new york city;1.4
+1719555;usa other;1.4
+1720555;usa other;1.4
+1721;saint maarten;4.48
+1724555;usa other;1.4
+1727555;usa other;1.4
+1731555;usa other;1.4
+1732555;usa other;1.4
+1734555;usa other;1.4
+1740555;usa other;1.4
+1754555;usa other;1.4
+1757555;usa other;1.4
+1758;saint lucia;8.96
+1760555;usa other;1.4
+1762555;usa other;1.4
+1763555;usa other;1.4
+1765555;usa other;1.4
+1767;dominica;8.96
+1769555;usa other;1.4
+1770555;usa other;1.4
+1772555;usa other;1.4
+1773555;usa other;1.4
+1774555;usa other;1.4
+1775555;usa other;1.4
+1778;canada vancouver;0.56
+1779555;usa other;1.4
+1780;canada northern albert;0.56
+1781555;usa other;1.4
+1784;saint vincent and the grenadines;8.68
+1785555;usa other;1.4
+1786555;usa other;1.4
+1787;puerto rico;0.84
+1800;usa premium;0.84
+1801555;usa other;1.4
+1802555;usa other;1.4
+1803555;usa other;1.4
+1804555;usa other;1.4
+1805555;usa other;1.4
+1806555;usa other;1.4
+1807;canada ontario thunder bay;0.56
+1808;usa hawaii 2;0.84
+1808555;usa hawaii;1.4
+1809;dominican republic;4.76
+1810555;usa other;1.4
+1812555;usa other;1.4
+1813555;usa other;1.4
+1814555;usa other;1.4
+1815555;usa other;1.4
+1816555;usa other;1.4
+1817555;usa other;1.4
+1818555;usa other;1.4
+1819;canada quebec sherbrooke;0.56
+1828555;usa other;1.4
+1829;dominican republic;4.76
+1830555;usa other;1.4
+1831555;usa other;1.4
+1832555;usa other;1.4
+1843555;usa other;1.4
+1844;usa premium;0.84
+1845555;usa other;1.4
+1847555;usa other;1.4
+1848555;usa other;1.4
+1849;dominican republic;4.76
+1850555;usa other;1.4
+1855;usa premium;0.84
+1856555;usa other;1.4
+1857555;usa other;1.4
+1858555;usa other;1.4
+1859555;usa other;1.4
+1860555;usa other;1.4
+1862555;usa other;1.4
+1863555;usa other;1.4
+1864555;usa other;1.4
+1865555;usa other;1.4
+1866;usa premium;0.84
+1867;canada northwest territories;5.6
+1868;trinidad and tobago;7.28
+1869;saint kitts and nevis;8.96
+1870555;usa other;1.4
+1873;canada saskatchewan;0.56
+1876;jamaica;9.24
+1877;usa premium;0.84
+1880;usa premium;0.84
+1883;usa other 2;0.84
+1888;usa premium;0.84
+1901555;usa other;1.4
+1902;canada nova scotia;0.56
+1903555;usa other;1.4
+1904555;usa other;1.4
+1905;canada ontario hamilton;0.56
+1906555;usa other;1.4
+1907;usa alaska 2;1.68
+1907555;usa alaska;1.4
+1908555;usa other;1.4
+1909555;usa other;1.4
+1910555;usa other;1.4
+1912555;usa other;1.4
+1913555;usa other;1.4
+1914555;usa other;1.4
+1915555;usa other;1.4
+1916555;usa other;1.4
+1917555;usa new york city;1.4
+1918555;usa other;1.4
+1919555;usa other;1.4
+1920555;usa other;1.4
+1925555;usa other;1.4
+1928555;usa other;1.4
+1931555;usa other;1.4
+1936555;usa other;1.4
+1937555;usa other;1.4
+1939;puerto rico;0.84
+1940555;usa other;1.4
+1941555;usa other;1.4
+1947555;usa other;1.4
+1949555;usa other;1.4
+1951555;usa other;1.4
+1952555;usa other;1.4
+1954555;usa other;1.4
+1956555;usa other;1.4
+1970555;usa other;1.4
+1971555;usa other;1.4
+1972555;usa other;1.4
+1973555;usa other;1.4
+1978555;usa other;1.4
+1979555;usa other;1.4
+1980555;usa other;1.4
+1984555;usa other;1.4
+1985555;usa other;1.4
+1989555;usa other;1.4
+20;egypt 2;3.36
+2010;egypt mobile vodafone;5.6
+2011;egypt mobile (misr) etisalat;5.6
+2012;egypt mobile orange (mobilnil);5.6
+2014;egypt;5.6
+2016;egypt;5.6
+2017;egypt;5.6
+2018;egypt;5.6
+2019;egypt;5.6
+211;south sudan;15.12
+212;morocco 2;20.72
+212520;morocco orange (meditel);8.12
+212521;morocco orange (meditel);8.12
+212525;morocco orange (meditel);8.12
+212526;morocco mobile wana far;10.92
+212527;morocco mobile wana far;10.92
+212529;morocco orange (meditel) 2;10.92
+212530;morocco orange (meditel);8.12
+212531;morocco orange (meditel);8.12
+212532;morocco orange (meditel);8.12
+212533;morocco mobile wana far;10.92
+212534;morocco mobile wana far;10.92
+212538;morocco orange (meditel) 2;10.92
+212540;morocco mobile wana far;10.92
+212546;morocco mobile wana far;10.92
+212547;morocco mobile wana far;10.92
+212550;morocco mobile wana far;10.92
+212553;morocco mobile wana far;10.92
+2126;morocco mobile;19.04
+212600;morocco mobile wana;18.48
+212601;morocco mobile wana;18.48
+212602;morocco mobile wana;18.48
+212603;morocco mobile wana;18.48
+212604;morocco mobile wana;18.48
+212606;morocco mobile wana;18.48
+212612;morocco mobile orange (meditel);12.88
+212614;morocco mobile orange (meditel);12.88
+212617;morocco mobile orange (meditel);12.88
+212619;morocco mobile orange (meditel);12.88
+212620;morocco mobile orange (meditel);12.88
+212621;morocco mobile orange (meditel);12.88
+212626;morocco mobile wana;18.48
+212627;morocco mobile wana;18.48
+212629;morocco mobile wana;18.48
+212630;morocco mobile wana;18.48
+212633;morocco mobile wana;18.48
+212634;morocco mobile wana;18.48
+212635;morocco mobile wana;18.48
+212638;morocco mobile wana;18.48
+212640;morocco mobile wana;18.48
+212644;morocco mobile orange (meditel);12.88
+212645;morocco mobile orange (meditel);12.88
+212646;morocco mobile wana;18.48
+212647;morocco mobile wana;18.48
+212649;morocco mobile orange (meditel);12.88
+212656;morocco mobile orange (meditel);12.88
+212657;morocco mobile orange (meditel);12.88
+212660;morocco mobile orange (meditel);12.88
+212663;morocco mobile orange (meditel);12.88
+212664;morocco mobile orange (meditel);12.88
+212665;morocco mobile orange (meditel);12.88
+212669;morocco mobile orange (meditel);12.88
+212674;morocco mobile orange (meditel);12.88
+212675;morocco mobile orange (meditel);12.88
+212679;morocco mobile orange (meditel);12.88
+212680;morocco mobile wana;18.48
+212699;morocco mobile wana;18.48
+212892;morocco;1.12
+213;algeria 3;3.08
+2135;algeria mobile wataniya (ooredoo);23.24
+2136;algeria;22.4
+2137;algeria 2;18.2
+2139;algeria;22.4
+216;tunisia;29.96
+2162;tunisia mobile orascom;25.76
+21636;tunisia mobile orascom;25.76
+21640;tunisia mobile tunisie telecom;25.76
+21641;tunisia mobile tunisie telecom;25.76
+21642;tunisia mobile tunisie telecom;25.76
+2164300;tunisia mobile lyca;26.04
+2165;tunisia mobile orange;29.96
+2169;tunisia mobile tunisie telecom;25.76
+218;libya 2;9.24
+21891;libya mobile almadar;9.24
+21892;libya mobile libyana;9.24
+21894;libya mobile libyana;9.24
+21895;libya mobile;9.24
+218951;libya mobile 2;12.04
+21896;libya mobile;9.24
+21899;libya;12.04
+220;gambia;21.56
+221;senegal;14.84
+222;mauritania;21.28
+223;mali;15.4
+224;guinea;17.08
+225;ivory coast;16.52
+226;burkina faso;14.84
+22660;burkina faso mobile onatel;14
+2267;burkina faso 2;14
+227;niger;13.72
+228;togo;12.88
+22890;togo mobile togocel;15.12
+22891;togo mobile togocel;15.12
+22892;togo mobile togocel;15.12
+22898;togo mobile telecel (moov);15.12
+22899;togo mobile telecel (moov);15.12
+229;benin;14
+22964;benin mobile telecel (moov);14
+22966;benin mobile mtn (areeba);14
+22967;benin mobile mtn (areeba);14
+22968;benin mobile globacom;14
+2299;benin mobile;14
+230;mauritius;6.44
+231;liberia;17.36
+232;sierra leone;21.28
+233;ghana;10.64
+234;nigeria;3.92
+235;chad 2;21
+23522;chad;21.84
+2356;chad mobile airtel (celtel);21
+2357;chad mobile sotel;21.84
+2359;chad mobile millicom (tigo);19.88
+236;central african republic;30.52
+23621;central african republic special;30.8
+23622;central african republic special;30.8
+23636;central african republic special;30.8
+23670;central african republic mobile moov;30.8
+23672;central african republic mobile orange;30.8
+23674;central african republic special;30.8
+23675;central african republic mobile telecel;30.8
+23677;central african republic mobile nationlink;30.8
+2368776;central african republic special;30.8
+237;cameroon;13.44
+2377;cameroon mobile mtn;12.04
+2379;cameroon mobile orange;12.04
+238;cape verde;10.08
+23818;cape verde mobile;10.08
+23858;cape verde mobile;10.08
+23859;cape verde mobile;10.08
+2389;cape verde mobile;10.08
+239;sao tome and principe;36.4
+240;equatorial guinea;20.72
+242;congo;15.68
+24201;congo mobile azur;19.6
+24204;congo mobile warid;19.6
+24205;congo mobile celtel;19.6
+24206;congo mobile mtn;19.6
+243;dr of congo 3;10.92
+24378;dr of congo;16.8
+2438;dr of congo;16.8
+24381;dr of congo mobile vodacom;13.44
+24382;dr of congo mobile vodacom;13.44
+2439;dr of congo;16.8
+24397;dr of congo 2;14.56
+24398;dr of congo mobile celtel;14.56
+24399;dr of congo mobile celtel;14.56
+244;angola;1.96
+2449;angola mobile;5.32
+24491;angola mobile movicel;3.92
+24492;angola mobile unitel;6.16
+24493;angola mobile unitel;6.16
+24499;angola mobile movicel;3.92
+245;guinea bissau;21.28
+246;diego garcia;46.2
+247;ascension island;28.84
+248;seychelles 3;25.2
+2484206;seychelles;23.24
+24842710;seychelles;23.24
+2485;seychelles 2;22.68
+2487;seychelles 2;22.68
+2489;seychelles 2;22.68
+24898;seychelles;23.24
+249;sudan;6.16
+250;rwanda;11.48
+251;ethiopia;8.96
+253;djibouti;12.04
+254;kenya;9.8
+255;tanzania;14
+256;uganda;12.32
+257;burundi;21.56
+25729;burundi mobile cdma;21.56
+25771;burundi mobile telecel;21.56
+25775;burundi mobile lacell;21.56
+25776;burundi mobile econet;21.56
+25777;burundi mobile onatel;21.56
+25778;burundi mobile africell;21.56
+25779;burundi mobile telecel;21.56
+258;mozambique;11.2
+260;zambia;17.08
+261;madagascar;24.08
+262;reunion;4.2
+263;zimbabwe;16.8
+264;namibia;2.8
+265;malawi;14
+266;lesotho;17.36
+267;botswana;9.24
+268;swaziland;6.72
+269;comoros 2;14.84
+2693;comoros;12.88
+269390;comoros;12.88
+27;south africa 2;7.28
+27100;south africa;6.72
+27120;south africa;6.72
+27130;south africa;6.72
+27140;south africa;6.72
+27150;south africa;6.72
+27160;south africa;6.72
+27180;south africa;6.72
+27210;south africa cape town;6.72
+27310;south africa;6.72
+27320;south africa;6.72
+27410;south africa;6.72
+27510;south africa;6.72
+27603;south africa mobile mtn;7
+27604;south africa mobile mtn;7
+27605;south africa mobile mtn;7
+27710;south africa mobile mtn;7
+27711;south africa mobile vodacom;6.72
+27712;south africa mobile vodacom;6.72
+27713;south africa mobile vodacom;6.72
+27714;south africa mobile vodacom;6.72
+27715;south africa mobile vodacom;6.72
+27716;south africa mobile vodacom;6.72
+27717;south africa mobile mtn;7
+27718;south africa mobile mtn;7
+27719;south africa mobile mtn;7
+2772;south africa mobile vodacom;6.72
+2773;south africa mobile mtn;7
+2774;south africa mobile cell;7
+2776;south africa mobile vodacom;6.72
+2778;south africa mobile mtn;7
+2779;south africa mobile vodacom;6.72
+2781;south africa;6.72
+2782;south africa mobile vodacom;6.72
+2783;south africa mobile mtn;7
+2784;south africa mobile cell;7
+27850;south africa;6.72
+278510;south africa 3;7
+278515;south africa;6.72
+27852;south africa;6.72
+27853;south africa;6.72
+27862800;south africa mobile vodacom;6.72
+2787310;south africa mobile vodacom;6.72
+290;saint helena;51.52
+297;aruba;7.56
+29756;aruba mobile setar;8.12
+29759;aruba mobile setar;8.12
+297600;aruba mobile mio;8.12
+297622;aruba mobile mio;8.12
+297630;aruba mobile digicel;8.12
+297640;aruba mobile digicel;8.12
+297641;aruba mobile digicel;8.12
+29766;aruba mobile mio;8.12
+29769;aruba mobile mio;8.12
+29773;aruba mobile digicel;8.12
+29774;aruba mobile digicel;8.12
+29796;aruba mobile setar;8.12
+29799;aruba mobile setar;8.12
+298;faroe islands;5.04
+29821;faroe islands mobile;5.04
+29822;faroe islands mobile;5.04
+29823;faroe islands mobile;5.04
+29824;faroe islands mobile;5.04
+29825;faroe islands mobile;5.04
+29826;faroe islands mobile;5.04
+29827;faroe islands mobile;5.04
+29828;faroe islands mobile;5.04
+29829;faroe islands mobile;5.04
+2985;faroe islands mobile;5.04
+29871;faroe islands mobile;5.04
+29872;faroe islands mobile;5.04
+29873;faroe islands mobile;5.04
+29874;faroe islands mobile;5.04
+29875;faroe islands mobile;5.04
+29876;faroe islands mobile;5.04
+29877;faroe islands mobile;5.04
+29878;faroe islands mobile;5.04
+29879;faroe islands mobile;5.04
+299;greenland;16.24
+30;greece 2;1.12
+3021;greece athens;1.12
+3069;greece;3.08
+30690;greece mobile wind;3.08
+30693;greece mobile wind;3.08
+30694;greece mobile vodafone;3.08
+30695;greece mobile vodafone;3.08
+30697;greece mobile cosmote;3.08
+30698;greece mobile cosmote;3.08
+30699;greece mobile q-telecom;3.08
+31;netherlands;8.68
+316;netherlands mobile;12.32
+31610;netherlands mobile kpn;9.24
+31611;netherlands mobile vodafone;12.32
+31612;netherlands mobile kpn;9.24
+31613;netherlands mobile kpn;9.24
+31614;netherlands mobile t-mobile;9.24
+31615;netherlands mobile vodafone;12.32
+31616;netherlands mobile telfort;9.24
+31617;netherlands mobile telfort;9.24
+31618;netherlands mobile t-mobile;9.24
+31619;netherlands mobile telfort;9.24
+31620;netherlands mobile kpn;9.24
+31621;netherlands mobile vodafone;12.32
+31622;netherlands mobile kpn;9.24
+31623;netherlands mobile kpn;9.24
+31624;netherlands mobile t-mobile;9.24
+31625;netherlands mobile vodafone;12.32
+31626;netherlands mobile telfort;9.24
+31627;netherlands mobile vodafone;12.32
+31628;netherlands mobile t-mobile;9.24
+31629;netherlands mobile vodafone;12.32
+31630;netherlands mobile kpn;9.24
+31631;netherlands mobile vodafone;12.32
+31633;netherlands mobile telfort;9.24
+31634;netherlands mobile t-mobile;9.24
+31636;netherlands mobile tele2;12.88
+31637;netherlands mobile vodafone;12.32
+31638;netherlands mobile t-mobile;9.24
+31639;netherlands mobile t-mobile;9.24
+31640;netherlands mobile tele2;12.88
+31641;netherlands mobile t-mobile;9.24
+31642;netherlands mobile t-mobile;9.24
+31643;netherlands mobile t-mobile;9.24
+31644;netherlands mobile telfort;9.24
+31645;netherlands mobile telfort;9.24
+31646;netherlands mobile vodafone;12.32
+31647;netherlands mobile telfort;9.24
+31648;netherlands mobile t-mobile;9.24
+31649;netherlands mobile telfort;9.24
+31650;netherlands mobile vodafone;12.32
+31651;netherlands mobile kpn;9.24
+31652;netherlands mobile vodafone;12.32
+31653;netherlands mobile kpn;9.24
+31654;netherlands mobile vodafone;12.32
+31655;netherlands mobile vodafone;12.32
+31657;netherlands mobile kpn;9.24
+31665;netherlands mobile kpn;9.24
+31682;netherlands mobile kpn;9.24
+31683;netherlands mobile kpn;9.24
+31684;netherlands mobile lycamobile;12.88
+31685;netherlands mobile lycamobile;12.88
+316860;netherlands mobile lycamobile;12.88
+316861;netherlands mobile lycamobile;12.88
+316862;netherlands mobile lycamobile;12.88
+316863;netherlands mobile lycamobile;12.88
+316864;netherlands mobile lycamobile;12.88
+31687;netherlands mobile lycamobile;12.88
+318;netherlands premium;12.32
+319;netherlands premium;12.32
+32;belgium;3.92
+3246;belgium 2;15.68
+32460;belgium mobile proximus;16.24
+324659;belgium mobile others;16.24
+324660;belgium mobile others;16.24
+324661;belgium mobile others;16.24
+324662;belgium mobile others;16.24
+324663;belgium mobile others;16.24
+324664;belgium mobile others;16.24
+324681;belgium mobile telenet;16.8
+324682;belgium mobile telenet;16.8
+324683;belgium mobile telenet;16.8
+3247;belgium mobile proximus;16.24
+3248;belgium 3;16.8
+3249;belgium mobile mobistar;16.8
+3270;belgium special services;4.2
+3277;belgium mobile others 2;15.68
+32770001;belgium mobile proximus;16.24
+32770002;belgium mobile base;16.8
+32770005;belgium mobile mobistar;16.8
+33;france;12.88
+335091;france 2;2.8
+336;france mobile others;2.8
+336001;france mobile orange;2.8
+336003;france mobile bouygues;2.8
+3360041;france mobile orange;2.8
+3360042;france mobile bouygues;2.8
+3360051;france mobile orange;2.8
+3360052;france mobile sfr;2.8
+336007;france mobile sfr;2.8
+336008;france mobile orange;2.8
+336009;france mobile bouygues;2.8
+33601;france mobile sfr;2.8
+336020;france mobile others;2.8
+336021;france mobile others;2.8
+336022;france mobile sfr;2.8
+336023;france mobile sfr;2.8
+336024;france mobile sfr;2.8
+336025;france mobile sfr;2.8
+33603;france mobile sfr;2.8
+336040;france mobile sfr;2.8
+336041;france mobile sfr;2.8
+336044;france mobile sfr;2.8
+336045;france mobile sfr;2.8
+336046;france mobile sfr;2.8
+336047;france mobile sfr;2.8
+336048;france mobile sfr;2.8
+336049;france mobile sfr;2.8
+33605;france mobile others;2.8
+336055;france mobile bouygues;2.8
+336056;france mobile bouygues;2.8
+336057;france mobile bouygues;2.8
+336058;france mobile bouygues;2.8
+336059;france mobile bouygues;2.8
+336064;france mobile sfr;2.8
+336065;france mobile sfr;2.8
+336066;france mobile sfr;2.8
+336067;france mobile sfr;2.8
+336068;france mobile sfr;2.8
+336069;france mobile sfr;2.8
+33607;france mobile orange;2.8
+33608;france mobile orange;2.8
+33609;france mobile sfr;2.8
+3361;france mobile sfr;2.8
+3362;france mobile sfr;2.8
+33630;france mobile orange;2.8
+33631;france mobile orange;2.8
+33632;france mobile orange;2.8
+33633;france mobile orange;2.8
+33634;france mobile sfr;2.8
+33635;france mobile sfr;2.8
+336360;france mobile sfr;2.8
+336361;france mobile sfr;2.8
+336362;france mobile sfr;2.8
+336363;france mobile sfr;2.8
+336364;france mobile sfr;2.8
+336365;france mobile sfr;2.8
+336366;france mobile sfr;2.8
+336367;france mobile sfr;2.8
+336368;france mobile sfr;2.8
+336369;france mobile sfr;2.8
+33637;france mobile orange;2.8
+3363800;france mobile others 2;12.88
+336381;france mobile orange;2.8
+336382;france mobile orange;2.8
+336383;france mobile orange;2.8
+336384;france mobile orange;2.8
+336385;france mobile orange;2.8
+336386;france mobile orange;2.8
+336387;france mobile orange;2.8
+336388;france mobile orange;2.8
+336389;france mobile orange;2.8
+3364000;france mobile others 2;12.88
+3364001;france mobile others 2;12.88
+3364002;france mobile others 2;12.88
+3364003;france mobile others 2;12.88
+3364004;france mobile others 2;12.88
+3364005;france mobile sfr;2.8
+3364006;france mobile sfr;2.8
+3364007;france mobile sfr;2.8
+3364008;france mobile sfr;2.8
+3364009;france mobile sfr;2.8
+336401;france mobile orange;2.8
+336402;france mobile orange;2.8
+336403;france mobile orange;2.8
+336404;france mobile orange;2.8
+336405;france mobile orange;2.8
+3364164;france mobile sfr;2.8
+3364166;france mobile sfr;2.8
+3364167;france mobile sfr;2.8
+3364168;france mobile sfr;2.8
+3364169;france mobile sfr;2.8
+336418;france mobile sfr;2.8
+336419;france mobile sfr;2.8
+33642;france mobile orange;2.8
+33643;france mobile orange;2.8
+336440;france mobile sfr;2.8
+336444;france mobile others;2.8
+336445;france mobile others;2.8
+336446;france mobile others;2.8
+336447;france mobile sfr;2.8
+336448;france mobile sfr;2.8
+336449;france mobile sfr;2.8
+33645;france mobile orange;2.8
+33646;france mobile sfr;2.8
+3364950;france mobile others;2.8
+3364990;france mobile sfr;2.8
+3364991;france mobile sfr;2.8
+3364995;france mobile sfr;2.8
+3364998;france mobile sfr;2.8
+3364999;france mobile sfr;2.8
+33650;france mobile bouygues;2.8
+33653;france mobile others;2.8
+33654;france mobile orange;2.8
+33655;france mobile sfr;2.8
+33658;france mobile bouygues;2.8
+33659;france mobile bouygues;2.8
+3366;france mobile others;2.8
+3367;france mobile orange;2.8
+3368;france mobile orange;2.8
+33698;france mobile bouygues;2.8
+33699;france mobile bouygues;2.8
+337;france mobile others;2.8
+337500;france mobile sfr;2.8
+337505;france mobile sfr;2.8
+3375060;france mobile sfr;2.8
+337507;france mobile others;2.8
+337510;france mobile bouygues;2.8
+337511;france mobile bouygues;2.8
+337512;france mobile bouygues;2.8
+337513;france mobile bouygues;2.8
+337514;france mobile bouygues;2.8
+337515;france mobile bouygues;2.8
+33753;france mobile bouygues;2.8
+33754;france mobile others;2.8
+33755;france mobile others;2.8
+337575;france mobile sfr;2.8
+3375759;france mobile sfr;2.8
+337576;france mobile sfr;2.8
+337577;france mobile sfr;2.8
+337578;france mobile sfr;2.8
+33758;france mobile bouygues;2.8
+3376;france mobile bouygues;2.8
+33777;france mobile sfr;2.8
+33778;france mobile sfr;2.8
+33780;france mobile sfr;2.8
+338;france special service;11.48
+34;spain 3;0.56
+341;spain 2;5.04
+3451;spain special services;5.04
+3459;spain;3.64
+346;spain mobile;3.64
+34600;spain mobile vodafone;3.64
+346010;spain mobile vodafone;3.64
+346011;spain mobile vodafone;3.64
+346012;spain mobile vodafone;3.64
+346021;spain mobile telefonica;3.64
+346024;spain mobile vodafone;3.64
+346025;spain mobile vodafone;3.64
+346026;spain mobile vodafone;3.64
+346027;spain mobile vodafone;3.64
+34603;spain mobile vodafone;3.64
+34605;spain mobile orange;3.64
+34606;spain mobile telefonica;3.64
+34607;spain mobile vodafone;3.64
+34608;spain mobile telefonica;3.64
+34609;spain mobile telefonica;3.64
+34610;spain mobile vodafone;3.64
+346111;spain mobile vodafone;3.64
+346112;spain mobile vodafone;3.64
+346116;spain mobile vodafone;3.64
+34615;spain mobile orange;3.64
+34616;spain mobile telefonica;3.64
+34617;spain mobile vodafone;3.64
+34618;spain mobile telefonica;3.64
+34619;spain mobile telefonica;3.64
+34620;spain mobile telefonica;3.64
+34622;spain mobile (yoigo) xfera;3.92
+34625;spain mobile orange;3.64
+34626;spain mobile telefonica;3.64
+34627;spain mobile vodafone;3.64
+34628;spain mobile telefonica;3.64
+34629;spain mobile telefonica;3.64
+34630;spain mobile telefonica;3.64
+34632;spain mobile orange;3.64
+34633;spain mobile (yoigo) xfera;3.92
+34634;spain mobile vodafone;3.64
+34635;spain mobile orange;3.64
+34636;spain mobile telefonica;3.64
+34637;spain mobile vodafone;3.64
+34638;spain mobile telefonica;3.64
+34639;spain mobile telefonica;3.64
+346400;spain mobile orange;3.64
+346401;spain mobile orange;3.64
+346422;spain mobile telefonica;3.64
+346426;spain mobile telefonica;3.64
+346427;spain mobile telefonica;3.64
+346428;spain mobile telefonica;3.64
+346429;spain mobile telefonica;3.64
+346440;spain mobile orange;3.64
+346441;spain mobile orange;3.64
+346442;spain mobile orange;3.64
+346443;spain mobile orange;3.64
+346444;spain mobile orange;3.64
+346445;spain mobile orange;3.64
+346446;spain mobile orange;3.64
+346447;spain mobile orange;3.64
+34645;spain mobile orange;3.64
+34646;spain mobile telefonica;3.64
+34647;spain mobile vodafone;3.64
+34648;spain mobile telefonica;3.64
+34649;spain mobile telefonica;3.64
+34650;spain mobile telefonica;3.64
+34651;spain mobile orange;3.64
+34652;spain mobile orange;3.64
+34653;spain mobile orange;3.64
+34654;spain mobile orange;3.64
+34655;spain mobile orange;3.64
+34656;spain mobile orange;3.64
+34657;spain mobile orange;3.64
+34658;spain mobile orange;3.64
+34659;spain mobile telefonica;3.64
+34660;spain mobile telefonica;3.64
+34661;spain mobile vodafone;3.64
+34662;spain mobile vodafone;3.64
+34663;spain mobile vodafone;3.64
+34664;spain mobile vodafone;3.64
+34665;spain mobile orange;3.64
+34666;spain mobile vodafone;3.64
+34667;spain mobile vodafone;3.64
+346681;spain mobile orange;3.64
+346685;spain mobile orange;3.64
+346686;spain mobile telefonica;3.64
+346688;spain mobile telefonica;3.64
+34669;spain mobile telefonica;3.64
+34670;spain mobile vodafone;3.64
+34671;spain mobile vodafone;3.64
+34672;spain mobile vodafone;3.64
+34673;spain mobile vodafone;3.64
+34674;spain mobile vodafone;3.64
+34675;spain mobile orange;3.64
+34676;spain mobile telefonica;3.64
+34677;spain mobile vodafone;3.64
+34678;spain mobile vodafone;3.64
+34679;spain mobile telefonica;3.64
+34680;spain mobile telefonica;3.64
+346810;spain mobile telefonica;3.64
+346811;spain mobile telefonica;3.64
+346812;spain mobile telefonica;3.64
+346813;spain mobile telefonica;3.64
+346814;spain mobile telefonica;3.64
+346815;spain mobile telefonica;3.64
+34682;spain mobile telefonica;3.64
+34683;spain mobile telefonica;3.64
+346840;spain mobile telefonica;3.64
+346841;spain mobile telefonica;3.64
+346846;spain mobile vodafone;3.64
+34685;spain mobile orange;3.64
+34686;spain mobile telefonica;3.64
+34687;spain mobile vodafone;3.64
+346880;spain mobile orange;3.64
+346881;spain mobile orange;3.64
+346882;spain mobile orange;3.64
+346883;spain mobile orange;3.64
+346884;spain mobile orange;3.64
+346885;spain mobile orange;3.64
+346886;spain mobile euskaltel;3.64
+346888;spain mobile euskaltel;3.64
+346889;spain mobile vodafone;3.64
+34689;spain mobile telefonica;3.64
+34690;spain mobile telefonica;3.64
+34691;spain mobile orange;3.64
+34692;spain mobile orange;3.64
+34693;spain mobile orange;3.64
+34695;spain mobile orange;3.64
+34696;spain mobile telefonica;3.64
+34697;spain mobile vodafone;3.64
+346980;spain mobile orange;3.64
+346981;spain mobile vodafone;3.64
+346982;spain mobile orange;3.64
+346983;spain mobile orange;3.64
+346984;spain mobile orange;3.64
+346985;spain mobile orange;3.64
+346986;spain mobile orange;3.64
+346987;spain mobile orange;3.64
+346988;spain mobile orange;3.64
+346989;spain mobile vodafone;3.64
+34699;spain mobile telefonica;3.64
+347;spain;3.64
+3470;spain special services;5.04
+347111;spain mobile vodafone;3.64
+347117;spain mobile vodafone;3.64
+347170;spain mobile telefonica;3.64
+347171;spain mobile vodafone;3.64
+347177;spain mobile telefonica;3.64
+347221;spain mobile (yoigo) xfera;3.92
+347222;spain mobile (yoigo) xfera;3.92
+347223;spain mobile (yoigo) xfera;3.92
+347224;spain mobile (yoigo) xfera;3.92
+347225;spain mobile (yoigo) xfera;3.92
+347226;spain mobile (yoigo) xfera;3.92
+347227;spain mobile (yoigo) xfera;3.92
+347228;spain mobile (yoigo) xfera;3.92
+347277;spain mobile vodafone;3.64
+347477;spain mobile orange;3.64
+347478;spain mobile orange;3.64
+3480;spain personal;5.04
+3490;spain personal;5.04
+350;gibraltar;1.68
+3505;gibraltar mobile;5.6
+3506;gibraltar mobile;5.6
+351;portugal;1.12
+3511691;portugal mobile vodafone;3.92
+3511692;portugal mobile others;3.92
+3511693;portugal mobile nos;3.64
+3511696;portugal mobile meo (tmn);3.92
+3511891;portugal mobile vodafone;3.92
+3511892;portugal mobile meo (tmn);3.92
+3511893;portugal mobile nos;3.64
+3511896;portugal mobile meo (tmn);3.92
+351609;portugal mobile others 2;3.64
+3516091;portugal mobile vodafone;3.92
+351609200;portugal mobile others;3.92
+351609201;portugal mobile others;3.92
+351609202;portugal mobile others;3.92
+351609203;portugal mobile others;3.92
+351609204;portugal mobile others;3.92
+351609205;portugal mobile others;3.92
+35160921;portugal mobile vodafone;3.92
+351609220;portugal mobile meo (tmn);3.92
+351609221;portugal mobile meo (tmn);3.92
+351609222;portugal mobile meo (tmn);3.92
+35160924;portugal mobile meo (tmn);3.92
+35160925;portugal mobile meo (tmn);3.92
+35160926;portugal mobile meo (tmn);3.92
+35160927;portugal mobile meo (tmn);3.92
+351609280;portugal mobile others;3.92
+351609281;portugal mobile others;3.92
+3516092850;portugal mobile others;3.92
+3516092851;portugal mobile others;3.92
+3516096;portugal mobile meo (tmn);3.92
+351639;portugal mobile others 2;3.64
+3516391;portugal mobile vodafone;3.92
+351639200;portugal mobile others;3.92
+351639201;portugal mobile others;3.92
+351639202;portugal mobile others;3.92
+351639203;portugal mobile others;3.92
+351639204;portugal mobile others;3.92
+351639205;portugal mobile others;3.92
+35163921;portugal mobile vodafone;3.92
+351639220;portugal mobile meo (tmn);3.92
+351639221;portugal mobile meo (tmn);3.92
+351639222;portugal mobile meo (tmn);3.92
+35163924;portugal mobile meo (tmn);3.92
+35163925;portugal mobile meo (tmn);3.92
+35163926;portugal mobile meo (tmn);3.92
+35163927;portugal mobile meo (tmn);3.92
+351639280;portugal mobile others;3.92
+351639281;portugal mobile others;3.92
+3516392850;portugal mobile others;3.92
+3516392851;portugal mobile others;3.92
+3516396;portugal mobile meo (tmn);3.92
+351659;portugal mobile others 2;3.64
+3516591;portugal mobile vodafone;3.92
+351659200;portugal mobile others;3.92
+351659201;portugal mobile others;3.92
+351659202;portugal mobile others;3.92
+351659203;portugal mobile others;3.92
+351659204;portugal mobile others;3.92
+351659205;portugal mobile others;3.92
+35165921;portugal mobile vodafone;3.92
+351659220;portugal mobile meo (tmn);3.92
+351659221;portugal mobile meo (tmn);3.92
+351659222;portugal mobile meo (tmn);3.92
+35165924;portugal mobile meo (tmn);3.92
+35165925;portugal mobile meo (tmn);3.92
+35165926;portugal mobile meo (tmn);3.92
+35165927;portugal mobile meo (tmn);3.92
+351659280;portugal mobile others;3.92
+351659281;portugal mobile others;3.92
+3516592850;portugal mobile others;3.92
+3516592851;portugal mobile others;3.92
+3516596;portugal mobile meo (tmn);3.92
+351669;portugal mobile others 2;3.64
+3516691;portugal mobile vodafone;3.92
+351669200;portugal mobile others;3.92
+351669201;portugal mobile others;3.92
+351669202;portugal mobile others;3.92
+351669203;portugal mobile others;3.92
+351669204;portugal mobile others;3.92
+351669205;portugal mobile others;3.92
+35166921;portugal mobile vodafone;3.92
+351669220;portugal mobile meo (tmn);3.92
+351669221;portugal mobile meo (tmn);3.92
+351669222;portugal mobile meo (tmn);3.92
+35166924;portugal mobile meo (tmn);3.92
+35166925;portugal mobile meo (tmn);3.92
+35166926;portugal mobile meo (tmn);3.92
+35166927;portugal mobile meo (tmn);3.92
+351669280;portugal mobile others;3.92
+351669281;portugal mobile others;3.92
+3516692850;portugal mobile others;3.92
+3516692851;portugal mobile others;3.92
+3516696;portugal mobile meo (tmn);3.92
+3519;portugal mobile others 2;3.64
+35191;portugal mobile vodafone;3.92
+351920;portugal mobile others;3.92
+3519200;portugal mobile others 2;3.64
+3519201;portugal mobile others 2;3.64
+3519202;portugal mobile others 2;3.64
+3519203;portugal mobile others 2;3.64
+3519204;portugal mobile others 2;3.64
+3519205;portugal mobile others 2;3.64
+351921;portugal mobile vodafone;3.92
+351922;portugal mobile others;3.92
+351924;portugal mobile meo (tmn);3.92
+351925;portugal mobile meo (tmn);3.92
+351926;portugal mobile meo (tmn);3.92
+351927;portugal mobile meo (tmn);3.92
+351928;portugal mobile others;3.92
+35196;portugal mobile meo (tmn);3.92
+352;luxembourg 2;0.84
+352021;luxembourg;1.12
+3526;luxembourg;1.12
+3526021;luxembourg mobile luxgsm;1.12
+352621;luxembourg mobile luxgsm;1.12
+352628;luxembourg mobile luxgsm;1.12
+352661;luxembourg mobile orange (vox);1.12
+352668;luxembourg mobile orange (vox);1.12
+352691;luxembourg mobile tango;1.12
+352698;luxembourg mobile tango;1.12
+353;ireland;0.56
+353700;ireland special services;5.32
+35376;ireland special services;5.32
+3538;ireland mobile;1.68
+353800;ireland mobile 2;5.32
+353818;ireland special services;5.32
+35382;ireland mobile pager;1.68
+35383;ireland mobile h3g;1.68
+35385;ireland mobile meteor;1.68
+35386;ireland mobile o2;1.68
+35387;ireland mobile vodafone;1.68
+3538994;ireland mobile;1.68
+3538995;ireland mobile;1.68
+3538996;ireland mobile;1.68
+3538997;ireland mobile;1.68
+3538998;ireland mobile;1.68
+3538999;ireland mobile;1.68
+354;iceland 2;0.84
+35438;iceland;1.12
+35439;iceland;1.12
+3546;iceland;1.12
+3547;iceland;1.12
+3548;iceland;1.12
+355;albania;6.16
+35566;albania mobile plus;15.4
+35567;albania mobile eagle;15.96
+35568;albania mobile amc;13.44
+35569;albania mobile vodafone;14
+356;malta 2;0.56
+3567;malta mobile;0.84
+3568004;malta mobile vodafone;0.84
+3569;malta;0.84
+35692;malta mobile vodafone;0.84
+35694;malta mobile vodafone;0.84
+3569696;malta mobile;0.84
+3569811;malta mobile vodafone;0.84
+3569812;malta mobile vodafone;0.84
+3569813;malta mobile vodafone;0.84
+3569897;malta mobile vodafone;0.84
+35699;malta mobile vodafone;0.84
+357;cyprus 4;0.56
+35712;cyprus 3;2.52
+357121;cyprus 2;1.4
+3571239;cyprus 2;1.4
+357700;cyprus;5.04
+35777;cyprus;5.04
+35780055;cyprus;5.04
+3579;cyprus 3;2.52
+35790085;cyprus;5.04
+35790095;cyprus;5.04
+35795;cyprus mobile primetel;1.96
+35796;cyprus mobile mtn;1.4
+35797;cyprus mobile cyta vodafone;1.4
+35799;cyprus mobile cyta vodafone;1.4
+358;finland;1.96
+35810;finland corporate;5.6
+35818;finland;1.96
+35820;finland corporate;5.6
+35829;finland corporate;5.6
+35830;finland corporate;5.6
+35839;finland corporate;5.6
+3584;finland mobile;1.12
+35840;finland mobile sonera;1.12
+35841;finland mobile finnet;1.12
+35842;finland mobile sonera;1.12
+358432;finland mobile;1.12
+3584320;finland mobile finnet;1.12
+3584321;finland mobile finnet;1.12
+358436;finland mobile;1.12
+358438;finland mobile;1.12
+35844;finland mobile finnet;1.12
+358451;finland mobile elisa;1.12
+358452;finland mobile elisa;1.12
+358453;finland mobile elisa;1.12
+3584541;finland mobile finnet;1.12
+358456;finland mobile elisa;1.12
+3584574;finland mobile finnet;1.12
+3584576;finland mobile finnet;1.12
+3584577;finland mobile finnet;1.12
+3584578;finland mobile finnet;1.12
+3584579;finland mobile finnet;1.12
+358458;finland mobile elisa;1.12
+35846;finland mobile elisa;1.12
+35850;finland mobile elisa;1.12
+35860;finland corporate;5.6
+35870;finland 2;5.6
+35871;finland nongeographic;2.24
+35873;finland corporate;5.6
+35875;finland corporate;5.6
+35876;finland corporate;5.6
+358800;finland corporate;5.6
+359;bulgaria;3.36
+3594;bulgaria;3.36
+359430;bulgaria;3.36
+359437;bulgaria;3.36
+359438;bulgaria;3.36
+359439;bulgaria;3.36
+35948;bulgaria mobile mobikom;3.08
+359700;bulgaria 2;18.48
+3598;bulgaria;3.36
+359800;bulgaria 2;18.48
+35987;bulgaria mobile btc (vivacom);13.44
+35988;bulgaria mobile mobiltel;13.72
+35989;bulgaria mobile globul;13.44
+3599;bulgaria;3.36
+35990;bulgaria 2;18.48
+35998;bulgaria mobile other;13.72
+36;hungary 2;0.56
+361;hungary budapest;0.56
+3620;hungary mobile telenor (pannon);2.52
+3630;hungary mobile t-mobile;1.68
+3631;hungary mobile mvno (tesco);2.8
+3645799;hungary;2.8
+3670;hungary mobile vodafone;2.8
+370;lithuania 2;15.4
+37031331;lithuania others;15.4
+3703725;lithuania 3;46.76
+37037250;lithuania others;15.4
+37037251;lithuania others;15.4
+37037252;lithuania others;15.4
+37037254;lithuania others;15.4
+37037255;lithuania others;15.4
+37037256;lithuania 2;15.4
+37037364;lithuania 2;15.4
+37037368;lithuania others;15.4
+37037369;lithuania others;15.4
+37041721;lithuania others;15.4
+37042521;lithuania others;15.4
+37042522;lithuania others;15.4
+37046450;lithuania others;15.4
+37046467;lithuania others;15.4
+37052193;lithuania vilnius;15.4
+37052194;lithuania vilnius;15.4
+37052521;lithuania vilnius;15.4
+37052528;lithuania others;15.4
+37052529;lithuania others;15.4
+37052530;lithuania others;15.4
+37052533;lithuania vilnius;15.4
+37052654;lithuania others;15.4
+3706;lithuania;13.16
+37060;lithuania mobile tele2;14
+37061;lithuania mobile omnitel;13.16
+37062;lithuania mobile omnitel;13.16
+37063;lithuania mobile bite lietuva;13.16
+370640;lithuania mobile bite lietuva;13.16
+370641;lithuania mobile bite lietuva;13.16
+370642;lithuania mobile bite lietuva;13.16
+370643;lithuania mobile bite lietuva;13.16
+370644;lithuania mobile bite lietuva;13.16
+370645;lithuania mobile tele2;14
+370646;lithuania mobile tele2;14
+370647;lithuania mobile tele2;14
+370648;lithuania mobile tele2;14
+370649;lithuania mobile bite lietuva;13.16
+37065;lithuania mobile bite lietuva;13.16
+370660;lithuania mobile bite lietuva;13.16
+370661;lithuania mobile bite lietuva;13.16
+370662;lithuania mobile omnitel;13.16
+370663;lithuania mobile omnitel;13.16
+3706630;lithuania mobile omnitel 2;46.76
+3706631;lithuania mobile omnitel 2;46.76
+3706632;lithuania mobile omnitel 2;46.76
+370664;lithuania 3;46.76
+37066478;lithuania;13.16
+37066479;lithuania;13.16
+37066480;lithuania;13.16
+37066481;lithuania;13.16
+37066482;lithuania;13.16
+37066483;lithuania;13.16
+37066484;lithuania;13.16
+37066485;lithuania;13.16
+37066486;lithuania;13.16
+37066487;lithuania;13.16
+3706651;lithuania 2;15.4
+37066512;lithuania;13.16
+37066513;lithuania;13.16
+37066514;lithuania;13.16
+37066515;lithuania;13.16
+37066516;lithuania;13.16
+37066517;lithuania;13.16
+37066518;lithuania;13.16
+37066519;lithuania;13.16
+37066520;lithuania;13.16
+37066521;lithuania;13.16
+3706653;lithuania 2;15.4
+3706654;lithuania 2;15.4
+370666;lithuania mobile bite lietuva;13.16
+37066656;lithuania mobile bite lietuva 2;15.4
+370668;lithuania 4;14
+370669;lithuania mobile bite lietuva;13.16
+37067;lithuania mobile tele2;14
+370680;lithuania mobile omnitel;13.16
+370681;lithuania mobile bite lietuva;13.16
+370682;lithuania mobile omnitel;13.16
+370683;lithuania mobile tele2;14
+370684;lithuania mobile tele2;14
+370685;lithuania mobile bite lietuva;13.16
+370686;lithuania mobile omnitel;13.16
+370687;lithuania mobile omnitel;13.16
+370688;lithuania mobile omnitel;13.16
+370689;lithuania mobile bite lietuva;13.16
+370692;lithuania mobile omnitel;13.16
+370693;lithuania mobile omnitel;13.16
+370694;lithuania mobile omnitel;13.16
+370695;lithuania mobile omnitel;13.16
+370696;lithuania mobile omnitel;13.16
+370697;lithuania mobile omnitel;13.16
+370698;lithuania mobile omnitel;13.16
+370699;lithuania mobile bite lietuva;13.16
+3707;lithuania personal numbers;46.76
+3708;lithuania personal numbers;46.76
+370800;lithuania personal numbers;46.76
+3709;lithuania personal numbers;46.76
+371;latvia;23.52
+3712;latvia services others 4;12.6
+371200;latvia mobile tele2;11.2
+3712018;latvia services others 6;18.2
+371202;latvia mobile lmt;10.92
+371203;latvia mobile tele2;11.2
+371204;latvia mobile tele2;11.2
+371209;latvia services others;46.76
+37121;latvia mobile xomobile;10.36
+371220;latvia services others 2;10.92
+3712205;latvia mobile bite;23.52
+3712206;latvia mobile bite;23.52
+3712207;latvia mobile bite;23.52
+3712208;latvia mobile bite;23.52
+3712209;latvia mobile bite;23.52
+371221;latvia mobile bite;23.52
+371222;latvia mobile xomobile;10.36
+3712230;latvia mobile tele2;11.2
+3712231;latvia mobile tele2;11.2
+3712232;latvia mobile tele2;11.2
+3712233;latvia mobile tele2;11.2
+3712234;latvia mobile tele2;11.2
+3712235;latvia mobile tele2;11.2
+3712236;latvia mobile tele2;11.2
+3712237;latvia mobile tele2;11.2
+3712238;latvia mobile tele2;11.2
+3712239;latvia mobile bite;23.52
+371224;latvia mobile lmt;10.92
+371225;latvia mobile bite;23.52
+3712266;latvia mobile master telecom;46.76
+3712277;latvia mobile master telecom;46.76
+3712278;latvia services eco networks;46.76
+3712288;latvia mobile master telecom;46.76
+3712299;latvia mobile master telecom;46.76
+3712328;latvia services others 2;10.92
+3712400;latvia services others;46.76
+3712432;latvia services others;46.76
+3712444;latvia mobile master telecom;46.76
+3712500;latvia services eco networks;46.76
+3712501;latvia services others;46.76
+3712502;latvia services others;46.76
+3712505;latvia services others;46.76
+371254;latvia mobile lmt;10.92
+3712550;latvia mobile bite;23.52
+3712551;latvia mobile bite;23.52
+3712552;latvia mobile bite;23.52
+3712553;latvia mobile bite;23.52
+3712554;latvia mobile bite;23.52
+3712555;latvia mobile bite;23.52
+3712556;latvia mobile lmt;10.92
+3712557;latvia mobile lmt;10.92
+3712558;latvia mobile lmt;10.92
+3712559;latvia mobile lmt;10.92
+371256;latvia mobile lmt;10.92
+371257;latvia mobile lmt;10.92
+3712580;latvia mobile telecom baltija;11.2
+3712581;latvia mobile telecom baltija;11.2
+3712582;latvia mobile telecom baltija;11.2
+3712583;latvia mobile telecom baltija;11.2
+3712584;latvia mobile telecom baltija;11.2
+3712585;latvia mobile bite;23.52
+3712586;latvia mobile bite;23.52
+3712587;latvia mobile bite;23.52
+3712588;latvia mobile bite;23.52
+3712589;latvia mobile telecom baltija;11.2
+371259;latvia mobile tele2;11.2
+37126;latvia services others 2;10.92
+371260;latvia mobile tele2;11.2
+371267;latvia mobile tele2;11.2
+371268;latvia mobile tele2;11.2
+371269;latvia mobile tele2;11.2
+371270;latvia mobile tele2;11.2
+371271;latvia mobile tele2;11.2
+3712720;latvia mobile bite;23.52
+3712721;latvia mobile bite;23.52
+3712722;latvia services others;46.76
+3712723;latvia services others;46.76
+3712724;latvia services others;46.76
+3712725;latvia services others;46.76
+3712726;latvia services others;46.76
+3712728;latvia mobile bite;23.52
+3712729;latvia mobile lmt;10.92
+371273;latvia mobile lmt;10.92
+3712739;latvia mobile lmt 2;12.6
+371274;latvia mobile bite;23.52
+371275;latvia mobile bite;23.52
+3712760;latvia mobile bite;23.52
+3712761;latvia mobile bite;23.52
+3712762;latvia mobile bite;23.52
+3712763;latvia mobile bite;23.52
+3712764;latvia mobile bite;23.52
+3712765;latvia mobile bite;23.52
+3712766;latvia mobile bite;23.52
+3712767;latvia mobile bite;23.52
+3712769;latvia services eco networks;46.76
+3712770;latvia mobile bite;23.52
+3712771;latvia mobile bite;23.52
+3712772;latvia mobile bite;23.52
+3712773;latvia mobile bite;23.52
+3712774;latvia mobile bite;23.52
+3712775;latvia mobile bite;23.52
+3712776;latvia mobile bite;23.52
+3712777;latvia mobile master telecom;46.76
+3712778;latvia mobile bite;23.52
+3712779;latvia mobile bite;23.52
+371278;latvia mobile lmt;10.92
+3712790;latvia mobile bite 2;10.92
+3712791;latvia services eco networks;46.76
+3712792;latvia mobile bite;23.52
+3712793;latvia services others 3;23.52
+3712794;latvia services others;46.76
+3712795;latvia services eco networks;46.76
+37127950;latvia services eco networks;46.76
+3712796;latvia services others 3;23.52
+3712797;latvia services others;46.76
+3712798;latvia services others;46.76
+3712799;latvia mobile bite;23.52
+371282;latvia mobile tele2;11.2
+371283;latvia mobile lmt;10.92
+3712840;latvia services.2;18.2
+37128405;latvia services;46.76
+37128407;latvia services;46.76
+37128408;latvia services;46.76
+3712843;latvia services others 5;5.32
+3712844;latvia mobile tele2;11.2
+3712845;latvia mobile tele2;11.2
+3712846;latvia mobile tele2;11.2
+3712847;latvia mobile tele2;11.2
+3712848;latvia mobile tele2;11.2
+3712849;latvia mobile lmt;10.92
+3712851;latvia services others;46.76
+371286;latvia mobile lmt;10.92
+371287;latvia mobile lmt;10.92
+371288;latvia mobile tele2;11.2
+3712900;latvia services telefant;46.76
+371291;latvia mobile lmt;10.92
+371292;latvia mobile lmt;10.92
+371293;latvia mobile lmt;10.92
+371294;latvia mobile lmt;10.92
+371295;latvia mobile tele2;11.2
+371296;latvia mobile tele2;11.2
+371297;latvia mobile tele2;11.2
+371298;latvia mobile tele2;11.2
+371299;latvia mobile tele2;11.2
+3716130;latvia;23.52
+3716200;latvia;23.52
+3716210;latvia;23.52
+3716220;latvia;23.52
+3716222;latvia;23.52
+3716230;latvia;23.52
+3716260;latvia;23.52
+3716280;latvia;23.52
+3716290;latvia;23.52
+3716303;latvia;23.52
+3716309;latvia;23.52
+3716311;latvia;23.52
+3716313;latvia;23.52
+3716321;latvia;23.52
+3716328;latvia;23.52
+3716331;latvia;23.52
+3716339;latvia;23.52
+3716341;latvia;23.52
+3716347;latvia;23.52
+3716350;latvia;23.52
+3716358;latvia;23.52
+3716361;latvia;23.52
+3716365;latvia;23.52
+3716371;latvia;23.52
+3716377;latvia;23.52
+3716379;latvia;23.52
+3716381;latvia;23.52
+3716389;latvia;23.52
+3716391;latvia;23.52
+3716399;latvia;23.52
+3716401;latvia;23.52
+3716409;latvia;23.52
+3716411;latvia;23.52
+3716418;latvia;23.52
+3716421;latvia;23.52
+3716429;latvia;23.52
+3716431;latvia;23.52
+3716433;latvia;23.52
+3716437;latvia;23.52
+3716439;latvia;23.52
+3716441;latvia;23.52
+3716442;latvia;23.52
+3716446;latvia;23.52
+3716451;latvia;23.52
+3716458;latvia;23.52
+3716461;latvia;23.52
+3716467;latvia;23.52
+3716468;latvia;23.52
+3716471;latvia;23.52
+3716479;latvia;23.52
+3716481;latvia;23.52
+3716488;latvia;23.52
+3716490;latvia;23.52
+3716501;latvia;23.52
+3716509;latvia;23.52
+3716511;latvia;23.52
+3716515;latvia 3;46.76
+3716518;latvia;23.52
+3716521;latvia;23.52
+3716528;latvia;23.52
+3716531;latvia;23.52
+3716539;latvia;23.52
+3716541;latvia;23.52
+3716548;latvia;23.52
+3716550;latvia;23.52
+3716555;latvia;23.52
+3716558;latvia;23.52
+3716561;latvia;23.52
+3716563;latvia;23.52
+3716567;latvia;23.52
+3716569;latvia;23.52
+3716571;latvia;23.52
+3716577;latvia 3;46.76
+3716579;latvia;23.52
+3716580;latvia;23.52
+3716581;latvia;23.52
+3716588;latvia;23.52
+3716590;latvia;23.52
+37166;latvia riga 2;21.56
+371660;latvia riga;23.52
+371661;latvia riga;23.52
+371662;latvia riga;23.52
+3716666;latvia riga;23.52
+3716677;latvia riga;23.52
+3716688;latvia riga;23.52
+3716689;latvia riga;23.52
+371669;latvia riga;23.52
+37167;latvia riga 2;21.56
+3716715;latvia riga;23.52
+3716716;latvia riga;23.52
+3716719;latvia riga;23.52
+3716723;latvia riga;23.52
+3716748;latvia riga;23.52
+3716749;latvia riga;23.52
+3716763;latvia riga;23.52
+37167631;latvia riga 3;46.76
+3716764;latvia riga;23.52
+3716765;latvia riga;23.52
+37167660;latvia riga;23.52
+37167661;latvia riga;23.52
+37167662;latvia riga;23.52
+37167663;latvia riga;23.52
+37167664;latvia riga;23.52
+37167665;latvia riga;23.52
+37167666;latvia riga;23.52
+37167669;latvia riga;23.52
+3716769;latvia riga;23.52
+3716771;latvia riga;23.52
+3716772;latvia riga;23.52
+3716778;latvia riga;23.52
+3716779;latvia riga;23.52
+3716785;latvia riga;23.52
+3716787;latvia riga;23.52
+3716788;latvia riga;23.52
+371681;latvia 3;46.76
+3716820;latvia;23.52
+3716830;latvia;23.52
+3716838;latvia;23.52
+3716840;latvia;23.52
+3716848;latvia;23.52
+371685;latvia 3;46.76
+3716860;latvia;23.52
+3716861;latvia;23.52
+3716868;latvia;23.52
+3716870;latvia;23.52
+3716880;latvia;23.52
+3716889;latvia;23.52
+371689;latvia 3;46.76
+37178501;latvia 3;46.76
+37178502;latvia 3;46.76
+37178504;latvia services telefant;46.76
+37178505;latvia services eco networks 2;12.6
+37178509;latvia 3;46.76
+37178510;latvia 3;46.76
+37178516;latvia 3;46.76
+37178517;latvia 2;12.6
+37178519;latvia services eco networks;46.76
+37178520;latvia 2;12.6
+37178521;latvia services 2;46.76
+37178535;latvia services 5;46.76
+37178536;latvia 2;12.6
+37178540;latvia 3;46.76
+37178541;latvia 3;46.76
+37178565;latvia 3;46.76
+37178580;latvia services telefant;46.76
+37178581;latvia services telefant;46.76
+37178582;latvia 3;46.76
+37178583;latvia 3;46.76
+37178584;latvia 2;12.6
+37178585;latvia 2;12.6
+37178601;latvia 2;12.6
+37178602;latvia 2;12.6
+37178620;latvia 2;12.6
+37178664;latvia 2;12.6
+37178666;latvia 2;12.6
+37178668;latvia 2;12.6
+3717869;latvia services eco networks 2;12.6
+37178695;latvia services eco networks;46.76
+3717870;latvia services 3;46.76
+37178710;latvia 2;12.6
+37178711;latvia 2;12.6
+37178712;latvia 2;12.6
+37178713;latvia 2;12.6
+3717872;latvia 2;12.6
+37178755;latvia services telefant 2;12.6
+37178770;latvia 2;12.6
+37178773;latvia 2;12.6
+37178777;latvia 2;12.6
+37178778;latvia 2;12.6
+37178787;latvia 2;12.6
+3717880;latvia services 3;46.76
+37178810;latvia 3;46.76
+37178811;latvia 3;46.76
+37178812;latvia 3;46.76
+37178813;latvia 3;46.76
+37178814;latvia 2;12.6
+37178815;latvia 2;12.6
+37178816;latvia services eco networks 2;12.6
+37178817;latvia services eco networks 2;12.6
+37178818;latvia services eco networks 2;12.6
+37178820;latvia 2;12.6
+37178821;latvia 2;12.6
+37178822;latvia 2;12.6
+3717887;latvia services eco networks 2;12.6
+37178890;latvia 2;12.6
+37178891;latvia 2;12.6
+37178892;latvia 2;12.6
+37178893;latvia 2;12.6
+37178899;latvia 2;12.6
+37178904;latvia 3;46.76
+37178905;latvia services 2;46.76
+3717891;latvia services eco networks;46.76
+37178922;latvia services eco networks 2;12.6
+37178988;latvia 2;12.6
+37178999;latvia 2;12.6
+3718040;latvia 2;12.6
+3718060;latvia services eco networks;46.76
+3718090;latvia 2;12.6
+37180900;latvia 3;46.76
+371810;latvia services;46.76
+3718110;latvia 2;12.6
+3718111;latvia 3;46.76
+37181200;latvia 2;12.6
+37181201;latvia 2;12.6
+37181300;latvia 2;12.6
+37181301;latvia 2;12.6
+37181400;latvia 2;12.6
+37181401;latvia 2;12.6
+37181500;latvia 2;12.6
+37181501;latvia 2;12.6
+37181600;latvia 2;12.6
+37181601;latvia 2;12.6
+3718180;latvia 2;12.6
+3718181;latvia 3;46.76
+37181820;latvia 3;46.76
+37181821;latvia 2;12.6
+37181822;latvia 2;12.6
+37181900;latvia 2;12.6
+37181901;latvia 2;12.6
+37181910;latvia 2;12.6
+37181911;latvia 2;12.6
+371850;latvia 3;46.76
+37190;latvia 3;46.76
+372;estonia 3;19.88
+37240;estonia 2;23.24
+3725;estonia mobile others 2;13.72
+37250;estonia mobile emt;14.28
+37251;estonia mobile emt;14.28
+37252;estonia mobile emt;14.28
+372530;estonia mobile emt;14.28
+37253225;estonia mobile emt;14.28
+37253226;estonia mobile emt;14.28
+37253229;estonia mobile emt;14.28
+3725323;estonia mobile emt;14.28
+3725324;estonia mobile emt;14.28
+37253264;estonia mobile emt;14.28
+37253267;estonia mobile emt;14.28
+37253268;estonia mobile emt;14.28
+37253269;estonia mobile emt;14.28
+37253284;estonia mobile emt;14.28
+37253285;estonia mobile emt;14.28
+37253292;estonia mobile emt;14.28
+37253293;estonia mobile top connect 2;14.28
+3725330;estonia mobile emt;14.28
+3725331;estonia mobile emt;14.28
+3725332;estonia mobile emt;14.28
+37253330;estonia mobile emt;14.28
+37253331;estonia mobile emt;14.28
+37253332;estonia mobile emt;14.28
+37253333;estonia mobile emt;14.28
+37253334;estonia mobile emt;14.28
+37253335;estonia mobile emt;14.28
+37253337;estonia mobile emt;14.28
+37253338;estonia mobile emt;14.28
+37253339;estonia mobile emt;14.28
+37253340;estonia mobile emt;14.28
+37253341;estonia mobile emt;14.28
+37253345;estonia mobile emt;14.28
+37253358;estonia mobile emt;14.28
+37253359;estonia mobile emt;14.28
+37253363;estonia mobile emt;14.28
+37253364;estonia mobile emt;14.28
+37253365;estonia mobile emt;14.28
+37253366;estonia mobile emt;14.28
+37253375;estonia mobile top connect 2;14.28
+372534;estonia mobile emt;14.28
+372535;estonia mobile emt;14.28
+3725360;estonia mobile emt;14.28
+3725361;estonia mobile emt;14.28
+3725362;estonia mobile emt;14.28
+3725363;estonia mobile emt;14.28
+3725364;estonia mobile emt;14.28
+3725365;estonia mobile emt;14.28
+3725366;estonia mobile emt;14.28
+3725367;estonia mobile emt;14.28
+37253680;estonia mobile emt;14.28
+37253681;estonia mobile emt;14.28
+37253682;estonia mobile emt;14.28
+37253683;estonia mobile others;14.28
+372537;estonia mobile emt;14.28
+372538;estonia mobile emt;14.28
+372539;estonia mobile emt;14.28
+37254004;estonia mobile emt;14.28
+37254005;estonia mobile emt;14.28
+37254501;estonia mobile emt;14.28
+37254502;estonia mobile emt;14.28
+3725456;estonia mobile elisa;12.04
+3725457;estonia mobile elisa;12.04
+3725458;estonia mobile elisa;12.04
+3725459;estonia mobile elisa;12.04
+3725461;estonia mobile elisa;12.04
+3725462;estonia mobile elisa;12.04
+37255;estonia mobile tele2;14
+37256;estonia mobile elisa;12.04
+37256018;estonia mobile emt;14.28
+37256019;estonia mobile emt;14.28
+37256116;estonia mobile emt;14.28
+37256117;estonia mobile emt;14.28
+37256118;estonia mobile emt;14.28
+37256119;estonia mobile emt;14.28
+37257;estonia mobile others;14.28
+3725740;estonia mobile emt;14.28
+3725741;estonia mobile emt;14.28
+3725742;estonia mobile emt;14.28
+3725743;estonia mobile emt;14.28
+3725744;estonia mobile emt;14.28
+37257450;estonia mobile emt;14.28
+37257493;estonia mobile emt;14.28
+37257494;estonia mobile emt;14.28
+37257495;estonia mobile others;14.28
+37257501;estonia mobile emt;14.28
+37257502;estonia mobile emt;14.28
+37257503;estonia mobile emt;14.28
+37257570;estonia mobile emt;14.28
+37257702;estonia mobile emt;14.28
+37257703;estonia mobile emt;14.28
+37257704;estonia mobile emt;14.28
+37257705;estonia mobile emt;14.28
+3725780;estonia mobile emt;14.28
+3725781;estonia mobile emt;14.28
+3725782;estonia mobile emt;14.28
+3725783;estonia mobile emt;14.28
+3725784;estonia mobile emt;14.28
+3725785;estonia mobile emt;14.28
+3725786;estonia mobile emt;14.28
+3725787;estonia mobile emt;14.28
+37257880;estonia mobile emt;14.28
+37257887;estonia mobile others;14.28
+37257888;estonia mobile others;14.28
+37257889;estonia mobile others;14.28
+372580;estonia mobile tele2;14
+372581;estonia mobile tele2;14
+372582;estonia mobile tele2;14
+372583;estonia mobile tele2;14
+372584;estonia mobile tele2;14
+372585;estonia mobile tele2;14
+37258538;estonia mobile emt;14.28
+37258539;estonia mobile emt;14.28
+3725854;estonia mobile emt;14.28
+3725855;estonia mobile emt;14.28
+3725856;estonia mobile emt;14.28
+3725857;estonia mobile emt;14.28
+3725859;estonia mobile emt;14.28
+372586;estonia mobile others;14.28
+372587;estonia mobile emt;14.28
+3725884;estonia mobile others;14.28
+372590;estonia mobile emt;14.28
+3725910;estonia mobile emt;14.28
+3725911;estonia mobile emt;14.28
+37259123;estonia mobile emt;14.28
+37259124;estonia mobile emt;14.28
+37259125;estonia mobile emt;14.28
+37259126;estonia mobile emt;14.28
+37259127;estonia mobile emt;14.28
+37259128;estonia mobile emt;14.28
+37259129;estonia mobile emt;14.28
+37259145;estonia mobile emt;14.28
+37259146;estonia mobile emt;14.28
+37259147;estonia mobile emt;14.28
+37259148;estonia mobile emt;14.28
+37259149;estonia mobile emt;14.28
+3725915;estonia mobile emt;14.28
+3725916;estonia mobile emt;14.28
+3725917;estonia mobile emt;14.28
+3725918;estonia mobile emt;14.28
+3725919;estonia mobile emt;14.28
+37270;estonia 2;23.24
+37281;estonia mobile top connect;13.72
+37281010;estonia mobile top connect 3;23.24
+37282;estonia mobile top connect;13.72
+37283;estonia;13.72
+37284;estonia;13.72
+37285;estonia;13.72
+373;moldova 3;11.76
+373210;moldova pridnestrovie (transnistria);7.56
+373215;moldova pridnestrovie (transnistria);7.56
+373216;moldova pridnestrovie (transnistria);7.56
+373219;moldova pridnestrovie (transnistria);7.56
+37322;moldova chisinau;11.2
+37323;moldova;11.2
+37324;moldova;11.2
+37325;moldova;11.2
+37326;moldova;11.2
+37327;moldova;11.2
+37329;moldova;11.2
+37330;moldova non geographical;10.08
+373533;moldova pridnestrovie (transnistria);7.56
+373552;moldova pridnestrovie (transnistria);7.56
+373555;moldova pridnestrovie (transnistria);7.56
+373557;moldova pridnestrovie (transnistria);7.56
+373562;moldova pridnestrovie (transnistria);7.56
+37360;moldova mobile orange;10.64
+37361;moldova mobile orange;10.64
+373671;moldova mobile moldtelecom cdma;10.08
+373672;moldova mobile moldtelecom cdma;10.08
+373673;moldova mobile moldtelecom cdma;10.08
+373674;moldova mobile moldtelecom cdma;10.08
+373675;moldova mobile moldtelecom cdma;10.08
+373676;moldova mobile moldtelecom cdma;10.08
+373677;moldova 2;10.08
+37368;moldova mobile orange;10.64
+37369;moldova mobile orange;10.64
+37376;moldova mobile moldcell;10.64
+37377;moldova pridnestrovie (transnistria) mobile;8.68
+37378;moldova mobile moldcell;10.64
+37379;moldova mobile moldcell;10.64
+374;armenia 2;6.72
+37410;armenia yerevan;6.72
+3744;armenia;8.4
+37443;armenia mobile armentel;8.4
+37447;armenia nagorniy karabakh;3.92
+3745;armenia;8.4
+37455;armenia mobile orange;8.12
+37460;armenia non geographical;7
+37477;armenia mobile k-telecom (vivacell);8.12
+3749;armenia;8.4
+37491;armenia mobile armentel;8.4
+37493;armenia mobile k-telecom (vivacell);8.12
+37494;armenia mobile k-telecom (vivacell);8.12
+37495;armenia mobile orange;8.12
+37496;armenia mobile armentel;8.4
+37497;armenia mobile nagorniy karabakh;5.6
+37498;armenia mobile k-telecom (vivacell);8.12
+37499;armenia mobile armentel;8.4
+375;belarus;12.32
+37525;belarus mobile best;12.04
+375255;belarus mobile best;12.04
+375256;belarus mobile best;12.04
+375257;belarus mobile best;12.04
+375259;belarus mobile best;12.04
+37529;belarus mobile;12.04
+375291;belarus mobile velcom;12.32
+375292;belarus mobile mts;12.04
+375293;belarus mobile velcom;12.32
+375295;belarus mobile mts;12.04
+375296;belarus mobile velcom;12.32
+375297;belarus mobile mts;12.04
+375298;belarus mobile mts;12.04
+375299;belarus mobile velcom;12.32
+37533;belarus mobile mts;12.04
+37544;belarus mobile velcom;12.32
+376;andorra;0.84
+3763;andorra mobile;5.04
+3764;andorra mobile;5.04
+3765;andorra mobile;5.04
+3766;andorra mobile;5.04
+377;monaco;2.8
+3774;monaco mobile 2;13.44
+3776;monaco mobile;10.64
+378;san marino;1.68
+3786;san marino mobile;13.44
+3787;san marino premium;46.76
+38031;ukraine zakarpattia oblast;0.54
+38032;ukraine lviv oblast;0.54
+38033;ukraine volyn oblast;0.54
+38034;ukraine ivano-frankivsk oblast;0.54
+38035;ukraine ternopil oblast;0.54
+38036;ukraine rivne oblast;0.54
+38037;ukraine chernivtsi oblast;0.54
+38038;ukraine khmelnytskyi oblast;0.54
+38041;ukraine zhytomyr oblast;0.54
+38043;ukraine vinnytsia oblast;0.54
+38044;ukraine kyiv;0.54
+38045;ukraine kyiv oblast;0.54
+38046;ukraine chernihiv oblast;0.54
+38047;ukraine cherkasy oblast;0.54
+38048;ukraine odesa oblast;0.54
+38050;ukraine mobile vodafone;0.9
+38051;ukraine mykolaiv oblast;0.54
+38052;ukraine kirovohrad oblast;0.54
+38053;ukraine poltava oblast;0.54
+38054;ukraine sumy oblast;0.54
+38055;ukraine kherson oblast;0.54
+38056;ukraine dnipropetrovsk oblast;0.54
+38057;ukraine kharkiv oblast;0.54
+38061;ukraine zaporizhzhia oblast;0.54
+38062;ukraine donetsk oblast;0.54
+38063;ukraine mobile lifecell;0.9
+38064;ukraine luhansk oblast;0.54
+38066;ukraine vodafone;0.9
+38067;ukraine mobile kyivstar;0.9
+38068;ukraine mobile kyivstar;0.9
+38073;ukraine mobile lifecell;0.9
+380891;ukraine datagroup;0.9
+380892;ukraine ukrtelecom;0.9
+380893;ukraine trcommunication;0.02
+380894;ukraine atlantis telecm;0.9
+380895;ukraine lincom-3000;0.9
+380897;ukraine kyivstar;0.9
+380899;ukraine velton telecom;0.9
+38091;ukraine mobile trymob;0.9
+38092;ukraine mobile telesystems of ukraine;0.9
+38093;ukraine mobile lifecell;0.9
+38094;ukraine mobile intertelecom;0.9
+38095;ukraine mobile vodafone;0.9
+38096;ukraine mobile kyivstar;0.9
+38097;ukraine mobile kyivstar;0.9
+38098;ukraine mobile kyivstar;0.9
+38099;ukraine mobile vodafone;0.9
+3811;serbia;14
+3811051;serbia orion;11.48
+38111410;serbia orion;11.48
+38111411;serbia orion;11.48
+38111412;serbia orion;11.48
+38111414;serbia orion;11.48
+3811341;serbia orion;11.48
+3811661;serbia orion;11.48
+3811739;serbia orion;11.48
+38118310;serbia orion;11.48
+3812;serbia;14
+3812061;serbia orion;11.48
+38121310;serbia 2;11.48
+3813;serbia;14
+3813161;serbia orion;11.48
+3813331;serbia orion;11.48
+381342100;serbia 2;11.48
+3813621;serbia orion;11.48
+38160;serbia mobile vip;13.16
+38161;serbia mobile vip;13.16
+38162;serbia mobile telenor;13.72
+38163;serbia mobile telenor;13.72
+38164;serbia mobile mts;13.16
+38165;serbia mobile mts;13.16
+38166;serbia mobile mts;13.16
+38168;serbia mobile vip;13.16
+38169;serbia mobile telenor;13.72
+382;montenegro 2;15.96
+38263;montenegro mobile promonte (telenor);15.4
+38267;montenegro mobile t-mobile;15.4
+38268;montenegro mobile mtel;15.12
+38269;montenegro mobile promonte (telenor);15.4
+38278;montenegro;6.44
+38288;montenegro;6.44
+385;croatia;14.84
+3859;croatia 2;16.24
+38591;croatia mobile vipnet;15.12
+38592;croatia mobile vipnet (tomato);15.12
+38595;croatia mobile tele2;15.68
+38598;croatia t-mobile;16.24
+38599;croatia t-mobile;16.24
+386;slovenia 2;12.32
+38612009;slovenia alternative networks;6.16
+38612926;slovenia alternative networks;6.16
+38612927;slovenia alternative networks;6.16
+3861320;slovenia alternative networks;6.16
+3861400;slovenia alternative networks;6.16
+3861401;slovenia alternative networks;6.16
+3861550;slovenia ljubljana;6.16
+38615550;slovenia alternative networks;6.16
+3861600;slovenia alternative networks;6.16
+3861601;slovenia alternative networks;6.16
+3861620;slovenia alternative networks;6.16
+3861777;slovenia alternative networks;6.16
+3861810;slovenia alternative networks;6.16
+3861828;slovenia ljubljana;6.16
+38618888;slovenia alternative networks;6.16
+38622926;slovenia alternative networks;6.16
+38622927;slovenia alternative networks;6.16
+3862334;slovenia;6.16
+38625552;slovenia alternative networks;6.16
+3862600;slovenia alternative networks;6.16
+3862620;slovenia alternative networks;6.16
+3862621;slovenia alternative networks;6.16
+3862707;slovenia alternative networks;6.16
+3862820;slovenia alternative networks;6.16
+3862828;slovenia;6.16
+38628884;slovenia alternative networks;6.16
+38630;slovenia mobile simobil;12.04
+38631;slovenia mobile mobitel;12.6
+38632926;slovenia alternative networks;6.16
+38632927;slovenia alternative networks;6.16
+38635550;slovenia alternative networks;6.16
+3863600;slovenia alternative networks;6.16
+3863620;slovenia alternative networks;6.16
+3863715;slovenia;6.16
+3863777;slovenia alternative networks;6.16
+3863828;slovenia;6.16
+3863830;slovenia alternative networks;6.16
+38638888;slovenia alternative networks;6.16
+38640;slovenia mobile simobil;12.04
+38641;slovenia mobile mobitel;12.6
+3864263;slovenia;6.16
+38642926;slovenia alternative networks;6.16
+38642927;slovenia alternative networks;6.16
+38645550;slovenia alternative networks;6.16
+3864600;slovenia alternative networks;6.16
+3864620;slovenia alternative networks;6.16
+3864777;slovenia alternative networks;6.16
+3864828;slovenia;6.16
+3864840;slovenia alternative networks;6.16
+38651;slovenia mobile mobitel;12.6
+38652926;slovenia alternative networks;6.16
+38652927;slovenia alternative networks;6.16
+38655550;slovenia alternative networks;6.16
+3865600;slovenia alternative networks;6.16
+3865620;slovenia alternative networks;6.16
+3865632;slovenia;6.16
+3865777;slovenia alternative networks;6.16
+3865828;slovenia;6.16
+3865850;slovenia alternative networks;6.16
+38658888;slovenia alternative networks;6.16
+386590;slovenia alternative networks;6.16
+386591;slovenia alternative networks;6.16
+3865920;slovenia alternative networks;6.16
+3865921;slovenia alternative networks;6.16
+3865922;slovenia alternative networks;6.16
+386593;slovenia alternative networks;6.16
+386594;slovenia alternative networks;6.16
+386595;slovenia alternative networks;6.16
+3865969;slovenia alternative networks;6.16
+386597;slovenia alternative networks;6.16
+38664;slovenia mobile t2;12.32
+38668;slovenia mobile simobil;12.04
+38670;slovenia mobile tusmobil;12.32
+38672926;slovenia alternative networks;6.16
+38672927;slovenia alternative networks;6.16
+3867310;slovenia;6.16
+38675550;slovenia alternative networks;6.16
+3867600;slovenia alternative networks;6.16
+3867620;slovenia alternative networks;6.16
+3867777;slovenia alternative networks;6.16
+3867828;slovenia;6.16
+3867870;slovenia alternative networks;6.16
+386815;slovenia;6.16
+3868160;slovenia alternative networks;6.16
+3868161;slovenia alternative networks;6.16
+3868162;slovenia alternative networks;6.16
+3868181;slovenia alternative networks;6.16
+3868227;slovenia alternative networks;6.16
+3868228;slovenia alternative networks;6.16
+3868280;slovenia alternative networks;6.16
+3868281;slovenia alternative networks;6.16
+3868282;slovenia alternative networks;6.16
+3868288;slovenia alternative networks;6.16
+386833;slovenia mobile simobil;12.04
+386838;slovenia alternative networks;6.16
+3869800;slovenia mobile mobitel;12.6
+3869801;slovenia mobile simobil;12.04
+3869802;slovenia mobile tusmobil;12.32
+3869803;slovenia mobile mobitel;12.6
+3869804;slovenia alternative networks;6.16
+3869805;slovenia alternative networks;6.16
+3869806;slovenia alternative networks;6.16
+3869807;slovenia mobile tusmobil;12.32
+3869808;slovenia;6.16
+3869810;slovenia alternative networks;6.16
+3869812;slovenia alternative networks;6.16
+3869813;slovenia alternative networks;6.16
+3869814;slovenia mobile t2;12.32
+3869815;slovenia alternative networks;6.16
+3869816;slovenia alternative networks;6.16
+3869817;slovenia mobile mobitel;12.6
+3869818;slovenia mobile simobil;12.04
+3869819;slovenia alternative networks;6.16
+3869820;slovenia alternative networks;6.16
+3869824;slovenia alternative networks;6.16
+3869826;slovenia alternative networks;6.16
+387;bosnia and herzegovina;6.44
+3876;bosnia and herzegovina 2;14.56
+389;macedonia 3;5.88
+3897;macedonia 2;13.44
+38970;macedonia mobile t-mobile;13.44
+38971;macedonia mobile t-mobile;13.44
+38972;macedonia mobile t-mobile;13.44
+38975;macedonia mobile cosmofon;13.44
+38976;macedonia mobile cosmofon;13.44
+38977;macedonia mobile vip;13.44
+38978;macedonia mobile vip;13.44
+389800;macedonia;15.68
+389888;macedonia mobile vip 2;15.68
+39;italy 6;0.84
+390;italy 2;0.56
+393;italy;11.2
+39310;italy 3;3.92
+39313;italy mobile rfi;3.92
+39319;italy 5;10.08
+39320;italy mobile wind;3.36
+39322;italy mobile wind;3.36
+39323;italy mobile wind;3.36
+39324;italy mobile wind;3.36
+39327;italy mobile wind;3.36
+39328;italy mobile wind;3.36
+39329;italy mobile wind;3.36
+39330;italy mobile tim;9.24
+39331;italy mobile tim;9.24
+39333;italy mobile tim;9.24
+39334;italy mobile tim;9.24
+39335;italy mobile tim;9.24
+39336;italy mobile tim;9.24
+39337;italy mobile tim;9.24
+39338;italy mobile tim;9.24
+39339;italy mobile tim;9.24
+3934;italy mobile vodafone;9.52
+39351;italy mobile lycamobile;3.64
+39360;italy mobile tim;9.24
+39361;italy mobile tim;9.24
+39362;italy mobile tim;9.24
+39363;italy mobile tim;9.24
+39366;italy mobile tim;9.24
+39368;italy mobile tim;9.24
+39370;italy mobile tim;9.24
+39373;italy mobile h3g;9.24
+393755;italy 4;9.24
+39377;italy mobile vodafone;9.52
+39380;italy mobile wind;3.36
+39382;italy mobile lycamobile;3.64
+39383;italy mobile vodafone;9.52
+39385;italy mobile tim;9.24
+39388;italy mobile wind;3.36
+39389;italy mobile wind;3.36
+39390;italy mobile h3g;9.24
+39391;italy mobile h3g;9.24
+39392;italy mobile h3g;9.24
+39393;italy mobile h3g;9.24
+39397;italy mobile h3g;9.24
+396;italy 2;0.56
+39741;italy;11.2
+40;romania;1.12
+4021;romania bucharest;0.56
+403;romania astrsl telecom;0.56
+4031100;romania astrsl telecom;0.56
+4031101;romania astrsl telecom;0.56
+4031102;romania astrsl telecom;0.56
+4031103;romania astrsl telecom;0.56
+4031104;romania astrsl telecom;0.56
+4031105;romania astrsl telecom;0.56
+403112;romania astrsl telecom 2;1.12
+4031579;romania astrsl telecom;0.56
+403181;romania astrsl telecom;0.56
+4033010;romania astrsl telecom;0.56
+4033012;romania astrsl telecom 2;1.12
+4033081;romania astrsl telecom;0.56
+4033110;romania astrsl telecom;0.56
+4033112;romania astrsl telecom 2;1.12
+4033181;romania astrsl telecom;0.56
+4033210;romania astrsl telecom;0.56
+4033212;romania astrsl telecom 2;1.12
+4033281;romania astrsl telecom;0.56
+4033310;romania astrsl telecom;0.56
+4033312;romania astrsl telecom 2;1.12
+4033381;romania astrsl telecom;0.56
+4033410;romania astrsl telecom;0.56
+4033412;romania astrsl telecom 2;1.12
+4033481;romania astrsl telecom;0.56
+4033510;romania astrsl telecom;0.56
+4033512;romania astrsl telecom 2;1.12
+4033581;romania astrsl telecom;0.56
+4033610;romania astrsl telecom;0.56
+4033612;romania astrsl telecom 2;1.12
+4033681;romania astrsl telecom;0.56
+4033710;romania astrsl telecom;0.56
+4033712;romania astrsl telecom 2;1.12
+4033781;romania astrsl telecom;0.56
+4033810;romania astrsl telecom;0.56
+4033812;romania astrsl telecom 2;1.12
+4033881;romania astrsl telecom;0.56
+4033910;romania astrsl telecom;0.56
+4033912;romania astrsl telecom 2;1.12
+4033981;romania astrsl telecom;0.56
+4034010;romania astrsl telecom;0.56
+4034012;romania astrsl telecom 2;1.12
+4034081;romania astrsl telecom;0.56
+4034110;romania astrsl telecom;0.56
+4034112;romania astrsl telecom 2;1.12
+4034181;romania astrsl telecom;0.56
+4034210;romania astrsl telecom;0.56
+4034212;romania astrsl telecom 2;1.12
+4034281;romania astrsl telecom;0.56
+4034310;romania astrsl telecom;0.56
+4034312;romania astrsl telecom 2;1.12
+4034381;romania astrsl telecom;0.56
+4034410;romania astrsl telecom;0.56
+4034412;romania astrsl telecom 2;1.12
+4034481;romania astrsl telecom;0.56
+4034510;romania astrsl telecom;0.56
+4034512;romania astrsl telecom 2;1.12
+4034581;romania astrsl telecom;0.56
+4034610;romania astrsl telecom;0.56
+4034612;romania astrsl telecom 2;1.12
+4034681;romania astrsl telecom;0.56
+4034710;romania astrsl telecom;0.56
+4034712;romania astrsl telecom 2;1.12
+4034781;romania astrsl telecom;0.56
+4034810;romania astrsl telecom;0.56
+4034812;romania astrsl telecom 2;1.12
+4034881;romania astrsl telecom;0.56
+4034910;romania astrsl telecom;0.56
+4034912;romania astrsl telecom 2;1.12
+4034981;romania astrsl telecom;0.56
+4035010;romania astrsl telecom;0.56
+4035012;romania astrsl telecom 2;1.12
+4035081;romania astrsl telecom;0.56
+4035110;romania astrsl telecom;0.56
+4035112;romania astrsl telecom 2;1.12
+4035181;romania astrsl telecom;0.56
+4035210;romania astrsl telecom;0.56
+4035212;romania astrsl telecom 2;1.12
+4035281;romania astrsl telecom;0.56
+4035310;romania astrsl telecom;0.56
+4035312;romania astrsl telecom 2;1.12
+4035381;romania astrsl telecom;0.56
+4035410;romania astrsl telecom;0.56
+4035412;romania astrsl telecom 2;1.12
+4035481;romania astrsl telecom;0.56
+4035510;romania astrsl telecom;0.56
+4035512;romania astrsl telecom 2;1.12
+4035581;romania astrsl telecom;0.56
+4035610;romania astrsl telecom;0.56
+4035611;romania astrsl telecom;0.56
+4035612;romania astrsl telecom 2;1.12
+4035681;romania astrsl telecom;0.56
+4035710;romania astrsl telecom;0.56
+4035712;romania astrsl telecom 2;1.12
+4035781;romania astrsl telecom;0.56
+4035810;romania astrsl telecom;0.56
+4035812;romania astrsl telecom 2;1.12
+4035881;romania astrsl telecom;0.56
+4035910;romania astrsl telecom;0.56
+4035912;romania astrsl telecom 2;1.12
+4035981;romania astrsl telecom;0.56
+4036010;romania astrsl telecom;0.56
+4036012;romania astrsl telecom 2;1.12
+4036081;romania astrsl telecom;0.56
+4036110;romania astrsl telecom;0.56
+4036112;romania astrsl telecom 2;1.12
+4036181;romania astrsl telecom;0.56
+4036210;romania astrsl telecom;0.56
+4036212;romania astrsl telecom 2;1.12
+4036281;romania astrsl telecom;0.56
+4036310;romania astrsl telecom;0.56
+4036312;romania astrsl telecom 2;1.12
+4036381;romania astrsl telecom;0.56
+4036410;romania astrsl telecom;0.56
+4036411;romania astrsl telecom;0.56
+4036412;romania astrsl telecom 2;1.12
+4036481;romania astrsl telecom;0.56
+4036510;romania astrsl telecom;0.56
+4036512;romania astrsl telecom 2;1.12
+4036581;romania astrsl telecom;0.56
+4036610;romania astrsl telecom;0.56
+4036612;romania astrsl telecom 2;1.12
+4036681;romania astrsl telecom;0.56
+4036710;romania astrsl telecom;0.56
+4036712;romania astrsl telecom 2;1.12
+4036781;romania astrsl telecom;0.56
+4036810;romania astrsl telecom;0.56
+4036812;romania astrsl telecom 2;1.12
+4036881;romania astrsl telecom;0.56
+4036910;romania astrsl telecom;0.56
+4036912;romania astrsl telecom 2;1.12
+4036981;romania astrsl telecom;0.56
+403710;romania astrsl telecom 2;1.12
+403711;romania astrsl telecom 2;1.12
+403712;romania astrsl telecom 2;1.12
+403713;romania astrsl telecom 2;1.12
+403714;romania astrsl telecom 2;1.12
+40372;romania astrsl telecom 2;1.12
+40374;romania astrsl telecom;0.56
+4037661;romania astrsl telecom;0.56
+4037662;romania astrsl telecom;0.56
+40700;romania;1.12
+40701;romania mobile lyca;1.12
+40711;romania;1.12
+4072;romania mobile vodafone;1.12
+4073;romania mobile vodafone;1.12
+4074;romania mobile orange;1.12
+4075;romania mobile orange;1.12
+4076;romania mobile cosmote;1.12
+4077;romania mobile digi;1.12
+4078;romania mobile telemobil;1.12
+40784;romania mobile cosmote;1.12
+40785;romania mobile cosmote;1.12
+40786;romania mobile cosmote;1.12
+40799;romania mobile vodafone;1.12
+41;switzerland 2;0.84
+4158;switzerland corporate 2;1.12
+4174;switzerland mobile paging;13.44
+4175;switzerland mobile 2;14.84
+4176;switzerland mobile sunrise 3;14.84
+41760;switzerland mobile sunrise;14.56
+41761;switzerland mobile sunrise;14.56
+41762;switzerland mobile sunrise;14.56
+41763;switzerland mobile sunrise;14.56
+41764;switzerland mobile sunrise;14.56
+41765;switzerland mobile sunrise;14.56
+41766;switzerland mobile sunrise;14.56
+41767;switzerland mobile sunrise;14.56
+41768;switzerland mobile sunrise;14.56
+417690;switzerland mobile sunrise;14.56
+417691;switzerland mobile sunrise;14.56
+417692;switzerland mobile sunrise;14.56
+417693;switzerland mobile sunrise;14.56
+417694;switzerland mobile sunrise;14.56
+417695;switzerland mobile sunrise;14.56
+417696;switzerland mobile sunrise;14.56
+417697;switzerland mobile sunrise;14.56
+4177;switzerland mobile 2;14.84
+41772;switzerland mobile sunrise;14.56
+417720;switzerland mobile sunrise;14.56
+417721;switzerland mobile sunrise;14.56
+417722;switzerland mobile sunrise;14.56
+417723;switzerland mobile sunrise;14.56
+417724;switzerland mobile sunrise;14.56
+417725;switzerland mobile sunrise;14.56
+417726;switzerland mobile sunrise;14.56
+417727;switzerland mobile sunrise;14.56
+417728;switzerland mobile sunrise;14.56
+417730;switzerland mobile;15.68
+417731;switzerland mobile sunrise 2;15.68
+4177357;switzerland mobile;15.68
+41774;switzerland mobile swisscom;14
+41775;switzerland mobile swisscom;14
+41779;switzerland mobile lycatel;4.48
+4178;switzerland mobile orange;14.84
+41790;switzerland mobile swisscom;14
+41791;switzerland mobile swisscom;14
+41792;switzerland mobile swisscom;14
+41793;switzerland mobile swisscom;14
+41794;switzerland mobile swisscom;14
+41795;switzerland mobile swisscom;14
+41796;switzerland mobile swisscom;14
+41797;switzerland mobile swisscom;14
+41798;switzerland mobile swisscom;14
+417990;switzerland mobile swisscom;14
+417991;switzerland mobile swisscom;14
+417992;switzerland mobile swisscom;14
+417993;switzerland mobile swisscom;14
+417994;switzerland mobile swisscom;14
+417995;switzerland mobile swisscom;14
+417996;switzerland mobile swisscom;14
+417997;switzerland mobile swisscom 2;14.84
+417998;switzerland mobile swisscom 2;14.84
+417999;switzerland mobile swisscom 2;14.84
+4184;switzerland corporate;14.84
+4186;switzerland mobile 2;14.84
+41860;switzerland mobile 3;15.12
+41860760;switzerland mobile sunrise;14.56
+41860761;switzerland mobile sunrise;14.56
+41860762;switzerland mobile sunrise;14.56
+41860763;switzerland mobile sunrise;14.56
+41860764;switzerland mobile sunrise;14.56
+41860765;switzerland mobile sunrise;14.56
+41860766;switzerland mobile sunrise;14.56
+41860767;switzerland mobile sunrise;14.56
+41860768;switzerland mobile sunrise;14.56
+418607690;switzerland mobile sunrise;14.56
+418607691;switzerland mobile sunrise;14.56
+418607692;switzerland mobile sunrise;14.56
+418607693;switzerland mobile sunrise;14.56
+418607694;switzerland mobile sunrise;14.56
+418607695;switzerland mobile sunrise;14.56
+418607696;switzerland mobile sunrise;14.56
+418607697;switzerland mobile sunrise;14.56
+41860772;switzerland mobile sunrise;14.56
+418607720;switzerland mobile sunrise;14.56
+418607721;switzerland mobile sunrise;14.56
+418607722;switzerland mobile sunrise;14.56
+418607723;switzerland mobile sunrise;14.56
+418607724;switzerland mobile sunrise;14.56
+418607725;switzerland mobile sunrise;14.56
+418607726;switzerland mobile sunrise;14.56
+418607727;switzerland mobile sunrise;14.56
+418607728;switzerland mobile sunrise;14.56
+418607730;switzerland mobile;15.68
+418607731;switzerland mobile sunrise 2;15.68
+4186077357;switzerland mobile;15.68
+41860774;switzerland mobile swisscom;14
+41860775;switzerland mobile swisscom;14
+41860779;switzerland mobile lycatel;4.48
+4186078;switzerland mobile orange;14.84
+41860790;switzerland mobile swisscom;14
+41860791;switzerland mobile swisscom;14
+41860792;switzerland mobile swisscom;14
+41860793;switzerland mobile swisscom;14
+41860794;switzerland mobile swisscom;14
+41860795;switzerland mobile swisscom;14
+41860796;switzerland mobile swisscom;14
+41860797;switzerland mobile swisscom;14
+41860798;switzerland mobile swisscom;14
+418607990;switzerland mobile swisscom;14
+418607991;switzerland mobile swisscom;14
+418607992;switzerland mobile swisscom;14
+418607993;switzerland mobile swisscom;14
+418607994;switzerland mobile swisscom;14
+418607995;switzerland mobile swisscom;14
+418607996;switzerland mobile swisscom;14
+4187;switzerland corporate;14.84
+4190;switzerland;1.12
+420;czech republic;3.36
+420601;czech republic mobile o2;3.08
+420602;czech republic mobile o2;3.08
+420603;czech republic mobile t-mobile;3.08
+420604;czech republic mobile t-mobile;3.08
+420605;czech republic mobile t-mobile;3.08
+420606;czech republic mobile o2;3.08
+420607;czech republic mobile o2;3.08
+420608;czech republic mobile vodafone;3.36
+420702;czech republic mobile o2;3.08
+420703;czech republic mobile other;3.08
+420705;czech republic mobile other;3.08
+42072;czech republic mobile o2;3.08
+42073;czech republic mobile t-mobile;3.08
+42077;czech republic mobile vodafone;3.36
+4207910;czech republic mobile travel;3.08
+42093;czech republic mobile t-mobile;3.08
+420962;czech republic mobile o2;3.08
+420963;czech republic mobile t-mobile;3.08
+420964;czech republic mobile t-mobile;3.08
+420965;czech republic mobile t-mobile;3.08
+420966;czech republic mobile o2;3.08
+420967;czech republic mobile vodafone;3.36
+421;slovakia 3;1.68
+42116;slovakia 2;1.4
+42118;slovakia 2;1.4
+42119;slovakia 2;1.4
+421238;slovakia bratislava;0.56
+421239;slovakia bratislava;0.56
+4213138;slovakia;0.56
+4213139;slovakia;0.56
+4213238;slovakia;0.56
+4213239;slovakia;0.56
+4213338;slovakia;0.56
+4213339;slovakia;0.56
+4213438;slovakia;0.56
+4213439;slovakia;0.56
+4213538;slovakia;0.56
+4213539;slovakia;0.56
+4213638;slovakia;0.56
+4213639;slovakia;0.56
+4213738;slovakia;0.56
+4213739;slovakia;0.56
+4213838;slovakia;0.56
+4213839;slovakia;0.56
+4214138;slovakia;0.56
+4214139;slovakia;0.56
+4214238;slovakia;0.56
+4214239;slovakia;0.56
+4214338;slovakia;0.56
+4214339;slovakia;0.56
+4214438;slovakia;0.56
+4214439;slovakia;0.56
+4214538;slovakia;0.56
+4214539;slovakia;0.56
+4214638;slovakia;0.56
+4214639;slovakia;0.56
+4214738;slovakia;0.56
+4214739;slovakia;0.56
+4214838;slovakia;0.56
+4214839;slovakia;0.56
+4215138;slovakia;0.56
+4215139;slovakia;0.56
+4215238;slovakia;0.56
+4215239;slovakia;0.56
+4215338;slovakia;0.56
+4215339;slovakia;0.56
+4215438;slovakia;0.56
+4215439;slovakia;0.56
+4215538;slovakia;0.56
+4215539;slovakia;0.56
+4215638;slovakia;0.56
+4215639;slovakia;0.56
+4215738;slovakia;0.56
+4215739;slovakia;0.56
+4215838;slovakia;0.56
+4215839;slovakia;0.56
+421601;slovakia 2;1.4
+421650;slovakia 2;1.4
+421651;slovakia 2;1.4
+421652;slovakia 2;1.4
+421653;slovakia 2;1.4
+421654;slovakia 2;1.4
+421690;slovakia 2;1.4
+421691;slovakia 2;1.4
+421692;slovakia 2;1.4
+421693;slovakia 2;1.4
+421694;slovakia 2;1.4
+421695;slovakia 2;1.4
+421696;slovakia 2;1.4
+421901;slovakia mobile t-mobile;1.96
+421902;slovakia mobile t-mobile;1.96
+421903;slovakia mobile t-mobile;1.96
+421904;slovakia mobile t-mobile;1.96
+421905;slovakia mobile orange;2.52
+421906;slovakia mobile orange;2.52
+421907;slovakia mobile orange;2.52
+421908;slovakia mobile orange;2.52
+421910;slovakia mobile t-mobile;1.96
+421911;slovakia mobile t-mobile;1.96
+421912;slovakia mobile t-mobile;1.96
+421914;slovakia mobile t-mobile;1.96
+421915;slovakia mobile orange;2.52
+421916;slovakia mobile orange;2.52
+421917;slovakia mobile orange;2.52
+421918;slovakia mobile orange;2.52
+421919;slovakia mobile orange;2.52
+421940;slovakia mobile o2;2.52
+421944;slovakia mobile o2;2.52
+421945;slovakia mobile orange;2.52
+421948;slovakia mobile o2;2.52
+421949;slovakia mobile o2;2.52
+42196;slovakia 2;1.4
+423;liechtenstein 2;2.8
+4236;liechtenstein mobile mobility;18.76
+42369;liechtenstein mobile;6.72
+4237;liechtenstein mobile;6.72
+4238;liechtenstein;18.76
+4239;liechtenstein;18.76
+43;austria 2;4.76
+43644;austria mobile mobilkom (a1);9.24
+4365;austria;9.24
+43650;austria mobile telering;9.24
+4366;austria;9.24
+43660;austria mobile hutchison 3g;9.24
+43664;austria mobile mobilkom (a1);9.24
+4367;austria;9.24
+43676;austria mobile t-mobile;9.24
+43677;austria mobile t-mobile;9.24
+4367833;austria mobile hutchison 3g;9.24
+4367890;austria mobile hutchison 3g;9.24
+4367891;austria mobile hutchison 3g;9.24
+4368;austria;9.24
+43680;austria mobile mobilkom (a1);9.24
+43681;austria mobile yess;9.24
+43688;austria mobile mobilkom (a1);9.24
+4368864;austria mobile mobilkom (a1);9.24
+4369;austria;9.24
+43699;austria mobile one;9.24
+43710;austria special services;12.88
+43711;austria special services;12.88
+43720;austria special services;12.88
+43730;austria special services;12.88
+43740;austria special services;12.88
+43780;austria special services;12.88
+43810;austria personal numbers;12.88
+44;united kingdom;0.56
+443;united kingdom wide;0.84
+4455;united kingdom special services;0.84
+4456;united kingdom special services;0.84
+447;united kingdom mobile 2;9.8
+4470;united kingdom mobile personal;9.52
+447106;united kingdom mobile o2;1.12
+447107;united kingdom mobile o2;1.12
+447340;united kingdom mobile vodafone;0.84
+447341;united kingdom mobile vodafone;0.84
+447342;united kingdom mobile vodafone;0.84
+447375;united kingdom mobile tmobile;0.84
+447376;united kingdom mobile tmobile;0.84
+447377;united kingdom mobile tmobile;0.84
+447391;united kingdom mobile vodafone;0.84
+447392;united kingdom mobile vodafone;0.84
+447393;united kingdom mobile vodafone;0.84
+447394;united kingdom mobile o2;1.12
+447395;united kingdom mobile o2;1.12
+447396;united kingdom mobile tmobile;0.84
+4473970;united kingdom mobile hutchison;1.12
+4473971;united kingdom mobile hutchison;1.12
+4473972;united kingdom mobile hutchison;1.12
+4473973;united kingdom mobile hutchison;1.12
+4473975;united kingdom mobile hutchison;1.12
+4473976;united kingdom mobile hutchison;1.12
+4473977;united kingdom mobile hutchison;1.12
+4473978;united kingdom mobile hutchison;1.12
+4473979;united kingdom mobile hutchison;1.12
+447398;united kingdom mobile tmobile;0.84
+447399;united kingdom mobile tmobile;0.84
+447400;united kingdom mobile hutchison;1.12
+447401;united kingdom mobile hutchison;1.12
+447402;united kingdom mobile hutchison;1.12
+447403;united kingdom mobile hutchison;1.12
+447404;united kingdom mobile lycamobile;2.24
+447405;united kingdom mobile lycamobile;2.24
+447407;united kingdom mobile vodafone;0.84
+447409;united kingdom mobile orange;0.84
+447410;united kingdom mobile orange;0.84
+447411;united kingdom mobile hutchison;1.12
+447412;united kingdom mobile hutchison;1.12
+447413;united kingdom mobile hutchison;1.12
+447414;united kingdom mobile hutchison;1.12
+447415;united kingdom mobile tmobile;0.84
+447416;united kingdom mobile orange;0.84
+4474170;united kingdom mobile hutchison;1.12
+4474173;united kingdom mobile lycamobile;2.24
+4474174;united kingdom mobile lycamobile;2.24
+4474175;united kingdom mobile lycamobile;2.24
+4474180;united kingdom mobile;1.12
+447419;united kingdom mobile orange;0.84
+447420;united kingdom mobile orange;0.84
+447421;united kingdom mobile orange;0.84
+447422;united kingdom mobile orange;0.84
+447423;united kingdom mobile vodafone;0.84
+447424;united kingdom mobile lycamobile;2.24
+447425;united kingdom mobile vodafone;0.84
+447426;united kingdom mobile hutchison;1.12
+447427;united kingdom mobile hutchison;1.12
+447428;united kingdom mobile hutchison;1.12
+447429;united kingdom mobile hutchison;1.12
+447430;united kingdom mobile o2;1.12
+447431;united kingdom mobile o2;1.12
+447432;united kingdom mobile tmobile;0.84
+447433;united kingdom mobile tmobile;0.84
+447434;united kingdom mobile tmobile;0.84
+447435;united kingdom mobile vodafone;0.84
+447436;united kingdom mobile vodafone;0.84
+447437;united kingdom mobile vodafone;0.84
+447438;united kingdom mobile lycamobile;2.24
+4474400;united kingdom mobile lycamobile;2.24
+4474401;united kingdom mobile lycamobile;2.24
+4474402;united kingdom mobile lycamobile;2.24
+4474403;united kingdom mobile lycamobile;2.24
+4474404;united kingdom mobile lycamobile;2.24
+4474405;united kingdom mobile lycamobile;2.24
+4474406;united kingdom mobile lycamobile;2.24
+4474407;united kingdom mobile lycamobile;2.24
+447442;united kingdom mobile vodafone;0.84
+447443;united kingdom mobile vodafone;0.84
+447444;united kingdom mobile vodafone;0.84
+447445;united kingdom mobile hutchison;1.12
+447446;united kingdom mobile hutchison;1.12
+447447;united kingdom mobile hutchison;1.12
+447448;united kingdom mobile lycamobile;2.24
+447449;united kingdom mobile hutchison;1.12
+447450;united kingdom mobile hutchison;1.12
+4474527;united kingdom mobile hutchison;1.12
+4474528;united kingdom mobile hutchison;1.12
+4474529;united kingdom mobile hutchison;1.12
+447453;united kingdom mobile hutchison;1.12
+447454;united kingdom mobile hutchison;1.12
+447455;united kingdom mobile hutchison;1.12
+447456;united kingdom mobile hutchison;1.12
+4474586;united kingdom mobile hutchison;1.12
+4474589;united kingdom mobile hutchison;1.12
+447459;united kingdom mobile lycamobile;2.24
+447460;united kingdom mobile hutchison;1.12
+447461;united kingdom mobile o2;1.12
+447462;united kingdom mobile hutchison;1.12
+447463;united kingdom mobile hutchison;1.12
+447464;united kingdom mobile vodafone;0.84
+4474652;united kingdom mobile hutchison;1.12
+4474654;united kingdom mobile hutchison;1.12
+4474656;united kingdom mobile hutchison;1.12
+4474657;united kingdom mobile hutchison;1.12
+4474658;united kingdom mobile hutchison;1.12
+4474659;united kingdom mobile hutchison;1.12
+447466;united kingdom mobile lycamobile;2.24
+447467;united kingdom mobile vodafone;0.84
+447468;united kingdom mobile vodafone;0.84
+447469;united kingdom mobile vodafone;0.84
+447470;united kingdom mobile vodafone;0.84
+447471;united kingdom mobile vodafone;0.84
+447472;united kingdom mobile hutchison;1.12
+447473;united kingdom mobile hutchison;1.12
+447474;united kingdom mobile hutchison;1.12
+447475;united kingdom mobile hutchison;1.12
+447476;united kingdom mobile hutchison;1.12
+447477;united kingdom mobile hutchison;1.12
+447478;united kingdom mobile hutchison;1.12
+447479;united kingdom mobile hutchison;1.12
+447480;united kingdom mobile hutchison;1.12
+447481;united kingdom mobile hutchison;1.12
+447482;united kingdom mobile hutchison;1.12
+447483;united kingdom mobile tmobile;0.84
+447484;united kingdom mobile tmobile;0.84
+447485;united kingdom mobile tmobile;0.84
+447486;united kingdom mobile tmobile;0.84
+447487;united kingdom mobile tmobile;0.84
+4474884;united kingdom mobile hutchison;1.12
+4474885;united kingdom mobile hutchison;1.12
+4474887;united kingdom mobile hutchison;1.12
+4474889;united kingdom mobile hutchison;1.12
+447489;united kingdom mobile o2;1.12
+447490;united kingdom mobile hutchison;1.12
+447491;united kingdom mobile hutchison;1.12
+447492;united kingdom mobile hutchison;1.12
+447493;united kingdom mobile vodafone;0.84
+447494;united kingdom mobile tmobile;0.84
+447495;united kingdom mobile tmobile;0.84
+447496;united kingdom mobile tmobile;0.84
+447497;united kingdom mobile tmobile;0.84
+447498;united kingdom mobile tmobile;0.84
+447499;united kingdom mobile o2;1.12
+447500;united kingdom mobile vodafone;0.84
+447501;united kingdom mobile vodafone;0.84
+447502;united kingdom mobile vodafone;0.84
+447503;united kingdom mobile vodafone;0.84
+447504;united kingdom mobile virgin;0.84
+447505;united kingdom mobile virgin;0.84
+447506;united kingdom mobile tmobile;0.84
+447507;united kingdom mobile tmobile;0.84
+447508;united kingdom mobile tmobile;0.84
+44751;united kingdom mobile o2;1.12
+447521;united kingdom mobile o2;1.12
+447522;united kingdom mobile o2;1.12
+447523;united kingdom mobile o2;1.12
+447525;united kingdom mobile o2;1.12
+447526;united kingdom mobile o2;1.12
+447527;united kingdom mobile orange;0.84
+447528;united kingdom mobile orange;0.84
+447529;united kingdom mobile orange;0.84
+447530;united kingdom mobile orange;0.84
+447531;united kingdom mobile orange;0.84
+4475320;united kingdom mobile orange;0.84
+4475321;united kingdom mobile orange;0.84
+4475322;united kingdom mobile orange;0.84
+4475323;united kingdom mobile orange;0.84
+4475324;united kingdom mobile orange;0.84
+4475326;united kingdom mobile hutchison;1.12
+4475327;united kingdom mobile hutchison;1.12
+4475328;united kingdom mobile hutchison;1.12
+447533;united kingdom mobile hutchison;1.12
+447534;united kingdom mobile tmobile;0.84
+447535;united kingdom mobile tmobile;0.84
+447536;united kingdom mobile orange;0.84
+4475374;united kingdom mobile vodafone;0.84
+4475378;united kingdom mobile hutchison;1.12
+4475379;united kingdom mobile hutchison;1.12
+447538;united kingdom mobile tmobile;0.84
+447539;united kingdom mobile tmobile;0.84
+44754;united kingdom mobile o2;1.12
+447550;united kingdom mobile tmobile;0.84
+447551;united kingdom mobile vodafone;0.84
+447552;united kingdom mobile vodafone;0.84
+447553;united kingdom mobile vodafone;0.84
+447554;united kingdom mobile vodafone;0.84
+447555;united kingdom mobile vodafone;0.84
+447556;united kingdom mobile orange;0.84
+447557;united kingdom mobile vodafone;0.84
+44756;united kingdom mobile o2;1.12
+447570;united kingdom mobile vodafone;0.84
+447572;united kingdom mobile tmobile;0.84
+447573;united kingdom mobile tmobile;0.84
+447574;united kingdom mobile tmobile;0.84
+447575;united kingdom mobile hutchison;1.12
+447576;united kingdom mobile hutchison;1.12
+447577;united kingdom mobile hutchison;1.12
+447578;united kingdom mobile hutchison;1.12
+447579;united kingdom mobile orange;0.84
+447580;united kingdom mobile orange;0.84
+447581;united kingdom mobile orange;0.84
+447582;united kingdom mobile orange;0.84
+447583;united kingdom mobile orange;0.84
+447584;united kingdom mobile vodafone;0.84
+447585;united kingdom mobile vodafone;0.84
+447586;united kingdom mobile vodafone;0.84
+447587;united kingdom mobile vodafone;0.84
+447588;united kingdom mobile hutchison;1.12
+44759;united kingdom mobile o2;1.12
+447701;united kingdom mobile o2;1.12
+447702;united kingdom mobile o2;1.12
+447703;united kingdom mobile o2;1.12
+447704;united kingdom mobile o2;1.12
+447705;united kingdom mobile o2;1.12
+447706;united kingdom mobile o2;1.12
+447707;united kingdom mobile o2;1.12
+447708;united kingdom mobile o2;1.12
+447709;united kingdom mobile o2;1.12
+447710;united kingdom mobile o2;1.12
+447711;united kingdom mobile o2;1.12
+447712;united kingdom mobile o2;1.12
+447713;united kingdom mobile o2;1.12
+447714;united kingdom mobile o2;1.12
+447715;united kingdom mobile o2;1.12
+447716;united kingdom mobile o2;1.12
+447717;united kingdom mobile vodafone;0.84
+447718;united kingdom mobile o2;1.12
+447719;united kingdom mobile o2;1.12
+447720;united kingdom mobile o2;1.12
+447721;united kingdom mobile vodafone;0.84
+447722;united kingdom mobile virgin;0.84
+447723;united kingdom mobile hutchison;1.12
+447724;united kingdom mobile o2;1.12
+447725;united kingdom mobile o2;1.12
+447726;united kingdom mobile tmobile;0.84
+447727;united kingdom mobile hutchison;1.12
+447728;united kingdom mobile hutchison;1.12
+447729;united kingdom mobile o2;1.12
+447730;united kingdom mobile o2;1.12
+447731;united kingdom mobile o2;1.12
+447732;united kingdom mobile o2;1.12
+447733;united kingdom mobile vodafone;0.84
+447734;united kingdom mobile o2;1.12
+447735;united kingdom mobile hutchison;1.12
+447736;united kingdom mobile o2;1.12
+447737;united kingdom mobile hutchison;1.12
+447738;united kingdom mobile o2;1.12
+447739;united kingdom mobile o2;1.12
+447740;united kingdom mobile o2;1.12
+447741;united kingdom mobile vodafone;0.84
+447742;united kingdom mobile o2;1.12
+447743;united kingdom mobile o2;1.12
+447745;united kingdom mobile o2;1.12
+447746;united kingdom mobile o2;1.12
+447747;united kingdom mobile vodafone;0.84
+447748;united kingdom mobile vodafone;0.84
+447749;united kingdom mobile o2;1.12
+447750;united kingdom mobile o2;1.12
+447751;united kingdom mobile o2;1.12
+447752;united kingdom mobile o2;1.12
+447753;united kingdom mobile o2;1.12
+447754;united kingdom mobile o2;1.12
+447756;united kingdom mobile o2;1.12
+447757;united kingdom mobile virgin;0.84
+447758;united kingdom mobile virgin;0.84
+447759;united kingdom mobile o2;1.12
+447760;united kingdom mobile vodafone;0.84
+447761;united kingdom mobile o2;1.12
+447762;united kingdom mobile o2;1.12
+447763;united kingdom mobile o2;1.12
+447764;united kingdom mobile o2;1.12
+447765;united kingdom mobile vodafone;0.84
+447766;united kingdom mobile vodafone;0.84
+447767;united kingdom mobile vodafone;0.84
+447768;united kingdom mobile vodafone;0.84
+447769;united kingdom mobile vodafone;0.84
+447770;united kingdom mobile vodafone;0.84
+447771;united kingdom mobile vodafone;0.84
+447772;united kingdom mobile orange;0.84
+447773;united kingdom mobile orange;0.84
+447774;united kingdom mobile vodafone;0.84
+447775;united kingdom mobile vodafone;0.84
+447776;united kingdom mobile vodafone;0.84
+447778;united kingdom mobile vodafone;0.84
+447779;united kingdom mobile orange;0.84
+447780;united kingdom mobile vodafone;0.84
+447782;united kingdom mobile hutchison;1.12
+447783;united kingdom mobile o2;1.12
+447784;united kingdom mobile o2;1.12
+447785;united kingdom mobile vodafone;0.84
+447786;united kingdom mobile vodafone;0.84
+447787;united kingdom mobile vodafone;0.84
+447788;united kingdom mobile vodafone;0.84
+447789;united kingdom mobile vodafone;0.84
+447790;united kingdom mobile orange;0.84
+447791;united kingdom mobile orange;0.84
+447792;united kingdom mobile orange;0.84
+447793;united kingdom mobile o2;1.12
+447794;united kingdom mobile orange;0.84
+447795;united kingdom mobile vodafone;0.84
+447796;united kingdom mobile vodafone;0.84
+447798;united kingdom mobile vodafone;0.84
+447799;united kingdom mobile vodafone;0.84
+447800;united kingdom mobile orange;0.84
+447801;united kingdom mobile o2;1.12
+447802;united kingdom mobile o2;1.12
+447803;united kingdom mobile o2;1.12
+447804;united kingdom mobile virgin;0.84
+447805;united kingdom mobile orange;0.84
+447806;united kingdom mobile virgin;0.84
+447807;united kingdom mobile orange;0.84
+447808;united kingdom mobile o2;1.12
+447809;united kingdom mobile o2;1.12
+447810;united kingdom mobile vodafone;0.84
+447811;united kingdom mobile orange;0.84
+447812;united kingdom mobile orange;0.84
+447813;united kingdom mobile orange;0.84
+447814;united kingdom mobile orange;0.84
+447815;united kingdom mobile orange;0.84
+447816;united kingdom mobile orange;0.84
+447817;united kingdom mobile orange;0.84
+447818;united kingdom mobile vodafone;0.84
+447819;united kingdom mobile o2;1.12
+447820;united kingdom mobile o2;1.12
+447821;united kingdom mobile o2;1.12
+447823;united kingdom mobile vodafone;0.84
+447824;united kingdom mobile vodafone;0.84
+447825;united kingdom mobile vodafone;0.84
+447826;united kingdom mobile vodafone;0.84
+447827;united kingdom mobile vodafone;0.84
+447828;united kingdom mobile hutchison;1.12
+447830;united kingdom mobile hutchison;1.12
+447831;united kingdom mobile vodafone;0.84
+447832;united kingdom mobile hutchison;1.12
+447833;united kingdom mobile vodafone;0.84
+447834;united kingdom mobile o2;1.12
+447835;united kingdom mobile o2;1.12
+447836;united kingdom mobile vodafone;0.84
+447837;united kingdom mobile orange;0.84
+447838;united kingdom mobile hutchison;1.12
+447840;united kingdom mobile tesco;1.12
+447841;united kingdom mobile o2;1.12
+447842;united kingdom mobile o2;1.12
+447843;united kingdom mobile o2;1.12
+447844;united kingdom mobile o2;1.12
+447845;united kingdom mobile o2;1.12
+447846;united kingdom mobile hutchison;1.12
+447847;united kingdom mobile virgin;0.84
+447848;united kingdom mobile hutchison;1.12
+447849;united kingdom mobile o2;1.12
+447850;united kingdom mobile o2;1.12
+447851;united kingdom mobile o2;1.12
+447852;united kingdom mobile tmobile;0.84
+447853;united kingdom mobile hutchison;1.12
+447854;united kingdom mobile orange;0.84
+447855;united kingdom mobile orange;0.84
+447856;united kingdom mobile o2;1.12
+447857;united kingdom mobile o2;1.12
+447858;united kingdom mobile o2;1.12
+447859;united kingdom mobile hutchison;1.12
+447860;united kingdom mobile o2;1.12
+447861;united kingdom mobile hutchison;1.12
+447862;united kingdom mobile hutchison;1.12
+447863;united kingdom mobile hutchison;1.12
+4478640;united kingdom mobile o2;1.12
+4478641;united kingdom mobile o2;1.12
+4478642;united kingdom mobile o2;1.12
+4478643;united kingdom mobile o2;1.12
+4478645;united kingdom mobile o2;1.12
+4478646;united kingdom mobile o2;1.12
+4478647;united kingdom mobile o2;1.12
+4478648;united kingdom mobile o2;1.12
+4478649;united kingdom mobile o2;1.12
+447865;united kingdom mobile hutchison;1.12
+447866;united kingdom mobile orange;0.84
+447867;united kingdom mobile vodafone;0.84
+447868;united kingdom mobile hutchison;1.12
+447869;united kingdom mobile hutchison;1.12
+447870;united kingdom mobile orange;0.84
+447871;united kingdom mobile o2;1.12
+4478720;united kingdom mobile o2;1.12
+4478721;united kingdom mobile o2;1.12
+4478723;united kingdom mobile o2;1.12
+4478724;united kingdom mobile o2;1.12
+4478725;united kingdom mobile o2;1.12
+4478726;united kingdom mobile o2;1.12
+4478728;united kingdom mobile o2;1.12
+4478729;united kingdom mobile o2;1.12
+4478731;united kingdom mobile o2;1.12
+4478732;united kingdom mobile o2;1.12
+4478733;united kingdom mobile o2;1.12
+4478734;united kingdom mobile o2;1.12
+4478735;united kingdom mobile o2;1.12
+4478736;united kingdom mobile o2;1.12
+4478737;united kingdom mobile o2;1.12
+4478738;united kingdom mobile o2;1.12
+4478739;united kingdom mobile o2;1.12
+4478740;united kingdom mobile o2;1.12
+4478741;united kingdom mobile o2;1.12
+4478742;united kingdom mobile o2;1.12
+4478743;united kingdom mobile o2;1.12
+4478746;united kingdom mobile o2;1.12
+4478747;united kingdom mobile o2;1.12
+4478748;united kingdom mobile o2;1.12
+4478749;united kingdom mobile o2;1.12
+447875;united kingdom mobile orange;0.84
+447876;united kingdom mobile vodafone;0.84
+447877;united kingdom mobile hutchison;1.12
+447878;united kingdom mobile hutchison;1.12
+447879;united kingdom mobile vodafone;0.84
+447880;united kingdom mobile vodafone;0.84
+447881;united kingdom mobile vodafone;0.84
+447882;united kingdom mobile hutchison;1.12
+447883;united kingdom mobile hutchison;1.12
+447884;united kingdom mobile vodafone;0.84
+447885;united kingdom mobile o2;1.12
+447886;united kingdom mobile hutchison;1.12
+447887;united kingdom mobile vodafone;0.84
+447888;united kingdom mobile hutchison;1.12
+447889;united kingdom mobile o2;1.12
+447890;united kingdom mobile orange;0.84
+447891;united kingdom mobile orange;0.84
+4478923;united kingdom mobile o2;1.12
+4478924;united kingdom mobile o2;1.12
+4478926;united kingdom mobile o2;1.12
+4478927;united kingdom mobile o2;1.12
+4478928;united kingdom mobile o2;1.12
+4478929;united kingdom mobile o2;1.12
+4478932;united kingdom mobile o2;1.12
+4478934;united kingdom mobile o2;1.12
+4478935;united kingdom mobile o2;1.12
+4478936;united kingdom mobile o2;1.12
+4478937;united kingdom mobile o2;1.12
+447894;united kingdom mobile o2;1.12
+447895;united kingdom mobile o2;1.12
+447896;united kingdom mobile orange;0.84
+447897;united kingdom mobile hutchison;1.12
+447898;united kingdom mobile hutchison;1.12
+447899;united kingdom mobile vodafone;0.84
+447900;united kingdom mobile vodafone;0.84
+447901;united kingdom mobile vodafone;0.84
+447902;united kingdom mobile tesco;1.12
+447903;united kingdom mobile tmobile;0.84
+447904;united kingdom mobile tmobile;0.84
+447905;united kingdom mobile virgin;0.84
+447906;united kingdom mobile virgin;0.84
+447907;united kingdom mobile o2;1.12
+447908;united kingdom mobile tmobile;0.84
+447909;united kingdom mobile vodafone;0.84
+447910;united kingdom mobile virgin;0.84
+447912;united kingdom mobile o2;1.12
+447913;united kingdom mobile virgin;0.84
+447914;united kingdom mobile virgin;0.84
+447915;united kingdom mobile hutchison;1.12
+447916;united kingdom mobile hutchison;1.12
+447917;united kingdom mobile vodafone;0.84
+447918;united kingdom mobile vodafone;0.84
+447919;united kingdom mobile vodafone;0.84
+447920;united kingdom mobile vodafone;0.84
+447921;united kingdom mobile o2;1.12
+447922;united kingdom mobile o2;1.12
+447923;united kingdom mobile tesco;1.12
+447925;united kingdom mobile tesco;1.12
+447926;united kingdom mobile o2;1.12
+447927;united kingdom mobile o2;1.12
+447928;united kingdom mobile o2;1.12
+447929;united kingdom mobile orange;0.84
+447930;united kingdom mobile tmobile;0.84
+447931;united kingdom mobile tmobile;0.84
+447932;united kingdom mobile fresh;0.84
+447933;united kingdom mobile o2;1.12
+447934;united kingdom mobile o2;1.12
+447935;united kingdom mobile o2;1.12
+447936;united kingdom mobile o2;1.12
+447938;united kingdom mobile o2;1.12
+447939;united kingdom mobile tmobile;0.84
+44794;united kingdom mobile tmobile;0.84
+447950;united kingdom mobile fresh;0.84
+447951;united kingdom mobile tmobile;0.84
+447952;united kingdom mobile virgin;0.84
+447953;united kingdom mobile tmobile;0.84
+447954;united kingdom mobile virgin;0.84
+447955;united kingdom mobile o2;1.12
+447956;united kingdom mobile tmobile;0.84
+447957;united kingdom mobile tmobile;0.84
+447958;united kingdom mobile tmobile;0.84
+447959;united kingdom mobile tmobile;0.84
+447960;united kingdom mobile tmobile;0.84
+447961;united kingdom mobile tmobile;0.84
+447962;united kingdom mobile easymobile;0.84
+447963;united kingdom mobile virgin;0.84
+447964;united kingdom mobile orange;0.84
+447965;united kingdom mobile orange;0.84
+447966;united kingdom mobile orange;0.84
+447967;united kingdom mobile orange;0.84
+447968;united kingdom mobile orange;0.84
+447969;united kingdom mobile orange;0.84
+447970;united kingdom mobile orange;0.84
+447971;united kingdom mobile orange;0.84
+447972;united kingdom mobile orange;0.84
+447973;united kingdom mobile orange;0.84
+447974;united kingdom mobile orange;0.84
+447975;united kingdom mobile orange;0.84
+447976;united kingdom mobile orange;0.84
+447977;united kingdom mobile orange;0.84
+447979;united kingdom mobile vodafone;0.84
+447980;united kingdom mobile orange;0.84
+447981;united kingdom mobile virgin;0.84
+447982;united kingdom mobile virgin;0.84
+447983;united kingdom mobile tmobile;0.84
+447984;united kingdom mobile tmobile;0.84
+447985;united kingdom mobile fresh;0.84
+447986;united kingdom mobile virgin;0.84
+447987;united kingdom mobile tmobile;0.84
+447988;united kingdom mobile hutchison;1.12
+447989;united kingdom mobile orange;0.84
+447990;united kingdom mobile vodafone;0.84
+447999;united kingdom mobile tesco;1.12
+448;united kingdom special services 2;8.96
+44843;united kingdom local calls;9.52
+44844;united kingdom local calls;9.52
+44845;united kingdom local calls;9.52
+44870;united kingdom national calls 2;7.84
+44870730;united kingdom national calls;0.56
+44870731;united kingdom national calls;0.56
+44870732;united kingdom national calls;0.56
+44870733;united kingdom national calls;0.56
+44870734;united kingdom national calls;0.56
+44870735;united kingdom national calls;0.56
+44870736;united kingdom national calls;0.56
+44870738;united kingdom national calls;0.56
+44870739;united kingdom national calls;0.56
+44871;united kingdom national calls 2;7.84
+44871227;united kingdom national calls;0.56
+448715;united kingdom national calls;0.56
+44872;united kingdom national calls 2;7.84
+44873;united kingdom national calls 2;7.84
+449;united kingdom premium 2;8.96
+44901;united kingdom premium;0.56
+44904;united kingdom premium;0.56
+44908;united kingdom premium;0.56
+45;denmark;0.84
+452;denmark mobile;0.84
+45201;denmark mobile tdc;0.84
+45202;denmark mobile tdc;0.84
+45203;denmark mobile tdc;0.84
+45204;denmark mobile tdc;0.84
+45205;denmark mobile tdc;0.84
+45206;denmark mobile telenor;0.84
+45207;denmark mobile telenor;0.84
+45208;denmark mobile telenor;0.84
+45209;denmark mobile telenor;0.84
+45211;denmark mobile tdc;0.84
+45212;denmark mobile tdc;0.84
+45213;denmark mobile tdc;0.84
+45214;denmark mobile tdc;0.84
+45215;denmark mobile tdc;0.84
+45216;denmark mobile tdc;0.84
+45217;denmark mobile tdc;0.84
+45218;denmark mobile tdc;0.84
+45219;denmark mobile tdc;0.84
+4522;denmark mobile telenor;0.84
+45231;denmark mobile tdc;0.84
+45232;denmark mobile tdc;0.84
+45233;denmark mobile tdc;0.84
+45234;denmark mobile tdc;0.84
+45235;denmark mobile tdc;0.84
+45236;denmark mobile tdc;0.84
+45237;denmark mobile tdc;0.84
+45238;denmark mobile tdc;0.84
+452390;denmark mobile tdc;0.84
+452391;denmark mobile tdc;0.84
+452392;denmark mobile tdc;0.84
+452393;denmark mobile tdc;0.84
+452394;denmark mobile tdc;0.84
+452395;denmark mobile telia;0.84
+452396;denmark mobile tdc;0.84
+452397;denmark mobile tdc;0.84
+452398;denmark mobile tdc;0.84
+452399;denmark mobile tdc;0.84
+45241;denmark mobile tdc;0.84
+45242;denmark mobile tdc;0.84
+45243;denmark mobile tdc;0.84
+45244;denmark mobile tdc;0.84
+45245;denmark mobile tdc;0.84
+45246;denmark mobile tdc;0.84
+45247;denmark mobile tdc;0.84
+45248;denmark mobile tdc;0.84
+45249;denmark mobile tdc;0.84
+4525;denmark mobile telenor;0.84
+452596;denmark mobile tdc;0.84
+4525988;denmark mobile tdc;0.84
+4526;denmark mobile telia;0.84
+4527;denmark mobile telia;0.84
+4528;denmark mobile telia;0.84
+45291;denmark mobile tdc;0.84
+45292;denmark mobile tdc;0.84
+45293;denmark mobile tdc;0.84
+45294;denmark mobile tdc;0.84
+45295;denmark mobile tdc;0.84
+45296;denmark mobile tdc;0.84
+45297;denmark mobile tdc;0.84
+45298;denmark mobile tdc;0.84
+45299;denmark mobile tdc;0.84
+4530;denmark mobile tdc;0.84
+45301;denmark mobile tdc;0.84
+45302;denmark mobile tdc;0.84
+45303;denmark mobile tdc;0.84
+45304;denmark mobile tdc;0.84
+45305;denmark mobile tdc;0.84
+45306;denmark mobile tdc;0.84
+45307;denmark mobile tdc;0.84
+45308;denmark mobile tdc;0.84
+45309;denmark mobile tdc;0.84
+4531;denmark mobile;0.84
+4531312;denmark mobile hi3g;0.84
+45318;denmark mobile telenor;0.84
+45319;denmark mobile telenor;0.84
+4532;denmark mobile;0.84
+45371000;denmark mobile telia;0.84
+4540;denmark mobile;0.84
+45401;denmark mobile tdc;0.84
+45402;denmark mobile tdc;0.84
+45403;denmark mobile tdc;0.84
+45404;denmark mobile tdc;0.84
+45405;denmark mobile telenor;0.84
+45406;denmark mobile telenor;0.84
+45407;denmark mobile telenor;0.84
+45408;denmark mobile telenor;0.84
+45409;denmark mobile telenor;0.84
+4541;denmark mobile;0.84
+4542;denmark mobile;0.84
+45420;denmark mobile telia;0.84
+45421;denmark mobile telia;0.84
+45422;denmark mobile telia;0.84
+45423;denmark mobile telia;0.84
+45424;denmark mobile telenor;0.84
+45425;denmark mobile telenor;0.84
+454260;denmark mobile telenor;0.84
+454261;denmark mobile hi3g;0.84
+454262;denmark mobile hi3g;0.84
+454263;denmark mobile hi3g;0.84
+454264;denmark mobile hi3g;0.84
+454265;denmark mobile hi3g;0.84
+454266;denmark mobile hi3g;0.84
+454267;denmark mobile hi3g;0.84
+454268;denmark mobile hi3g;0.84
+454269;denmark mobile hi3g;0.84
+454270;denmark mobile telenor;0.84
+454271;denmark mobile hi3g;0.84
+454272;denmark mobile hi3g;0.84
+454273;denmark mobile hi3g;0.84
+454274;denmark mobile hi3g;0.84
+454276;denmark mobile telia;0.84
+454277;denmark mobile telia;0.84
+454278;denmark mobile telia;0.84
+454279;denmark mobile telia;0.84
+454280;denmark mobile telenor;0.84
+454281;denmark mobile telenor;0.84
+454282;denmark mobile telia;0.84
+454284;denmark mobile telenor;0.84
+454286;denmark mobile telia;0.84
+454291;denmark mobile hi3g;0.84
+454292;denmark mobile hi3g;0.84
+454294;denmark mobile hi3g;0.84
+454295;denmark mobile hi3g;0.84
+454296;denmark mobile telia;0.84
+454297;denmark mobile telia;0.84
+454298;denmark mobile telia;0.84
+454299;denmark mobile telia;0.84
+4550;denmark mobile;0.84
+455060;denmark mobile tdc;0.84
+455061;denmark mobile tdc;0.84
+455063;denmark mobile;0.84
+455064;denmark mobile telenor;0.84
+455068;denmark mobile telenor;0.84
+455069;denmark mobile;0.84
+4551;denmark mobile;0.84
+45511;denmark mobile tdc;0.84
+45512;denmark mobile tdc;0.84
+45513;denmark mobile tdc;0.84
+45514;denmark mobile tdc;0.84
+45515;denmark mobile tdc;0.84
+45516;denmark mobile tdc;0.84
+45517;denmark mobile tdc;0.84
+455180;denmark mobile tdc;0.84
+455181;denmark mobile tdc;0.84
+455182;denmark mobile tdc;0.84
+455183;denmark mobile tdc;0.84
+455184;denmark mobile tdc;0.84
+455185;denmark mobile tdc;0.84
+455186;denmark mobile tdc;0.84
+455187;denmark mobile tdc;0.84
+455188;denmark mobile telia;0.84
+455189;denmark mobile telia;0.84
+45519;denmark mobile tdc;0.84
+4552;denmark mobile;0.84
+45521;denmark mobile;0.84
+45522;denmark mobile;0.84
+45523;denmark mobile;0.84
+45524;denmark mobile;0.84
+45525;denmark mobile telenor;0.84
+455250;denmark mobile tdc;0.84
+45526;denmark mobile telenor;0.84
+45527;denmark mobile telenor;0.84
+45528;denmark mobile telenor;0.84
+45529;denmark mobile telenor;0.84
+4553;denmark mobile;0.84
+45531;denmark mobile;0.84
+455319;denmark mobile telia;0.84
+45532;denmark mobile telia;0.84
+45533;denmark mobile;0.84
+45534;denmark mobile telia;0.84
+45535;denmark mobile hi3g;0.84
+45536;denmark mobile hi3g;0.84
+45537;denmark mobile hi3g;0.84
+45538;denmark mobile hi3g;0.84
+455390;denmark mobile telenor;0.84
+455391;denmark mobile telenor;0.84
+455392;denmark mobile telenor;0.84
+455393;denmark mobile telenor;0.84
+455394;denmark mobile telenor;0.84
+455395;denmark mobile telenor;0.84
+455396;denmark mobile telenor;0.84
+455397;denmark mobile telenor;0.84
+455399;denmark mobile telenor;0.84
+4560;denmark mobile;0.84
+45601;denmark mobile telia;0.84
+45602;denmark mobile telia;0.84
+45603;denmark mobile telia;0.84
+45604;denmark mobile telia;0.84
+456050;denmark mobile telenor;0.84
+456051;denmark mobile hi3g;0.84
+456052;denmark mobile hi3g;0.84
+456053;denmark mobile hi3g;0.84
+456054;denmark mobile hi3g;0.84
+456055;denmark mobile hi3g;0.84
+456056;denmark mobile hi3g;0.84
+456057;denmark mobile hi3g;0.84
+456058;denmark mobile hi3g;0.84
+456059;denmark mobile hi3g;0.84
+45606;denmark mobile telenor;0.84
+45607;denmark mobile telenor;0.84
+45608;denmark mobile telenor;0.84
+456090;denmark mobile telenor;0.84
+456091;denmark mobile telenor;0.84
+456092;denmark mobile telenor;0.84
+456093;denmark mobile telenor;0.84
+456094;denmark mobile telenor;0.84
+456095;denmark mobile telenor;0.84
+456096;denmark mobile telenor;0.84
+456097;denmark mobile telenor;0.84
+456099;denmark mobile tdc;0.84
+4561;denmark mobile;0.84
+45611;denmark mobile tdc;0.84
+45612;denmark mobile tdc;0.84
+45613;denmark mobile tdc;0.84
+456140;denmark mobile tdc;0.84
+456141;denmark mobile tdc;0.84
+456142;denmark mobile tdc;0.84
+456143;denmark mobile tdc;0.84
+456144;denmark mobile tdc;0.84
+456145;denmark mobile tdc;0.84
+456146;denmark mobile telia;0.84
+456147;denmark mobile tdc;0.84
+456148;denmark mobile tdc;0.84
+456149;denmark mobile tdc;0.84
+45615;denmark mobile tdc;0.84
+45616;denmark mobile tdc;0.84
+45617;denmark mobile tdc;0.84
+45618;denmark mobile telenor;0.84
+45619;denmark mobile telenor;0.84
+4571;denmark mobile;0.84
+45711;denmark mobile telenor;0.84
+45712;denmark mobile telenor;0.84
+45713;denmark mobile tdc;0.84
+45714;denmark mobile tdc;0.84
+45715;denmark mobile tdc;0.84
+45716;denmark mobile tdc;0.84
+457170;denmark mobile telenor;0.84
+457171;denmark mobile telenor;0.84
+457172;denmark mobile tdc;0.84
+457174;denmark mobile telenor;0.84
+457175;denmark mobile telenor;0.84
+457176;denmark mobile telenor;0.84
+457177;denmark mobile tdc;0.84
+457178;denmark mobile telenor;0.84
+457179;denmark mobile telenor;0.84
+45718;denmark mobile tdc;0.84
+457190;denmark mobile telenor;0.84
+457191;denmark mobile telenor;0.84
+457192;denmark mobile telenor;0.84
+457194;denmark mobile telenor;0.84
+457195;denmark mobile telenor;0.84
+457199;denmark mobile telenor;0.84
+4581;denmark mobile;0.84
+45811;denmark mobile telenor;0.84
+45812;denmark mobile telenor;0.84
+458130;denmark mobile telenor;0.84
+458131;denmark mobile telenor;0.84
+458132;denmark mobile telenor;0.84
+458133;denmark mobile telenor;0.84
+458134;denmark mobile telenor;0.84
+458135;denmark mobile telenor;0.84
+458136;denmark mobile telenor;0.84
+458140;denmark mobile tdc;0.84
+458141;denmark mobile tdc;0.84
+458142;denmark mobile tdc;0.84
+458143;denmark mobile tdc;0.84
+458144;denmark mobile tdc;0.84
+458145;denmark mobile tdc;0.84
+45815;denmark mobile telenor;0.84
+458160;denmark mobile telenor;0.84
+458162;denmark mobile telenor;0.84
+458163;denmark mobile telenor;0.84
+458164;denmark mobile telenor;0.84
+458165;denmark mobile telenor;0.84
+458180;denmark mobile telenor;0.84
+458181;denmark mobile telenor;0.84
+458182;denmark mobile telenor;0.84
+458190;denmark mobile telenor;0.84
+458191;denmark mobile telenor;0.84
+458192;denmark mobile telenor;0.84
+458193;denmark mobile telenor;0.84
+458194;denmark mobile telenor;0.84
+4591;denmark mobile;0.84
+459110;denmark mobile telenor;0.84
+459111;denmark mobile telenor;0.84
+459112;denmark mobile telenor;0.84
+459119;denmark mobile telenor;0.84
+45914;denmark mobile tdc;0.84
+459150;denmark mobile telenor;0.84
+459151;denmark mobile telenor;0.84
+45916;denmark mobile tdc;0.84
+45917;denmark mobile tdc;0.84
+459188;denmark mobile telenor;0.84
+459191;denmark mobile telenor;0.84
+459199;denmark mobile telenor;0.84
+4592;denmark mobile;0.84
+4593;denmark mobile;0.84
+46;sweden;0.84
+46252;sweden mobile tele2;0.84
+46254;sweden mobile tele2;0.84
+46376;sweden mobile telia;0.84
+46518;sweden mobile telia;0.84
+46519;sweden mobile telia;0.84
+46673;sweden mobile telia;0.84
+46674;sweden mobile telenor;0.84
+46675;sweden mobile hi3g;0.84
+46676;sweden mobile others;0.84
+4670;sweden mobile others;0.84
+46700;sweden mobile tele2;0.84
+467010;sweden mobile telia;0.84
+467011;sweden mobile telenor;0.84
+467012;sweden mobile telia;0.84
+467013;sweden mobile telia;0.84
+467014;sweden mobile telenor;0.84
+467015;sweden mobile tele2;0.84
+467016;sweden mobile tele2;0.84
+467017;sweden mobile telia;0.84
+467018;sweden mobile telia;0.84
+4670190;sweden mobile telia;0.84
+4670191;sweden mobile telia;0.84
+46701921;sweden mobile others;0.84
+46701922;sweden mobile others;0.84
+46701923;sweden mobile others;0.84
+46701924;sweden mobile others;0.84
+46701925;sweden mobile others;0.84
+46701926;sweden mobile others;0.84
+46701927;sweden mobile others;0.84
+46701928;sweden mobile others;0.84
+46701929;sweden mobile others;0.84
+4670193;sweden mobile telia;0.84
+4670196;sweden mobile others;0.84
+4670197;sweden mobile others;0.84
+4670198;sweden mobile telia;0.84
+4670199;sweden mobile others;0.84
+46702;sweden mobile telia;0.84
+46703;sweden mobile telia;0.84
+46704;sweden mobile tele2;0.84
+46705;sweden mobile telia;0.84
+46706;sweden mobile telia;0.84
+46707;sweden mobile tele2;0.84
+46708;sweden mobile telenor;0.84
+46709;sweden mobile telenor;0.84
+4671;sweden mobile others;0.84
+467190001;sweden mobile telenor;0.84
+467190002;sweden mobile telenor;0.84
+467190003;sweden mobile telenor;0.84
+467190004;sweden mobile telenor;0.84
+467190005;sweden mobile telenor;0.84
+467191010;sweden mobile telia;0.84
+4672;sweden mobile others;0.84
+467200;sweden mobile tele2;0.84
+467201;sweden mobile tele2;0.84
+467202;sweden mobile tele2;0.84
+467203;sweden mobile tele2;0.84
+467204;sweden mobile tele2;0.84
+46720502;sweden mobile telia;0.84
+46720503;sweden mobile telia;0.84
+46720504;sweden mobile telia;0.84
+46720505;sweden mobile telia;0.84
+46720506;sweden mobile telia;0.84
+46720509;sweden mobile telia;0.84
+4672055;sweden mobile telia;0.84
+4672056;sweden mobile telia;0.84
+4672059;sweden mobile telenor;0.84
+467206;sweden mobile telia;0.84
+467207;sweden mobile telia;0.84
+46720801;sweden mobile telia;0.84
+46720802;sweden mobile telia;0.84
+46720808;sweden mobile telia;0.84
+46720902;sweden mobile telia;0.84
+46720908;sweden mobile telia;0.84
+467210;sweden mobile telia;0.84
+467211;sweden mobile telia;0.84
+467212;sweden mobile telia;0.84
+467213;sweden mobile telia;0.84
+467215;sweden mobile telenor;0.84
+467216;sweden mobile telenor;0.84
+467217;sweden mobile telenor;0.84
+467218;sweden mobile telenor;0.84
+467219;sweden mobile telenor;0.84
+46722;sweden mobile tele2;0.84
+467220;sweden mobile telia;0.84
+467221;sweden mobile telia;0.84
+467222;sweden mobile telia;0.84
+467223;sweden mobile telia;0.84
+467224;sweden mobile telia;0.84
+467230;sweden mobile hi3g;0.84
+467231;sweden mobile hi3g;0.84
+467232;sweden mobile hi3g;0.84
+467233;sweden mobile hi3g;0.84
+46723401;sweden mobile telia;0.84
+46723404;sweden mobile telia;0.84
+46723405;sweden mobile telia;0.84
+46723406;sweden mobile telia;0.84
+46723407;sweden mobile telia;0.84
+4672341;sweden mobile telia;0.84
+467235;sweden mobile telenor;0.84
+467236;sweden mobile telenor;0.84
+467237;sweden mobile telenor;0.84
+467238;sweden mobile telenor;0.84
+467239;sweden mobile telenor;0.84
+46724000;sweden mobile telenor;0.84
+4672402;sweden mobile telia;0.84
+467245;sweden mobile telia;0.84
+467246;sweden mobile telia;0.84
+467247;sweden mobile telia;0.84
+467248;sweden mobile telia;0.84
+467249;sweden mobile telia;0.84
+46725;sweden mobile telia;0.84
+467270;sweden mobile telia;0.84
+467271;sweden mobile telia;0.84
+467272;sweden mobile telia;0.84
+467273;sweden mobile telia;0.84
+467274;sweden mobile telia;0.84
+467276;sweden mobile others;0.84
+467277;sweden mobile others;0.84
+467278;sweden mobile others;0.84
+467280;sweden mobile telia;0.84
+467289;sweden mobile telia;0.84
+467290;sweden mobile tele2;0.84
+467291;sweden mobile tele2;0.84
+467292;sweden mobile tele2;0.84
+467293;sweden mobile tele2;0.84
+467294;sweden mobile tele2;0.84
+4673;sweden mobile others;0.84
+46730;sweden mobile telia;0.84
+467310;sweden mobile telenor;0.84
+467311;sweden mobile telia;0.84
+46731211;sweden mobile telia;0.84
+46731212;sweden mobile telia;0.84
+4673125;sweden mobile telenor;0.84
+4673128;sweden mobile telenor;0.84
+467314;sweden mobile telenor;0.84
+467315;sweden mobile telenor;0.84
+467316;sweden mobile telia;0.84
+4673171;sweden mobile tele2;0.84
+4673173;sweden mobile telia;0.84
+4673174;sweden mobile telia;0.84
+4673175;sweden mobile telia;0.84
+467318;sweden mobile telia;0.84
+467320;sweden mobile telenor;0.84
+467321;sweden mobile tele2;0.84
+467322;sweden mobile tele2;0.84
+467323;sweden mobile telenor;0.84
+467324;sweden mobile telenor;0.84
+467325;sweden mobile telenor;0.84
+467326;sweden mobile telenor;0.84
+467327;sweden mobile telia;0.84
+467328;sweden mobile telenor;0.84
+467329;sweden mobile telia;0.84
+46733;sweden mobile telenor;0.84
+467340;sweden mobile telenor;0.84
+467341;sweden mobile telenor;0.84
+467342;sweden mobile telenor;0.84
+467343;sweden mobile telenor;0.84
+467344;sweden mobile telenor;0.84
+4673456;sweden mobile telia;0.84
+4673457;sweden mobile telenor;0.84
+4673458;sweden mobile telenor;0.84
+46734602;sweden mobile tele2;0.84
+46734603;sweden mobile tele2;0.84
+46734604;sweden mobile tele2;0.84
+46734605;sweden mobile tele2;0.84
+46734606;sweden mobile tele2;0.84
+46734607;sweden mobile tele2;0.84
+46734608;sweden mobile tele2;0.84
+46734609;sweden mobile tele2;0.84
+4673461;sweden mobile tele2;0.84
+4673462;sweden mobile telenor;0.84
+4673463;sweden mobile telenor;0.84
+4673464;sweden mobile telenor;0.84
+4673465;sweden mobile telenor;0.84
+4673466;sweden mobile telenor;0.84
+4673467;sweden mobile telenor;0.84
+4673468;sweden mobile telenor;0.84
+4673469;sweden mobile telenor;0.84
+4673475;sweden mobile telenor;0.84
+4673476;sweden mobile telenor;0.84
+4673477;sweden mobile telenor;0.84
+4673478;sweden mobile telenor;0.84
+4673479;sweden mobile telenor;0.84
+467348;sweden mobile telenor;0.84
+467349;sweden mobile telenor;0.84
+467350;sweden mobile hi3g;0.84
+467351;sweden mobile hi3g;0.84
+467352;sweden mobile hi3g;0.84
+467353;sweden mobile hi3g;0.84
+467354;sweden mobile hi3g;0.84
+467355;sweden mobile tele2;0.84
+467356;sweden mobile tele2;0.84
+467357;sweden mobile tele2;0.84
+467358;sweden mobile tele2;0.84
+467359;sweden mobile tele2;0.84
+46736;sweden mobile tele2;0.84
+46737;sweden mobile tele2;0.84
+467380;sweden mobile telia;0.84
+467381;sweden mobile telia;0.84
+467382;sweden mobile telia;0.84
+467383;sweden mobile telia;0.84
+467384;sweden mobile telia;0.84
+467385;sweden mobile telenor;0.84
+467386;sweden mobile telenor;0.84
+46738641;sweden mobile telia;0.84
+467387;sweden mobile tele2;0.84
+467388;sweden mobile telenor;0.84
+467389;sweden mobile tele2;0.84
+46739;sweden mobile tele2;0.84
+4674;sweden paging;0.56
+4676;sweden mobile others;0.84
+46760;sweden mobile tele2;0.84
+467600;sweden mobile hi3g;0.84
+467601;sweden mobile hi3g;0.84
+467602;sweden mobile hi3g;0.84
+467603;sweden mobile hi3g;0.84
+467604;sweden mobile hi3g;0.84
+467610;sweden mobile telia;0.84
+467611;sweden mobile telia;0.84
+467612;sweden mobile telia;0.84
+467613;sweden mobile telia;0.84
+467614;sweden mobile telia;0.84
+467615;sweden mobile telenor;0.84
+467616;sweden mobile hi3g;0.84
+467617;sweden mobile hi3g;0.84
+467618;sweden mobile hi3g;0.84
+467619;sweden mobile hi3g;0.84
+46762;sweden mobile tele2;0.84
+46763;sweden mobile others;0.84
+467635;sweden mobile telenor;0.84
+467636;sweden mobile telenor;0.84
+467637;sweden mobile telenor;0.84
+467640;sweden mobile tele2;0.84
+467641;sweden mobile tele2;0.84
+467642;sweden mobile tele2;0.84
+467643;sweden mobile others;0.84
+467644;sweden mobile others;0.84
+467645;sweden mobile others;0.84
+4676460;sweden mobile others;0.84
+4676461;sweden mobile others;0.84
+4676462;sweden mobile others;0.84
+4676463;sweden mobile others;0.84
+4676464;sweden mobile others;0.84
+4676470;sweden mobile tele2;0.84
+4676471;sweden mobile tele2;0.84
+4676472;sweden mobile tele2;0.84
+4676473;sweden mobile tele2;0.84
+4676474;sweden mobile tele2;0.84
+4676475;sweden mobile tele2;0.84
+4676476;sweden mobile tele2;0.84
+4676477;sweden mobile tele2;0.84
+467655;sweden mobile tele2;0.84
+467656;sweden mobile tele2;0.84
+467657;sweden mobile tele2;0.84
+467658;sweden mobile tele2;0.84
+467659;sweden mobile tele2;0.84
+467660;sweden mobile telenor;0.84
+467661;sweden mobile telenor;0.84
+467662;sweden mobile telenor;0.84
+467663;sweden mobile telenor;0.84
+467664;sweden mobile telenor;0.84
+467665;sweden mobile tele2;0.84
+4676667;sweden mobile tele2;0.84
+4676668;sweden mobile telenor;0.84
+4676670;sweden mobile telia;0.84
+4676671;sweden mobile telia;0.84
+4676672;sweden mobile telia;0.84
+4676673;sweden mobile telia;0.84
+4676674;sweden mobile telia;0.84
+4676676;sweden mobile telia;0.84
+4676677;sweden mobile telia;0.84
+467668;sweden mobile tele2;0.84
+4676695;sweden mobile tele2;0.84
+4676696;sweden mobile tele2;0.84
+4676697;sweden mobile tele2;0.84
+4676698;sweden mobile tele2;0.84
+4676699;sweden mobile tele2;0.84
+467670;sweden mobile tele2;0.84
+467671;sweden mobile tele2;0.84
+4676720;sweden mobile tele2;0.84
+4676721;sweden mobile tele2;0.84
+4676722;sweden mobile tele2;0.84
+4676723;sweden mobile tele2;0.84
+4676724;sweden mobile tele2;0.84
+4676725;sweden mobile tele2;0.84
+467672673;sweden mobile tele2;0.84
+4676727;sweden mobile telenor;0.84
+467673;sweden mobile telia;0.84
+467674;sweden mobile others;0.84
+467675;sweden mobile others;0.84
+467676;sweden mobile telia;0.84
+467677;sweden mobile telia;0.84
+467678;sweden mobile telia;0.84
+467679;sweden mobile telia;0.84
+467680;sweden mobile telia;0.84
+467681;sweden mobile telia;0.84
+467682;sweden mobile telia;0.84
+467683;sweden mobile telia;0.84
+467684;sweden mobile telia;0.84
+467685;sweden mobile telenor;0.84
+467686;sweden mobile telenor;0.84
+467687;sweden mobile telenor;0.84
+467688;sweden mobile telenor;0.84
+467689;sweden mobile telenor;0.84
+467690;sweden mobile tele2;0.84
+467691;sweden mobile tele2;0.84
+467692;sweden mobile tele2;0.84
+467693;sweden mobile tele2;0.84
+467694;sweden mobile tele2;0.84
+467695;sweden mobile others;0.84
+467696;sweden mobile others;0.84
+467697;sweden mobile others;0.84
+4702;norway mobile others 2;6.72
+4703;norway mobile others 2;6.72
+4704;norway mobile others 2;6.72
+4705;norway mobile others 2;6.72
+4706;norway mobile others 2;6.72
+4707;norway mobile others 2;6.72
+4708;norway mobile others 2;6.72
+4709;norway mobile others 2;6.72
+471;norway mobile others 2;6.72
+472;norway oslo;0.84
+473;norway;0.84
+474;norway 2;1.12
+474000;norway mobile netcom;1.12
+474001;norway mobile netcom;1.12
+474004;norway mobile telenor;1.12
+474005;norway mobile telenor;1.12
+474006;norway mobile telenor;1.12
+474007;norway mobile telenor;1.12
+474008;norway mobile telenor;1.12
+474009;norway mobile telenor;1.12
+474010;norway mobile netcom;1.12
+474011;norway mobile netcom;1.12
+474012;norway mobile others;1.12
+474013;norway mobile others;1.12
+474014;norway mobile netcom;1.12
+474015;norway mobile telenor;1.12
+474016;norway mobile telenor;1.12
+474017;norway mobile telenor;1.12
+474018;norway mobile telenor;1.12
+474019;norway mobile telenor;1.12
+47402;norway mobile netcom;1.12
+47403;norway mobile netcom;1.12
+474040;norway mobile others;1.12
+474045;norway mobile netcom;1.12
+474046;norway mobile netcom;1.12
+474047;norway mobile netcom;1.12
+474048;norway mobile netcom;1.12
+474049;norway mobile netcom;1.12
+474050;norway mobile netcom;1.12
+474055;norway mobile netcom;1.12
+474060;norway mobile netcom;1.12
+474061;norway mobile netcom;1.12
+474062;norway mobile netcom;1.12
+474063;norway mobile netcom;1.12
+474064;norway mobile netcom;1.12
+474067;norway mobile others;1.12
+47407;norway mobile netcom;1.12
+474084;norway mobile telenor;1.12
+474085;norway mobile telenor;1.12
+474086;norway mobile telenor;1.12
+474087;norway mobile telenor;1.12
+474088;norway mobile telenor;1.12
+474089;norway mobile telenor;1.12
+474094;norway mobile others;1.12
+474095;norway mobile others;1.12
+474096;norway mobile others;1.12
+474097;norway mobile others;1.12
+474098;norway mobile others;1.12
+474099;norway mobile others;1.12
+474100;norway mobile netcom;1.12
+474101;norway mobile netcom;1.12
+474106;norway mobile netcom;1.12
+474107;norway mobile netcom;1.12
+474117;norway mobile netcom;1.12
+474118;norway mobile netcom;1.12
+474119;norway mobile netcom;1.12
+47412;norway mobile tele2;1.12
+47413;norway mobile tele2;1.12
+47414;norway mobile telenor;1.12
+47415;norway mobile telenor;1.12
+47416;norway mobile telenor;1.12
+47417;norway mobile telenor;1.12
+474184;norway mobile telenor;1.12
+474185;norway mobile telenor;1.12
+47450;norway mobile netcom;1.12
+47451;norway mobile netcom;1.12
+47452;norway mobile netcom;1.12
+474539;norway mobile netcom;1.12
+47454;norway mobile netcom;1.12
+474550;norway mobile netcom;1.12
+474551;norway mobile netcom;1.12
+474552;norway mobile others;1.12
+474553;norway mobile others;1.12
+474554;norway mobile others;1.12
+474555;norway mobile others;1.12
+474556;norway mobile others;1.12
+474557;norway mobile others;1.12
+474558;norway mobile others;1.12
+474559;norway mobile netcom;1.12
+474566;norway mobile netcom;1.12
+474567;norway mobile netcom;1.12
+474568;norway mobile netcom;1.12
+474569;norway mobile netcom;1.12
+474576;norway mobile netcom;1.12
+474577;norway mobile netcom;1.12
+474578;norway mobile netcom;1.12
+474579;norway mobile netcom;1.12
+474580;norway mobile telenor;1.12
+474581;norway mobile telenor;1.12
+474582;norway mobile telenor;1.12
+474583;norway mobile netcom;1.12
+474584;norway mobile netcom;1.12
+474585;norway mobile telenor;1.12
+474586;norway mobile netcom;1.12
+474588;norway mobile telenor;1.12
+474589;norway mobile telenor;1.12
+474591;norway mobile others;1.12
+474592;norway mobile others;1.12
+474593;norway mobile netcom;1.12
+474594;norway mobile netcom;1.12
+47460;norway mobile others;1.12
+474617;norway mobile telenor;1.12
+474618;norway mobile telenor;1.12
+474619;norway mobile telenor;1.12
+474628;norway mobile telenor;1.12
+474629;norway mobile telenor;1.12
+474630;norway mobile netcom;1.12
+474631;norway mobile netcom;1.12
+474632;norway mobile netcom;1.12
+474633;norway mobile netcom;1.12
+47464;norway mobile netcom;1.12
+474650;norway mobile netcom;1.12
+474654;norway mobile netcom;1.12
+474660;norway mobile netcom;1.12
+474661;norway mobile netcom;1.12
+474662;norway mobile netcom;1.12
+474663;norway mobile netcom;1.12
+474666;norway mobile telenor;1.12
+474667;norway mobile telenor;1.12
+474670;norway mobile netcom;1.12
+474671;norway mobile others;1.12
+474672;norway mobile others;1.12
+474673;norway mobile netcom;1.12
+474674;norway mobile netcom;1.12
+474675;norway mobile netcom;1.12
+47468;norway mobile telenor;1.12
+474690;norway mobile telenor;1.12
+474691;norway mobile telenor;1.12
+474692;norway mobile telenor;1.12
+474693;norway mobile telenor;1.12
+474694;norway mobile telenor;1.12
+474695;norway mobile telenor;1.12
+474696;norway mobile telenor;1.12
+474714;norway mobile netcom;1.12
+474715;norway mobile netcom;1.12
+474716;norway mobile netcom;1.12
+474717;norway mobile netcom;1.12
+47472;norway 2;1.12
+47473;norway mobile tele2;1.12
+474744;norway mobile netcom;1.12
+474750;norway mobile telenor;1.12
+474751;norway mobile telenor;1.12
+474754;norway mobile netcom;1.12
+474757;norway mobile netcom;1.12
+474758;norway mobile netcom;1.12
+474759;norway mobile netcom;1.12
+47476;norway mobile telenor;1.12
+474770;norway mobile telenor;1.12
+474771;norway mobile telenor;1.12
+474775;norway mobile telenor;1.12
+474776;norway mobile telenor;1.12
+474778;norway mobile telenor;1.12
+47478;norway mobile telenor;1.12
+474790;norway mobile telenor;1.12
+474798;norway mobile telenor;1.12
+474799;norway mobile telenor;1.12
+47480;norway mobile telenor;1.12
+47481;norway mobile telenor;1.12
+47482;norway mobile telenor;1.12
+474830;norway mobile telenor;1.12
+474833;norway mobile netcom;1.12
+474834;norway mobile netcom;1.12
+474837;norway mobile netcom;1.12
+474840;norway mobile netcom;1.12
+474842;norway mobile telenor;1.12
+474850;norway mobile netcom;1.12
+474893;norway mobile netcom;1.12
+475;norway;0.84
+4758;norway mobile others;1.12
+475800010;norway mobile others;1.12
+475800040;norway mobile netcom;1.12
+475800060;norway mobile netcom;1.12
+475800070;norway mobile netcom;1.12
+475800071;norway mobile netcom;1.12
+475800072;norway mobile netcom;1.12
+475800073;norway mobile netcom;1.12
+475800074;norway mobile netcom;1.12
+475800075;norway mobile netcom;1.12
+475800089;norway mobile others;1.12
+47580009;norway mobile netcom;1.12
+475800120;norway mobile telenor;1.12
+4759;norway 2;1.12
+47591;norway mobile telenor;1.12
+47592;norway mobile telenor;1.12
+475931;norway mobile netcom;1.12
+475932;norway mobile netcom;1.12
+47595;norway mobile telenor;1.12
+47598;norway mobile netcom;1.12
+476;norway;0.84
+477;norway;0.84
+478;norway;0.84
+47810;norway premium;6.72
+47811;norway mobile others 2;6.72
+47812;norway mobile others 2;6.72
+47813;norway mobile others 2;6.72
+47814;norway 3;6.72
+47815;norway premium;6.72
+4785;norway mobile others 2;6.72
+47880;norway mobile others 2;6.72
+479;norway 2;1.12
+47900;norway mobile telenor;1.12
+47901;norway mobile telenor;1.12
+47902;norway mobile telenor;1.12
+479036;norway mobile telenor;1.12
+479040;norway mobile telenor;1.12
+479041;norway mobile telenor;1.12
+479047;norway mobile telenor;1.12
+47905;norway mobile telenor;1.12
+47906;norway mobile telenor;1.12
+47907;norway mobile telenor;1.12
+47908;norway mobile telenor;1.12
+47909;norway mobile telenor;1.12
+479100;norway mobile telenor;1.12
+47911;norway mobile telenor;1.12
+479124;norway mobile telenor;1.12
+479125;norway mobile others;1.12
+479126;norway mobile others;1.12
+479127;norway mobile others;1.12
+479128;norway mobile others;1.12
+479129;norway mobile others;1.12
+47913;norway mobile telenor;1.12
+47915;norway mobile telenor;1.12
+47916;norway mobile telenor;1.12
+47917;norway mobile telenor;1.12
+47918;norway mobile telenor;1.12
+479191;norway mobile telenor;1.12
+479199;norway mobile telenor;1.12
+47920;norway mobile netcom;1.12
+479210;norway mobile netcom;1.12
+479217;norway mobile netcom;1.12
+47922;norway mobile netcom;1.12
+479237;norway mobile netcom;1.12
+47924;norway mobile netcom;1.12
+479257;norway mobile netcom;1.12
+47926;norway mobile netcom;1.12
+479277;norway mobile netcom;1.12
+47928;norway mobile netcom;1.12
+479297;norway mobile netcom;1.12
+47930;norway mobile netcom;1.12
+479317;norway mobile netcom;1.12
+47932;norway mobile netcom;1.12
+479337;norway mobile netcom;1.12
+47934;norway mobile netcom;1.12
+479357;norway mobile netcom;1.12
+47936;norway mobile netcom;1.12
+479377;norway mobile netcom;1.12
+47938;norway mobile netcom;1.12
+479391;norway mobile netcom;1.12
+479400;norway mobile telenor;1.12
+479401;norway mobile telenor;1.12
+479403;norway mobile telenor;1.12
+479405;norway mobile telenor;1.12
+479410;norway mobile netcom;1.12
+479411;norway mobile netcom;1.12
+479412;norway mobile netcom;1.12
+479413;norway mobile telenor;1.12
+479414;norway mobile telenor;1.12
+479415;norway mobile telenor;1.12
+479416;norway mobile telenor;1.12
+479417;norway mobile telenor;1.12
+479418;norway mobile telenor;1.12
+479419;norway mobile telenor;1.12
+47942;norway mobile netcom;1.12
+479442;norway mobile netcom;1.12
+479443;norway mobile netcom;1.12
+479447;norway mobile netcom;1.12
+479448;norway mobile netcom;1.12
+479449;norway mobile netcom;1.12
+479471;norway mobile others;1.12
+479472;norway mobile others;1.12
+479473;norway mobile others;1.12
+479474;norway mobile telenor;1.12
+479475;norway mobile telenor;1.12
+479476;norway mobile telenor;1.12
+479477;norway mobile telenor;1.12
+479478;norway mobile telenor;1.12
+479479;norway mobile telenor;1.12
+47948;norway mobile telenor;1.12
+479490;norway mobile telenor;1.12
+479497;norway mobile telenor;1.12
+479498;norway mobile telenor;1.12
+47950;norway mobile telenor;1.12
+47951;norway mobile telenor;1.12
+47952;norway mobile telenor;1.12
+479530;norway mobile telenor;1.12
+479533;norway mobile telenor;1.12
+479536;norway mobile telenor;1.12
+47954;norway mobile telenor;1.12
+479552;norway mobile telenor;1.12
+479555;norway mobile telenor;1.12
+47957;norway mobile telenor;1.12
+47958;norway mobile telenor;1.12
+47959;norway mobile telenor;1.12
+479601;norway mobile telenor;1.12
+479604;norway mobile telenor;1.12
+479609;norway mobile telenor;1.12
+479620;norway mobile telenor;1.12
+479622;norway mobile telenor;1.12
+479623;norway mobile telenor;1.12
+479650;norway mobile telenor;1.12
+479651;norway mobile telenor;1.12
+479660;norway mobile telenor;1.12
+479661;norway mobile telenor;1.12
+479662;norway mobile telenor;1.12
+479663;norway mobile telenor;1.12
+479664;norway mobile netcom;1.12
+479689;norway mobile telenor;1.12
+479690;norway mobile telenor;1.12
+479691;norway mobile telenor;1.12
+479692;norway mobile netcom;1.12
+479695;norway mobile others;1.12
+479696;norway mobile others;1.12
+479697;norway mobile others;1.12
+479698;norway mobile others;1.12
+479699;norway mobile others;1.12
+47970;norway mobile telenor;1.12
+47971;norway mobile telenor;1.12
+479735;norway mobile others;1.12
+479736;norway mobile others;1.12
+479737;norway mobile others;1.12
+479738;norway mobile others;1.12
+479739;norway mobile others;1.12
+479740;norway mobile telenor;1.12
+479741;norway mobile telenor;1.12
+479742;norway mobile telenor;1.12
+479743;norway mobile telenor;1.12
+479746;norway mobile telenor;1.12
+479747;norway mobile telenor;1.12
+479748;norway mobile telenor;1.12
+479749;norway mobile telenor;1.12
+47975;norway mobile telenor;1.12
+47976;norway mobile telenor;1.12
+47977;norway mobile telenor;1.12
+479795;norway mobile telenor;1.12
+479796;norway mobile telenor;1.12
+479797;norway mobile telenor;1.12
+479798;norway mobile telenor;1.12
+479799;norway mobile telenor;1.12
+47980;norway mobile netcom;1.12
+479815;norway mobile netcom;1.12
+479816;norway mobile netcom;1.12
+479817;norway mobile netcom;1.12
+479818;norway mobile netcom;1.12
+479819;norway mobile netcom;1.12
+47982;norway mobile netcom;1.12
+479830;norway mobile netcom;1.12
+479831;norway mobile netcom;1.12
+479832;norway mobile netcom;1.12
+479833;norway mobile netcom;1.12
+479834;norway mobile netcom;1.12
+479835;norway mobile netcom;1.12
+479836;norway mobile netcom;1.12
+479837;norway mobile netcom;1.12
+47984;norway mobile netcom;1.12
+479854;norway mobile netcom;1.12
+47986;norway mobile netcom;1.12
+479876;norway mobile netcom;1.12
+47988;norway mobile netcom;1.12
+479899;norway mobile netcom;1.12
+479910;norway mobile telenor;1.12
+479911;norway mobile telenor;1.12
+479912;norway mobile telenor;1.12
+479915;norway mobile telenor;1.12
+479916;norway mobile telenor;1.12
+47992;norway mobile telenor;1.12
+47993;norway mobile telenor;1.12
+47994;norway mobile telenor;1.12
+47995;norway mobile telenor;1.12
+479967;norway mobile netcom;1.12
+479968;norway mobile netcom;1.12
+47999;norway mobile telenor;1.12
+48;poland 4;2.52
+4811891;poland 5;0.84
+4822198;poland olo 2;0.84
+48333335;poland olo;101.64
+4850;poland mobile orange;8.12
+4851;poland mobile orange;8.12
+4853;poland mobile orange;8.12
+48530;poland mobile p4;8.12
+48531;poland mobile p4;8.12
+48532;poland mobile era;8.12
+48533;poland mobile p4;8.12
+48534;poland mobile p4;8.12
+48535;poland mobile p4;8.12
+485360;poland mobile p4;8.12
+485361;poland mobile p4;8.12
+485362;poland mobile p4;8.12
+485363;poland mobile p4;8.12
+485364;poland mobile p4;8.12
+485365;poland mobile p4;8.12
+485367;poland mobile p4;8.12
+485368;poland mobile p4;8.12
+485369;poland mobile p4;8.12
+48537;poland mobile orange;8.12
+48538;poland mobile era;8.12
+48539;poland mobile era;8.12
+48570;poland mobile orange;8.12
+485710;poland mobile orange;8.12
+485711;poland mobile orange;8.12
+485712;poland mobile orange;8.12
+485713;poland mobile orange;8.12
+485714;poland mobile orange;8.12
+485715;poland mobile orange;8.12
+485716;poland mobile orange;8.12
+485717;poland mobile orange;8.12
+485718;poland mobile orange;8.12
+485719;poland mobile orange;8.12
+48572;poland mobile orange;8.12
+48573;poland mobile orange;8.12
+48574;poland mobile orange;8.12
+48575;poland mobile orange;8.12
+48576;poland mobile orange;8.12
+48577;poland mobile orange;8.12
+48578;poland mobile orange;8.12
+485790;poland mobile p4;8.12
+485791;poland mobile plus;8.12
+485792;poland mobile plus;8.12
+485793;poland mobile plus;8.12
+4857951;poland 2;8.12
+4857952;poland 2;8.12
+4857954;poland 2;8.12
+4857955;poland 2;8.12
+4857956;poland 2;8.12
+485796;poland 2;8.12
+485798;poland mobile p4;8.12
+485799;poland mobile p4;8.12
+4860;poland mobile orange;8.12
+48600;poland mobile era;8.12
+48601;poland mobile plus;8.12
+48602;poland mobile era;8.12
+48603;poland mobile plus;8.12
+48604;poland mobile era;8.12
+48605;poland mobile plus;8.12
+48606;poland mobile era;8.12
+48607;poland mobile plus;8.12
+48608;poland mobile era;8.12
+48609;poland mobile plus;8.12
+4866;poland mobile orange;8.12
+48660;poland mobile era;8.12
+48661;poland mobile plus;8.12
+48662;poland mobile era;8.12
+48663;poland mobile plus;8.12
+48664;poland mobile era;8.12
+48665;poland mobile plus;8.12
+486660;poland mobile era;8.12
+486661;poland mobile era;8.12
+486662;poland mobile era;8.12
+486663;poland mobile era;8.12
+486664;poland mobile era;8.12
+486665;poland mobile era;8.12
+486666;poland mobile p4;8.12
+486667;poland mobile era;8.12
+486668;poland mobile era;8.12
+486669;poland mobile era;8.12
+48667;poland mobile plus;8.12
+48668;poland mobile era;8.12
+48669;poland mobile plus;8.12
+4869;poland mobile orange;8.12
+486900;poland mobile p4;8.12
+486901;poland mobile orange;8.12
+486902;poland mobile orange;8.12
+486903;poland mobile orange;8.12
+486904;poland mobile orange;8.12
+486905;poland mobile orange;8.12
+486906;poland mobile orange;8.12
+486907;poland mobile centernet;8.12
+486908;poland mobile p4;8.12
+486909;poland mobile p4;8.12
+48691;poland mobile plus;8.12
+48692;poland mobile era;8.12
+48693;poland mobile plus;8.12
+48694;poland mobile era;8.12
+48695;poland mobile plus;8.12
+48696;poland mobile era;8.12
+48697;poland mobile plus;8.12
+48698;poland mobile era;8.12
+4869900;poland mobile cyfrowy polsat;8.12
+4869902;poland mobile cyfrowy polsat;8.12
+4869903;poland mobile cyfrowy polsat;8.12
+4869904;poland mobile cyfrowy polsat;8.12
+4869905;poland mobile cyfrowy polsat;8.12
+4869906;poland mobile cyfrowy polsat;8.12
+4869907;poland mobile cyfrowy polsat;8.12
+4869908;poland mobile cyfrowy polsat;8.12
+4869909;poland mobile cyfrowy polsat;8.12
+486991;poland mobile cyfrowy polsat;8.12
+4869920;poland mobile cyfrowy polsat;8.12
+4869921;poland mobile cyfrowy polsat;8.12
+4869922;poland mobile p4;8.12
+4869923;poland mobile cyfrowy polsat;8.12
+4869924;poland mobile cyfrowy polsat;8.12
+4869925;poland mobile cyfrowy polsat;8.12
+4869926;poland mobile cyfrowy polsat;8.12
+4869927;poland mobile cyfrowy polsat;8.12
+4869928;poland mobile cyfrowy polsat;8.12
+4869929;poland mobile cyfrowy polsat;8.12
+486993;poland mobile cyfrowy polsat;8.12
+486994;poland mobile cyfrowy polsat;8.12
+4869951;poland mobile plus;8.12
+4869952;poland mobile plus;8.12
+4869953;poland mobile plus;8.12
+4869954;poland mobile plus;8.12
+4869955;poland mobile plus;8.12
+4869956;poland mobile plus;8.12
+4869957;poland mobile plus;8.12
+4869958;poland mobile plus;8.12
+4869959;poland mobile plus;8.12
+4869961;poland mobile cyfrowy polsat;8.12
+4869962;poland mobile cyfrowy polsat;8.12
+4869963;poland mobile cyfrowy polsat;8.12
+4869964;poland mobile cyfrowy polsat;8.12
+4869965;poland mobile cyfrowy polsat;8.12
+4869966;poland mobile cyfrowy polsat;8.12
+4869968;poland mobile cyfrowy polsat;8.12
+4869969;poland mobile p4;8.12
+4869970;poland mobile p4;8.12
+4869971;poland mobile plus;8.12
+4869979;poland mobile p4;8.12
+486998;poland mobile p4;8.12
+486999;poland mobile p4;8.12
+4870;poland 3;50.96
+487008;poland;101.64
+487009;poland;101.64
+48708;poland;101.64
+48709;poland;101.64
+4872;poland mobile centernet;8.12
+48720;poland mobile orange;8.12
+487208;poland mobile p4;8.12
+48721;poland mobile plus;8.12
+487220;poland mobile plus;8.12
+487221;poland mobile plus;8.12
+487222;poland mobile plus;8.12
+487223;poland mobile plus;8.12
+487224;poland mobile plus;8.12
+487225;poland mobile plus;8.12
+487226;poland mobile plus;8.12
+4872270;poland mobile plus;8.12
+4872271;poland mobile plus;8.12
+4872272;poland mobile plus;8.12
+4872273;poland mobile plus;8.12
+4872274;poland mobile plus;8.12
+4872275;poland mobile plus;8.12
+4872276;poland mobile plus;8.12
+4872277;poland mobile plus;8.12
+487228;poland mobile plus;8.12
+487229;poland mobile plus;8.12
+48723;poland mobile plus;8.12
+48724;poland mobile plus;8.12
+48725;poland mobile plus;8.12
+48726;poland mobile plus;8.12
+487270;poland mobile plus;8.12
+487271;poland mobile orange;8.12
+487272;poland mobile era;8.12
+487273;poland mobile era;8.12
+487274;poland mobile plus;8.12
+487275;poland mobile plus;8.12
+487276;poland mobile plus;8.12
+4872770;poland mobile plus;8.12
+4872771;poland mobile plus;8.12
+4872772;poland mobile plus;8.12
+4872777;poland mobile plus;8.12
+4872779;poland mobile plus;8.12
+487278;poland mobile plus;8.12
+487280;poland mobile orange;8.12
+487281;poland mobile era;8.12
+487282;poland mobile era;8.12
+487283;poland mobile era;8.12
+487284;poland mobile era;8.12
+487285;poland mobile era;8.12
+487286;poland mobile era;8.12
+487287;poland mobile era;8.12
+487288;poland mobile era;8.12
+487289;poland mobile era;8.12
+487290;poland mobile p4;8.12
+487291;poland mobile p4;8.12
+487292;poland mobile plus;8.12
+487293;poland mobile plus;8.12
+487294;poland mobile plus;8.12
+487295;poland mobile plus;8.12
+487296;poland mobile plus;8.12
+4872971;poland mobile plus;8.12
+487298;poland mobile t-mobile;8.12
+487299;poland mobile t-mobile;8.12
+48730;poland mobile p4;8.12
+48731;poland mobile p4;8.12
+48732;poland mobile orange;8.12
+48733;poland mobile orange;8.12
+48734;poland mobile orange;8.12
+48735;poland mobile orange;8.12
+487360;poland mobile p4;8.12
+487361;poland mobile t-mobile;8.12
+487362;poland mobile t-mobile;8.12
+487363;poland mobile t-mobile;8.12
+487364;poland mobile t-mobile;8.12
+487365;poland mobile t-mobile;8.12
+487366;poland mobile t-mobile;8.12
+487367;poland mobile p4;8.12
+487368;poland mobile p4;8.12
+487369;poland mobile p4;8.12
+487370;poland mobile plus;8.12
+487371;poland mobile plus;8.12
+487372;poland mobile plus;8.12
+487373;poland mobile p4;8.12
+487374;poland mobile p4;8.12
+487375;poland mobile p4;8.12
+487376;poland mobile p4;8.12
+487377;poland mobile p4;8.12
+487378;poland mobile p4;8.12
+487379;poland mobile p4;8.12
+487390;poland mobile p4;8.12
+487391;poland mobile t-mobile;8.12
+487392;poland mobile p4;8.12
+4873930;poland mobile p4;8.12
+4873931;poland mobile plus;8.12
+4873932;poland mobile plus;8.12
+4873933;poland mobile plus;8.12
+4873934;poland mobile plus;8.12
+4873935;poland mobile plus;8.12
+4873936;poland mobile plus;8.12
+4873937;poland mobile plus;8.12
+4873938;poland mobile plus;8.12
+4873939;poland mobile plus;8.12
+487394;poland mobile plus;8.12
+487395;poland mobile plus;8.12
+487396;poland mobile plus;8.12
+487397;poland mobile plus;8.12
+487398;poland mobile plus;8.12
+4873999;poland mobile p4;8.12
+4878;poland 2;8.12
+487800;poland mobile orange;8.12
+487801;poland mobile orange;8.12
+4878021;poland mobile p4;8.12
+4878022;poland mobile p4;8.12
+4878023;poland mobile p4;8.12
+4878024;poland mobile p4;8.12
+4878027;poland mobile p4;8.12
+4878028;poland mobile p4;8.12
+487804;poland mobile orange;8.12
+487805;poland mobile orange;8.12
+487806;poland mobile orange;8.12
+487807;poland mobile t-mobile;8.12
+487808;poland mobile t-mobile;8.12
+487809;poland mobile t-mobile;8.12
+48781;poland mobile plus;8.12
+48782;poland mobile plus;8.12
+48783;poland mobile plus;8.12
+48784;poland mobile era;8.12
+48785;poland mobile plus;8.12
+4878608;poland mobile p4;8.12
+487861;poland mobile p4;8.12
+487862;poland mobile p4;8.12
+487865;poland mobile orange;8.12
+487866;poland mobile orange;8.12
+487867;poland mobile orange;8.12
+487868;poland mobile orange;8.12
+487869;poland mobile orange;8.12
+48787;poland mobile era;8.12
+48788;poland mobile era;8.12
+487890;poland mobile orange;8.12
+487891;poland mobile orange;8.12
+487892;poland mobile orange;8.12
+487893;poland mobile orange;8.12
+487894;poland mobile orange;8.12
+487895;poland mobile plus;8.12
+487896;poland mobile plus;8.12
+487897;poland mobile plus;8.12
+487898;poland mobile plus;8.12
+487899;poland mobile plus;8.12
+4879;poland mobile orange;8.12
+48790;poland mobile p4;8.12
+48791;poland mobile p4;8.12
+48792;poland mobile p4;8.12
+48793;poland mobile p4;8.12
+48794;poland mobile p4;8.12
+487950;poland mobile p4;8.12
+487951;poland mobile era;8.12
+487952;poland mobile era;8.12
+487953;poland mobile era;8.12
+487954;poland mobile era;8.12
+487955;poland mobile era;8.12
+487956;poland mobile p4;8.12
+487957;poland mobile p4;8.12
+487958;poland mobile p4;8.12
+487959;poland mobile p4;8.12
+48796;poland mobile p4;8.12
+48797;poland mobile orange;8.12
+48798;poland mobile orange;8.12
+487990;poland mobile orange;8.12
+487991;poland mobile p4;8.12
+487992;poland mobile p4;8.12
+487993;poland mobile p4;8.12
+487994;poland mobile p4;8.12
+487995;poland mobile p4;8.12
+487996;poland mobile orange;8.12
+487997;poland mobile orange;8.12
+487998;poland mobile orange;8.12
+487999;poland mobile orange;8.12
+4880;poland 3;50.96
+488014;poland;101.64
+488015;poland;101.64
+488016;poland;101.64
+48880;poland mobile era;8.12
+48881;poland mobile orange;8.12
+488810;poland mobile era;8.12
+488811;poland mobile centernet;8.12
+488812;poland mobile p4;8.12
+488813;poland mobile p4;8.12
+488814;poland mobile p4;8.12
+488815;poland mobile p4;8.12
+488816;poland mobile p4;8.12
+488817;poland mobile p4;8.12
+488818;poland mobile era;8.12
+488819;poland mobile era;8.12
+48882;poland mobile era;8.12
+48883;poland mobile orange;8.12
+488830;poland mobile p4;8.12
+488831;poland mobile p4;8.12
+488832;poland mobile p4;8.12
+488833;poland mobile era;8.12
+488834;poland mobile p4;8.12
+488835;poland mobile p4;8.12
+488836;poland mobile p4;8.12
+488837;poland mobile p4;8.12
+488838;poland mobile era;8.12
+488839;poland mobile p4;8.12
+48884;poland mobile orange;8.12
+488840;poland mobile p4;8.12
+488841;poland mobile era;8.12
+488842;poland mobile era;8.12
+488843;poland mobile p4;8.12
+488846;poland mobile p4;8.12
+488847;poland mobile p4;8.12
+488848;poland mobile p4;8.12
+488849;poland mobile p4;8.12
+48885;poland mobile plus;8.12
+48886;poland mobile era;8.12
+48887;poland mobile plus;8.12
+48888;poland mobile era;8.12
+48889;poland mobile era;8.12
+49;germany 4;0.84
+49116;germany special services;6.44
+49118;germany special services;6.44
+4912;germany;6.44
+4913;germany;6.44
+4915;germany 2;1.4
+49151;germany mobile t-mobile;1.4
+491520;germany mobile vodafone;1.4
+491521;germany mobile lycamobile;1.4
+491522;germany mobile vodafone;1.4
+491523;germany mobile vodafone;1.4
+491524;germany mobile vodafone;1.4
+491525;germany mobile vodafone;1.4
+491573;germany mobile e-plus;1.4
+491575;germany mobile callax mvno;1.4
+491577;germany mobile e-plus;1.4
+491578;germany mobile e-plus;1.4
+49159;germany mobile o2;1.4
+4916;germany 2;1.4
+49160;germany mobile t-mobile;1.4
+49162;germany mobile vodafone;1.4
+49163;germany mobile e-plus;1.4
+49170;germany mobile t-mobile;1.4
+49171;germany mobile t-mobile;1.4
+49172;germany mobile vodafone;1.4
+49173;germany mobile vodafone;1.4
+49174;germany mobile vodafone;1.4
+49175;germany mobile t-mobile;1.4
+49176;germany mobile o2;1.4
+49177;germany mobile e-plus;1.4
+49178;germany mobile e-plus;1.4
+49179;germany mobile o2;1.4
+49191;germany non geographic;6.44
+49192;germany non geographic;6.44
+49193;germany non geographic;6.44
+49194;germany non geographic;6.44
+49211;germany 3;0.56
+4932;germany special services 3;0.84
+4969;germany 3;0.56
+49700;germany special services 2;1.4
+49701;germany special services 2;1.4
+500;falkland islands;53.48
+501;belize;8.4
+502;guatemala;6.72
+503;el salvador;7
+504;honduras;6.44
+505;nicaragua;9.24
+5058;nicaragua mobile;9.24
+5058892;nicaragua mobile globalstar;43.4
+5058921;nicaragua mobile claro;43.4
+5058922;nicaragua mobile claro;43.4
+506;costa rica;3.08
+507;panama;4.76
+508;st pierre and miquelon;14.56
+509;haiti;13.72
+51;peru;2.52
+519;peru 2;2.24
+52;mexico;0.56
+521;mexico mobile;1.12
+53;cuba;26.6
+535;cuba;26.6
+535881;cuba;26.6
+537264;cuba;26.6
+53775;cuba;26.6
+5399;cuba 2;27.16
+539931;cuba;26.6
+539933;cuba;26.6
+539936;cuba;26.6
+54;argentina;1.4
+549;argentina mobile;6.16
+55;brazil;3.08
+551153;brazil mobile;3.08
+551154;brazil mobile;3.08
+551157;brazil sao paulo;3.08
+55116;brazil mobile;3.08
+55117;brazil mobile;3.08
+55118;brazil mobile;3.08
+55119;brazil mobile;3.08
+55126;brazil mobile;3.08
+55127;brazil mobile;3.08
+55128;brazil mobile;3.08
+55129;brazil mobile;3.08
+55136;brazil mobile;3.08
+55137;brazil mobile;3.08
+55138;brazil mobile;3.08
+55139;brazil mobile;3.08
+55146;brazil mobile;3.08
+55147;brazil mobile;3.08
+55148;brazil mobile;3.08
+55149;brazil mobile;3.08
+55156;brazil mobile;3.08
+55157;brazil mobile;3.08
+55158;brazil mobile;3.08
+55159;brazil mobile;3.08
+55166;brazil mobile;3.08
+55167;brazil mobile;3.08
+55168;brazil mobile;3.08
+55169;brazil mobile;3.08
+55176;brazil mobile;3.08
+55177;brazil mobile;3.08
+55178;brazil mobile;3.08
+55179;brazil mobile;3.08
+55186;brazil mobile;3.08
+55187;brazil mobile;3.08
+55188;brazil mobile;3.08
+55189;brazil mobile;3.08
+55196;brazil mobile;3.08
+55197;brazil mobile;3.08
+55198;brazil mobile;3.08
+55199;brazil mobile;3.08
+55216;brazil mobile;3.08
+55217;brazil mobile;3.08
+55218;brazil mobile;3.08
+55219;brazil mobile;3.08
+55226;brazil mobile;3.08
+55227;brazil mobile;3.08
+55228;brazil mobile;3.08
+55229;brazil mobile;3.08
+55238;brazil mobile;3.08
+55239;brazil mobile;3.08
+55246;brazil mobile;3.08
+55247;brazil mobile;3.08
+55248;brazil mobile;3.08
+55249;brazil mobile;3.08
+55276;brazil mobile;3.08
+55277;brazil mobile;3.08
+55278;brazil mobile;3.08
+55279;brazil mobile;3.08
+55286;brazil mobile;3.08
+55287;brazil mobile;3.08
+55288;brazil mobile;3.08
+55289;brazil mobile;3.08
+55316;brazil mobile;3.08
+55317;brazil mobile;3.08
+55318;brazil mobile;3.08
+55319;brazil mobile;3.08
+55326;brazil mobile;3.08
+55327;brazil mobile;3.08
+55328;brazil mobile;3.08
+55329;brazil mobile;3.08
+55336;brazil mobile;3.08
+55337;brazil mobile;3.08
+55338;brazil mobile;3.08
+55339;brazil mobile;3.08
+55346;brazil mobile;3.08
+55347;brazil mobile;3.08
+55348;brazil mobile;3.08
+55349;brazil mobile;3.08
+55356;brazil mobile;3.08
+55357;brazil mobile;3.08
+55358;brazil mobile;3.08
+55359;brazil mobile;3.08
+55376;brazil mobile;3.08
+55377;brazil mobile;3.08
+55378;brazil mobile;3.08
+55379;brazil mobile;3.08
+55386;brazil mobile;3.08
+55387;brazil mobile;3.08
+55388;brazil mobile;3.08
+55389;brazil mobile;3.08
+55416;brazil mobile;3.08
+55417;brazil mobile;3.08
+55418;brazil mobile;3.08
+55419;brazil mobile;3.08
+55426;brazil mobile;3.08
+55427;brazil mobile;3.08
+55428;brazil mobile;3.08
+55429;brazil mobile;3.08
+55436;brazil mobile;3.08
+55437;brazil mobile;3.08
+55438;brazil mobile;3.08
+55439;brazil mobile;3.08
+55446;brazil mobile;3.08
+55447;brazil mobile;3.08
+55448;brazil mobile;3.08
+55449;brazil mobile;3.08
+55456;brazil mobile;3.08
+55457;brazil mobile;3.08
+55458;brazil mobile;3.08
+55459;brazil mobile;3.08
+55466;brazil mobile;3.08
+55467;brazil mobile;3.08
+55468;brazil mobile;3.08
+55469;brazil mobile;3.08
+55476;brazil mobile;3.08
+55477;brazil mobile;3.08
+55478;brazil mobile;3.08
+55479;brazil mobile;3.08
+55486;brazil mobile;3.08
+55487;brazil mobile;3.08
+55488;brazil mobile;3.08
+55489;brazil mobile;3.08
+55496;brazil mobile;3.08
+55497;brazil mobile;3.08
+55498;brazil mobile;3.08
+55499;brazil mobile;3.08
+55516;brazil mobile;3.08
+55517;brazil mobile;3.08
+55518;brazil mobile;3.08
+55519;brazil mobile;3.08
+55536;brazil mobile;3.08
+55537;brazil mobile;3.08
+55538;brazil mobile;3.08
+55539;brazil mobile;3.08
+55546;brazil mobile;3.08
+55547;brazil mobile;3.08
+55548;brazil mobile;3.08
+55549;brazil mobile;3.08
+55556;brazil mobile;3.08
+55557;brazil mobile;3.08
+55558;brazil mobile;3.08
+55559;brazil mobile;3.08
+55616;brazil mobile;3.08
+55617;brazil mobile;3.08
+55618;brazil mobile;3.08
+55619;brazil mobile;3.08
+55626;brazil mobile;3.08
+55627;brazil mobile;3.08
+55628;brazil mobile;3.08
+55629;brazil mobile;3.08
+55636;brazil mobile;3.08
+55637;brazil mobile;3.08
+55638;brazil mobile;3.08
+55639;brazil mobile;3.08
+55646;brazil mobile;3.08
+55647;brazil mobile;3.08
+55648;brazil mobile;3.08
+55649;brazil mobile;3.08
+55656;brazil mobile;3.08
+55657;brazil mobile;3.08
+55658;brazil mobile;3.08
+55659;brazil mobile;3.08
+55666;brazil mobile;3.08
+55667;brazil mobile;3.08
+55668;brazil mobile;3.08
+55669;brazil mobile;3.08
+55676;brazil mobile;3.08
+55677;brazil mobile;3.08
+55678;brazil mobile;3.08
+55679;brazil mobile;3.08
+55686;brazil mobile;3.08
+55687;brazil mobile;3.08
+55688;brazil mobile;3.08
+55689;brazil mobile;3.08
+55696;brazil mobile;3.08
+55697;brazil mobile;3.08
+55698;brazil mobile;3.08
+55699;brazil mobile;3.08
+55716;brazil mobile;3.08
+55717;brazil mobile;3.08
+55718;brazil mobile;3.08
+55719;brazil mobile;3.08
+55736;brazil mobile;3.08
+55737;brazil mobile;3.08
+55738;brazil mobile;3.08
+55739;brazil mobile;3.08
+55746;brazil mobile;3.08
+55747;brazil mobile;3.08
+55748;brazil mobile;3.08
+55749;brazil mobile;3.08
+55756;brazil mobile;3.08
+55757;brazil mobile;3.08
+55758;brazil mobile;3.08
+55759;brazil mobile;3.08
+55776;brazil mobile;3.08
+55777;brazil mobile;3.08
+55778;brazil mobile;3.08
+55779;brazil mobile;3.08
+55786;brazil mobile;3.08
+55787;brazil mobile;3.08
+55788;brazil mobile;3.08
+55789;brazil mobile;3.08
+55796;brazil mobile;3.08
+55797;brazil mobile;3.08
+55798;brazil mobile;3.08
+55799;brazil mobile;3.08
+55816;brazil mobile;3.08
+55817;brazil mobile;3.08
+55818;brazil mobile;3.08
+55819;brazil mobile;3.08
+55826;brazil mobile;3.08
+55827;brazil mobile;3.08
+55828;brazil mobile;3.08
+55829;brazil mobile;3.08
+55836;brazil mobile;3.08
+55837;brazil mobile;3.08
+55838;brazil mobile;3.08
+55839;brazil mobile;3.08
+55846;brazil mobile;3.08
+55847;brazil mobile;3.08
+55848;brazil mobile;3.08
+55849;brazil mobile;3.08
+55856;brazil mobile;3.08
+55857;brazil mobile;3.08
+55858;brazil mobile;3.08
+55859;brazil mobile;3.08
+55866;brazil mobile;3.08
+55867;brazil mobile;3.08
+55868;brazil mobile;3.08
+55869;brazil mobile;3.08
+55876;brazil mobile;3.08
+55877;brazil mobile;3.08
+55878;brazil mobile;3.08
+55879;brazil mobile;3.08
+55886;brazil mobile;3.08
+55887;brazil mobile;3.08
+55888;brazil mobile;3.08
+55889;brazil mobile;3.08
+55896;brazil mobile;3.08
+55897;brazil mobile;3.08
+55898;brazil mobile;3.08
+55899;brazil mobile;3.08
+55916;brazil mobile;3.08
+55917;brazil mobile;3.08
+55918;brazil mobile;3.08
+55919;brazil mobile;3.08
+55926;brazil mobile;3.08
+55927;brazil mobile;3.08
+55928;brazil mobile;3.08
+55929;brazil mobile;3.08
+55936;brazil mobile;3.08
+55937;brazil mobile;3.08
+55938;brazil mobile;3.08
+55939;brazil mobile;3.08
+55946;brazil mobile;3.08
+55947;brazil mobile;3.08
+55948;brazil mobile;3.08
+55949;brazil mobile;3.08
+55956;brazil mobile;3.08
+55957;brazil mobile;3.08
+55958;brazil mobile;3.08
+55959;brazil mobile;3.08
+55966;brazil mobile;3.08
+55967;brazil mobile;3.08
+55968;brazil mobile;3.08
+55969;brazil mobile;3.08
+55976;brazil mobile;3.08
+55977;brazil mobile;3.08
+55978;brazil mobile;3.08
+55979;brazil mobile;3.08
+55986;brazil mobile;3.08
+55987;brazil mobile;3.08
+55988;brazil mobile;3.08
+55989;brazil mobile;3.08
+55996;brazil mobile;3.08
+55997;brazil mobile;3.08
+55998;brazil mobile;3.08
+55999;brazil mobile;3.08
+56;chile;2.24
+57;colombia;2.52
+58;venezuela;1.96
+584;venezuela 2;5.88
+590;guadeloupe;3.64
+591;bolivia;7.28
+592;guyana;9.8
+593;ecuador;4.48
+5939;ecuador 2;8.12
+594;french guiana;2.8
+595;paraguay;3.08
+596;martinique;3.64
+597;suriname;10.64
+598;uruguay;2.24
+5989;uruguay mobile;6.44
+599;netherlands antilles;5.88
+60;malaysia;1.96
+601;malaysia mobile;1.96
+61;australia 2;1.96
+6113;australia fixed other;96.04
+61145;australia mobile satellite;96.04
+61147;australia mobile satellite;96.04
+6116;australia fixed other 2;1.96
+614;australia mobile;1.96
+61469;australia mobile;1.96
+61470;australia mobile;1.96
+619162;australia;0.84
+619164;australia;0.84
+62;indonesia;2.24
+6221;indonesia jakarta;1.4
+628;indonesia mobile;1.96
+62868;indonesia mobile gmpcs;3.08
+63;philippines 2;3.92
+638;philippines;5.6
+639;philippines;5.6
+64;new zealand;0.84
+642;new zealand mobile;1.68
+65;singapore;1.96
+658;singapore mobile;1.96
+659;singapore mobile;1.96
+66;thailand;2.52
+668;thailand mobile;2.52
+669;thailand mobile;2.52
+672;australia territories;51.52
+673;brunei;1.4
+674;nauru;42
+675;papua new guinea;70.56
+676;tonga;34.16
+677;solomon islands;41.44
+678;vanuatu;24.36
+679;fiji;10.08
+680;palau;11.2
+681;wallis and futuna;29.68
+682;cook islands;26.88
+685;samoa;29.68
+686;kiribati;42.56
+687;new caledonia;6.72
+688;tuvalu;28.56
+689;french polynesia;9.24
+690;tokelau;42.56
+691;micronesia;21
+692;marshall islands;8.96
+7;russia;2.24
+7301;russia buryatiya region (zone 5);1.68
+7302;russia chitinskaya region (zone 5);1.68
+7336;kazakhstan baykonur (zone 1);1.4
+7341;russia udmurtiya (zone 2);1.68
+73412;russia udmurtiya izhevsk (zone 2);1.68
+7342;russia permskaya region (zone 4);1.68
+73422;russia permskaya region perm (zone 1);1.68
+7343;russia sverdlovskaya region (zone 4);1.68
+73432;russia sverdlovskaya region ekaterinburg (zone 1);1.68
+73433;russia sverdlovskaya region ekaterinburg (zone 1);1.68
+7345;russia tyumenskaya region (zone 5);1.68
+73452;russia tyumenskaya region tyumen (zone 1);1.68
+7346;russia hanty-mansiyskiy ao (zone 5);1.68
+73462;russia hanty-mansiyskiy ao surgut (zone 1);1.68
+7349;russia yamalo-neneckiy ao (zone 5);1.68
+73492;russia yamalo-neneckiy ao salehard (zone 1);1.68
+7351;russia chelyabinskaya region (zone 4);1.68
+73512;russia chelyabinskaya region chelyabinsk (zone 1);1.68
+7352;russia kurganskaya region (zone 4);1.68
+73522;russia kurganskaya region kurgan (zone 1);1.68
+7353;russia orenburgskaya region (zone 2);1.68
+73532;russia orenburgskaya region orenburg (zone 2);1.68
+7381;russia omskaya region (zone 4);1.68
+73812;russia omskaya region omsk (zone 2);1.68
+7382;russia tomskaya region (zone 5);1.68
+7383;russia novosibirskaya region (zone 4);1.68
+73832;russia novosibirskaya region novosibirsk (zone 2);1.68
+7384;russia kemerovskaya region (zone 4);1.68
+73842;russia kemerovskaya region kemerovo (zone 2);1.68
+7385;russia altay (zone 4);1.68
+73852;russia altay barnaul (zone 2);1.68
+7388;russia altay (zone 4);1.68
+73882;russia altay gorno-altaysk (zone 2);1.68
+7390;russia khakasiya (zone 5);1.68
+739022;russia khakasiya abakan (zone 3);1.68
+7391;russia krasnoyarsky kray (zone 5);1.68
+7395;russia irkutskaya region (zone 5);1.68
+7401;russia kaliningradskaya region (zone 2);1.68
+74132;russia magadanskaya region magadan (zone 5);1.68
+7415;russia kamchatka (zone 5);1.68
+7416;russia amurskaya region (zone 5);1.68
+7421;russia khabarovskiy kray (zone 5);1.68
+7423;russia primorsky kray (zone 5);1.68
+7424;russia sakhalin (zone 5);1.68
+7426;russia evreyskaya region (zone 5);1.68
+7471;russia kurskaya region (zone 2);1.68
+74712;russia kurskaya region kursk (zone 1);1.68
+7472;russia belgorodskaya region (zone 2);1.68
+74722;russia belgorodskaya region belgorod (zone 1);1.68
+7473;russia voronezhskaya region (zone 2);1.68
+74732;russia voronezhskaya region voronezh (zone 1);1.68
+7474;russia lipetskaya region (zone 2);1.68
+74742;russia lipetskaya region lipetsk (zone 1);1.68
+7475;russia tambovskaya region (zone 2);1.68
+74752;russia tambovskaya region tambov (zone 1);1.68
+7477;russia gaztelecom (zone 1);1.68
+7481;russia smolenskaya region (zone 2);1.68
+74812;russia smolenskaya region smolensk (zone 1);1.68
+7482;russia tverskaya region (zone 2);1.68
+74822;russia tverskaya region tver (zone 1);1.68
+7483;russia bryanskaya region (zone 2);1.68
+74832;russia bryanskaya region bryansk (zone 1);1.68
+7484;russia kalughskaya region (zone 2);1.68
+74842;russia kalughskaya region kaluga (zone 1);1.68
+7485;russia yaroslavskaya region (zone 2);1.68
+74852;russia yaroslavskaya region yaroslavl (zone 1);1.68
+7486;russia orlovskaya region (zone 2);1.68
+74862;russia orlovskaya region orel (zone 1);1.68
+7487;russia tulskaya region (zone 2);1.68
+74872;russia tulskaya region tula (zone 1);1.68
+7491;russia ryazanskaya region (zone 2);1.68
+74912;russia ryazanskaya region ryazan (zone 1);1.68
+7492;russia vladimirskaya region (zone 2);1.68
+74922;russia vladimirskaya region vladimir (zone 1);1.68
+7493;russia ivanovskaya region (zone 2);1.68
+74932;russia ivanovskaya region ivanovo (zone 1);1.68
+7494;russia kostromskaya region (zone 2);1.68
+74942;russia kostromskaya region kostroma (zone 1);1.68
+7495;russia moscow;0.84
+7496;russia moscow region;1.68
+7498;russia moscow region;1.68
+7499;russia moscow;0.84
+77;kazakhstan 3;1.96
+7700;kazakhstan mobile altel cdma (dalacom) 2;8.96
+7701;kazakhstan mobile kcell;4.2
+7702;kazakhstan mobile kcell;4.2
+7705;kazakhstan mobile beeline (kartel);7
+7707;kazakhstan mobile tele2;9.52
+7708;kazakhstan mobile altel cdma (dalacom);9.52
+77172;kazakhstan astana;1.68
+77212;kazakhstan 2;1.68
+77272;kazakhstan 2;1.68
+77273;kazakhstan 2;1.68
+7747;kazakhstan mobile tele2;9.52
+7760;kazakhstan;5.04
+7761;kazakhstan 3;1.96
+7762;kazakhstan;5.04
+7763;kazakhstan;5.04
+7764;kazakhstan;5.04
+7771;kazakhstan mobile beeline (kartel);7
+7775;kazakhstan mobile kcell;4.2
+7776;kazakhstan mobile beeline (kartel);7
+7777;kazakhstan mobile beeline (kartel);7
+7778;kazakhstan mobile kcell;4.2
+7811;russia pskovskaya region (zone 2);1.68
+7812;russia st. petersburg;0.84
+7813;russia leningradskaya region (zone 2);1.68
+7814;russia kareliya (zone 4);1.68
+7815;russia murmanskaya region (zone 4);1.68
+7816;russia novgorodskaya region (zone 2);1.68
+7817;russia vologodskaya region (zone 2);1.68
+7818;russia arhangelskaya region (zone 4);1.68
+7820;russia vologodskaya region cherepovets (zone 2);1.68
+7821;russia komi (zone 4);1.68
+7831;russia nizhegorodskaya region (zone 2);1.68
+78312;russia nizhegorodskaya region nizhniy (zone 2);1.68
+783141;russia nizhegorodskaya region (zone 2);1.68
+783142;russia nizhegorodskaya region (zone 2);1.68
+783143;russia nizhegorodskaya region (zone 2);1.68
+7831440;russia nighegorodskaya region balahna (zone 2);1.68
+783146;russia nizhegorodskaya region (zone 2);1.68
+7833;russia kirovskaya region (zone 2);1.68
+78332;russia kirovskaya region kirov (zone 2);1.68
+7834;russia mordoviya (zone 2);1.68
+78342;russia mordoviya saransk (zone 2);1.68
+7835;russia chuvashiya (zone 2);1.68
+78352;russia chuvashiya cheboksary (zone 2);1.68
+7836;russia mariy el (zone 2);1.68
+78362;russia mariy el yoshkar-ola (zone 2);1.68
+7840;abkhazia;7.28
+7841;russia penzenskaya region (zone 2);1.68
+78412;russia penzenskaya region penza (zone 2);1.68
+7842;russia ulyanovskaya region (zone 2);1.68
+78422;russia ulyanovskaya region ulyanovsk (zone 2);1.68
+7844;russia volgogradskaya region (zone 2);1.68
+7845;russia saratovskaya region (zone 2);1.68
+78452;russia saratovskaya region saratov (zone 2);1.68
+7846;russia samarskaya region (zone 2);1.68
+78462;russia samarskaya region samara (zone 2);1.68
+7847;russia kalmikiya (zone 2);1.68
+7848;russia samarskaya region (zone 2);1.68
+7851;russia astrakhanskaya region (zone 2);1.68
+7861;russia krasnodarskiy kray (zone 2);1.68
+7862;russia krasnodarskiy kray sochi (zone 2);1.68
+7863;russia rostovskaya region (zone 2);1.68
+7865;russia stavropolskiy kray (zone 2);1.68
+7866;russia kabardino-balkariya (zone 2);1.68
+7867;russia severnaya osetia (zone 2);1.68
+7872;russia dagestan (zone 2);1.68
+7877;russia adygeya (zone 2);1.68
+7878;russia karachaevo-cherkessiya (zone 2);1.68
+7879;russia stavropolskiy kray (zone 2);1.68
+79;russia mobile 3;14
+7900335;russia mobile beeline;8.12
+7900336;russia mobile beeline;8.12
+7900337;russia mobile beeline;8.12
+7900338;russia mobile beeline;8.12
+7900339;russia mobile beeline;8.12
+7900340;russia mobile beeline;8.12
+7900341;russia mobile beeline;8.12
+7900342;russia mobile beeline;8.12
+7900343;russia mobile beeline;8.12
+7900344;russia mobile beeline;8.12
+7900900;russia mobile 2;8.4
+790205;russia mobile beeline;8.12
+790206;russia mobile beeline;8.12
+790207;russia mobile beeline;8.12
+7902241;russia mobile;8.12
+7902242;russia mobile;8.12
+7902243;russia mobile;8.12
+7902315;russia mobile;8.12
+7902316;russia mobile;8.12
+7902317;russia mobile;8.12
+7902318;russia mobile;8.12
+7902319;russia mobile;8.12
+790252;russia mobile beeline;8.12
+7902553;russia mobile beeline;8.12
+7902554;russia mobile beeline;8.12
+7902555;russia mobile beeline;8.12
+7902556;russia mobile beeline;8.12
+7902557;russia mobile beeline;8.12
+7902559;russia mobile beeline;8.12
+7902746;russia mobile;8.12
+7902747;russia mobile;8.12
+7903;russia mobile beeline;8.12
+790462;russia mobile beeline;8.12
+7905;russia mobile beeline;8.12
+7906;russia mobile beeline;8.12
+790844;russia mobile beeline;8.12
+790845;russia mobile beeline;8.12
+7908460;russia mobile beeline;8.12
+7908461;russia mobile beeline;8.12
+7908462;russia mobile beeline;8.12
+7908463;russia mobile beeline;8.12
+7908464;russia mobile beeline;8.12
+790856;russia mobile;8.12
+790896;russia mobile beeline;8.12
+790897;russia mobile beeline;8.12
+790898;russia mobile beeline;8.12
+790899;russia mobile beeline;8.12
+7909;russia mobile beeline;8.12
+791;russia mobile mts;8.12
+792;russia mobile megafon;8.4
+793;russia mobile megafon;8.4
+7940;abkhazia mobile others;8.96
+79407;abkhazia mobile a-mobile;8.96
+79506685;russia mobile;8.12
+79506686;russia mobile;8.12
+79506687;russia mobile;8.12
+79506688;russia mobile;8.12
+79506689;russia mobile;8.12
+7950888;russia mobile;8.12
+7950889;russia mobile;8.12
+795100;russia mobile beeline;8.12
+795101;russia mobile beeline;8.12
+795102;russia mobile beeline;8.12
+795320;russia mobile beeline;8.12
+795321;russia mobile beeline;8.12
+795322;russia mobile beeline;8.12
+7954;russia mobile globaltel;49.28
+795845;russia mobile 2;8.4
+796;russia mobile beeline;8.12
+79780;russia mobile crimea 2;8.12
+79781;russia mobile crimea 2;8.12
+797815;russia mobile crimea;2.24
+7978165;russia mobile crimea;2.24
+7978166;russia mobile crimea;2.24
+7978167;russia mobile crimea;2.24
+7978168;russia mobile crimea;2.24
+7978169;russia mobile crimea;2.24
+79782;russia mobile crimea 2;8.12
+7978254;russia mobile crimea;2.24
+79783000;russia mobile crimea;2.24
+79783333;russia mobile crimea;2.24
+79783777;russia mobile crimea;2.24
+797840;russia mobile crimea;2.24
+7978555;russia mobile crimea;2.24
+7978556;russia mobile crimea;2.24
+79786;russia mobile beeline;8.12
+79787;russia mobile crimea 2;8.12
+79788;russia mobile crimea 2;8.12
+79789;russia mobile crimea;2.24
+798;russia mobile mts;8.12
+7999;russia mobile megafon;8.4
+81;japan;1.12
+8150;japan ip phone mobile;1.4
+8170;japan mobile;2.24
+8180;japan mobile;2.24
+8190;japan mobile;2.24
+82;south korea 2;0.84
+820;south korea;1.12
+821;south korea mobile;1.12
+84;vietnam;2.8
+841;vietnam;2.8
+849;vietnam mobile;2.8
+850;north korea;15.68
+852;hong kong 2;1.4
+8521;hong kong;1.12
+85248;hong kong mobile;1.12
+85249;hong kong mobile;1.12
+8525;hong kong;1.12
+8526;hong kong mobile;1.12
+8529;hong kong mobile;1.12
+853;macao;4.2
+855;cambodia;2.8
+856;laos;3.08
+86;china;0.84
+8613;china;0.84
+8614;china;0.84
+8615;china;0.84
+8617;china;0.84
+8618;china;0.84
+870;inmarsat snac service;295.96
+871;inmarsat (atlantic east);287.56
+872;inmarsat (pacific);287.56
+873;inmarsat (indian);287.56
+874;inmarsat (atlantic west);287.56
+880;bangladesh;1.4
+8801;bangladesh mobile;1.4
+8813;global mobile satellite system;169.12
+8816;satellite 2;152.6
+8817;satellite 2;152.6
+8818;satellite;94.92
+8819;satellite;94.92
+882;thuraya;287.56
+883;global mobile satellite system 2;94.92
+883140;international networks - mtt;1.4
+884;satellite;94.92
+885;satellite;94.92
+886;taiwan;0.84
+8869;taiwan mobile;3.92
+887;satellite;94.92
+889;satellite;94.92
+90;turkey 2;1.96
+90212;turkey istanbul;1.68
+90216;turkey istanbul;1.68
+90312;turkey ankara;1.68
+90392;turkey north cyprus;1.96
+90444;turkey;1.68
+905;turkey 3;5.88
+9050;turkey mobile avea;5.88
+9053;turkey mobile turkcell;5.88
+9053382;turkey mobile turkcell north cyprus;5.88
+9053383;turkey mobile turkcell north cyprus;5.88
+9053384;turkey mobile turkcell north cyprus;5.88
+9053385;turkey mobile turkcell north cyprus;5.88
+9053386;turkey mobile turkcell north cyprus;5.88
+9053387;turkey mobile turkcell north cyprus;5.88
+9053388;turkey mobile turkcell north cyprus;5.88
+9053389;turkey mobile turkcell north cyprus;5.88
+9054;turkey mobile vodafone;5.88
+9054285;turkey mobile vodafone north cyprus;5.88
+9054286;turkey mobile vodafone north cyprus;5.88
+9054287;turkey mobile vodafone north cyprus;5.88
+9054288;turkey mobile vodafone north cyprus;5.88
+9054289;turkey mobile vodafone north cyprus;5.88
+9054698;turkey mobile vodafone north cyprus;5.88
+9054699;turkey mobile vodafone north cyprus;5.88
+905480;turkey mobile vodafone;5.88
+905481;turkey mobile vodafone;5.88
+905482;turkey mobile vodafone;5.88
+905483;turkey mobile vodafone;5.88
+905484;turkey mobile vodafone;5.88
+905485;turkey mobile vodafone;5.88
+905486;turkey mobile vodafone;5.88
+905487;turkey mobile vodafone;5.88
+905488;turkey mobile vodafone north cyprus;5.88
+9055;turkey mobile avea;5.88
+90850;turkey;1.68
+91;india;1.4
+917838;india mobile;1.4
+918017;india mobile;1.4
+9183340;india mobile;1.4
+9183348;india mobile;1.4
+9183349;india mobile;1.4
+9183350;india mobile;1.4
+9183358;india mobile;1.4
+9183359;india mobile;1.4
+9183360;india mobile;1.4
+9183368;india mobile;1.4
+9183369;india mobile;1.4
+9183370;india mobile;1.4
+9183739;india mobile;1.4
+9183750;india mobile;1.4
+9183758;india mobile;1.4
+9183759;india mobile;1.4
+9183760;india mobile;1.4
+9183768;india mobile;1.4
+9183769;india mobile;1.4
+9183770;india mobile;1.4
+9183778;india mobile;1.4
+9183779;india mobile;1.4
+918447;india mobile;1.4
+918697;india mobile;1.4
+918768;india mobile;1.4
+918860;india mobile;1.4
+918879;india mobile;1.4
+918939;india mobile;1.4
+919;india mobile;1.4
+92;pakistan;2.52
+923;pakistan mobile;2.8
+93;afghanistan;7.84
+937;afghanistan 2;8.4
+94;sri lanka;6.72
+947;sri lanka;6.72
+9472;sri lanka mobile celtel;6.16
+95;myanmar;10.64
+960;maldives;29.68
+9607;maldives mobile dhiraagu;30.24
+9609;maldives mobile wataniya telecom;30.24
+961;lebanon 2;6.16
+9613;lebanon mobile;6.44
+9617;lebanon;6.44
+962;jordan;6.16
+9627;jordan mobile;7.56
+963;syria;10.08
+9639;syria mobile;13.72
+964;iraq 2;5.88
+9641;iraq baghdad;5.04
+9647;iraq mobile;7.84
+964821;iraq;25.48
+964822;iraq;25.48
+965;kuwait;3.08
+9655;kuwait mobile;3.08
+9656;kuwait mobile;3.08
+9657;kuwait;3.08
+9659;kuwait mobile zain;3.08
+966;saudi arabia;3.08
+9665;saudi arabia mobile;4.76
+967;yemen republic;5.6
+968;oman;11.48
+9681505;oman mobile ooredoo (nawras);12.04
+9689;oman 2;12.04
+970022;palestina;5.88
+970042;palestina;5.88
+970082;palestina;5.88
+970092;palestina;5.88
+97022;palestina hebron;5.88
+97042;palestina jenin;5.88
+97056;palestina mobile wataniya;6.72
+97059;palestina mobile jawwal;6.72
+97082;palestina gaza;5.88
+97092;palestina nablus;5.88
+971;united arab emirates;5.88
+9715;united arab emirates mobiles;5.88
+97180;united arab emirates;5.88
+97189;united arab emirates;5.88
+972;israel 2;0.56
+972022;israel;6.72
+972042;israel;6.72
+972056;israel;6.72
+972059;israel;6.72
+972082;israel;6.72
+972092;israel;6.72
+9721515;israel mobile voice mail;1.12
+9721535;israel mobile fax services;1.12
+9721599;israel 2;0.56
+9721700;israel 2;0.56
+9721800;israel 2;0.56
+9721801;israel 2;0.56
+97222;israel palestina;5.88
+97242;israel palestina north israel;5.88
+9725;israel mobile;1.12
+97256;israel mobile wataniya;6.72
+97259;israel mobile jawwal;6.72
+9726;israel mobile;1.12
+97282;israel palestina south israel;5.88
+97292;israel palestina sharon;5.88
+973;bahrain;5.04
+9733;bahrain;5.04
+9736;bahrain;5.04
+97377;bahrain mobile mena;4.2
+974;qatar;6.16
+9743;qatar mobile vodafone;6.72
+9745;qatar mobile;6.72
+9746;qatar mobile;6.72
+9747;qatar mobile vodafone;6.72
+975;bhutan;2.52
+976;mongolia;1.12
+9765;mongolia mobile;1.12
+9768;mongolia mobile;1.12
+9769;mongolia mobile;1.12
+977;nepal;6.44
+98;iran;6.72
+989;iran mobile;6.72
+992;tajikistan 2;7
+992372;tajikistan dushanbe;5.04
+99250;tajikistan;5.88
+99277;tajikistan mobile indigo;5.88
+9929;tajikistan;5.88
+992911;tajikistan mobile beeline (tacom);7
+992915;tajikistan mobile beeline (tacom);7
+992917;tajikistan mobile beeline (tacom);7
+992918;tajikistan mobile babilon;4.48
+992919;tajikistan mobile beeline (tacom);7
+99292;tajikistan mobile somoncom (tcell);5.88
+99293;tajikistan mobile indigo;5.88
+99298;tajikistan mobile babilon;4.48
+992998;tajikistan mobile tajiktelecom;6.44
+993;turkmenistan;3.92
+99312;turkmenistan ashkhabad;3.92
+9936;turkmenistan mobile;5.6
+994;azerbaijan;7.84
+99412;azerbaijan baku;7.84
+99440;azerbaijan mobile catel;12.04
+99444;azerbaijan mobile cdma;12.04
+9945;azerbaijan 2;12.04
+99450;azerbaijan mobile azercell;12.04
+9945081;azerbaijan mobile azercell;12.04
+9945082;azerbaijan mobile azercell;12.04
+99451;azerbaijan mobile azercell;12.04
+99455;azerbaijan mobile bakcell;12.04
+99455002;azerbaijan mobile bakcell;12.04
+99455007;azerbaijan mobile bakcell;12.04
+99460;azerbaijan mobile cdma;12.04
+99470;azerbaijan mobile azerfon;12.04
+99470001;azerbaijan mobile azerfon;12.04
+99477;azerbaijan mobile azerfon;12.04
+99488;azerbaijan;7.84
+99490;azerbaijan 3;46.76
+995;georgia 2;6.72
+9951;georgia;12.32
+9955;georgia;12.32
+995514;georgia mobile geocell;10.92
+995551;georgia mobile magticom;11.48
+995555;georgia mobile geocell;10.92
+995557;georgia mobile geocell;10.92
+995558;georgia mobile geocell;10.92
+995568;georgia mobile mobitel (beeline);10.92
+995571;georgia mobile mobitel (beeline);10.92
+995574;georgia mobile mobitel (beeline);10.92
+995577;georgia mobile geocell;10.92
+995579;georgia mobile mobitel (beeline);10.92
+995591;georgia mobile magticom;11.48
+995592;georgia mobile mobitel (beeline);10.92
+995593;georgia mobile geocell;10.92
+995595;georgia mobile magticom;11.48
+995596;georgia mobile magticom;11.48
+995597;georgia mobile mobitel (beeline);10.92
+995598;georgia mobile magticom;11.48
+995599;georgia mobile magticom;11.48
+9956;georgia;12.32
+9957;georgia;12.32
+995790;georgia mobile magticom cdma;6.72
+9959;georgia;12.32
+996;kyrgyzstan 3;8.12
+996312;kyrgyzstan bishkek;5.6
+9965;kyrgyzstan;5.04
+99651;kyrgyzstan mobile katel;5.04
+99652;kyrgyzstan;5.04
+99654;kyrgyzstan 2;5.32
+99655;kyrgyzstan mobile bimokom (megacom);7.56
+99656;kyrgyzstan mobile winline;5.32
+99657;kyrgyzstan mobile sotel;5.32
+9967;kyrgyzstan;5.04
+99670;kyrgyzstan mobile nur telecom;7.28
+99677;kyrgyzstan mobile bitel (sky);7.28
+998;uzbekistan;4.2
+998711;uzbekistan tashkent;3.92
+998712;uzbekistan tashkent;3.92
+998713;uzbekistan tashkent;3.92
+9989;uzbekistan mobile;4.2

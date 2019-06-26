@@ -1,0 +1,48 @@
+<div class="orange white-text orange-block">
+    <div class="container center-align">
+        <h1>{{"Насколько дёшево звонить домой и в другие страны с интернет-телефонией global.ua?"| translate}}</h1>
+        <p>{{"В какой бы стране вы ни были, вы всегда на связи для родителей, родных и друзей"| translate}}</p>
+        <div class="row">
+            <div class="col l10 offset-l1 s12">
+                <div class="search">
+                    <div class="search-wrapper">
+                        <input #searchInput
+                               [placeholder]="'Найдите страну или регион куда хотите позвонить' | translate">
+                        <i class="material-icons small hide-on-small-and-down">search</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="card-panel">
+        <div *ngIf="!isLoaded" class="center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+            <p>{{'Загрузка...' | translate}}</p>
+        </div>
+        <div *ngIf="isLoaded">
+            <div class="row">
+                <div class="col l12 s12" *ngFor="let tarif of tarifs">
+                    <span class="orange-text">{{tarif.code}}</span>
+                    ({{tarif.destination}})
+                    <span class="right">
+            <span class="orange-text"><strong>{{tarif.rate}}</strong></span> {{"грн"| translate}}.
+          </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

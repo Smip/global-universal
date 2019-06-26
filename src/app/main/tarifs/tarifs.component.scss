@@ -1,0 +1,17 @@
+.search {
+  background-color: #fff;
+  padding: 10px 40px;
+  position: relative;
+  margin-bottom: 15px;
+  border-radius: 40px;
+  .search-wrapper {
+    position: relative;
+  }
+  .material-icons {
+    position: absolute;
+    top: 11px;
+    right: 0px;
+    cursor: pointer;
+    color: #607d8b;
+  }
+}

@@ -1,0 +1,67 @@
+<div class="container">
+    <div class="row">
+        <div class="col m6 offset-m3">
+            <div class="card-panel">
+                <h4>Авторизация</h4>
+                <form [formGroup]="form" (ngSubmit)="onSubmit()">
+                    <div class="input-field">
+                        <input
+                                id="username"
+                                type="text"
+                                class=""
+                                formControlName="username"
+                        >
+                        <label for="username">Логин</label>
+                        <span
+                                class="helper-text red-text"
+                                *ngIf="form.get('username').invalid && form.get('username').touched"
+                        >
+                <span *ngIf="form.get('username')['errors']['required']">
+                  Укажите логин
+                </span>
+              </span>
+                    </div>
+                    <div class="input-field">
+                        <input
+                                id="password"
+                                type="password"
+                                class=""
+                                formControlName="password"
+                        >
+                        <label for="password">Пароль</label>
+                        <span
+                                class="helper-text red-text"
+                                *ngIf="form.get('password').invalid && form.get('password').touched"
+                        >
+                <span *ngIf="form.get('password')['errors']['required']">
+                  Укажите пароль
+                </span>
+                <span *ngIf="form.get('password')['errors']['minlength']">
+                  Пароль должен содержать минимум {{ form.get('password')['errors']['minlength']['requiredLength'] }} символов.
+                </span>
+              </span>
+                    </div>
+                    <div
+                            class="card red lighten-3"
+                            *ngIf="message"
+                    >
+                        <div class="card-content">
+                            <p>{{message}}</p>
+                        </div>
+                    </div>
+                    <div class="input-field">
+                        <button
+                                class="btn waves-effect waves-light right"
+                                type="submit"
+                                name="action"
+                                [disabled]="form.invalid"
+                        >Войти
+                            <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>

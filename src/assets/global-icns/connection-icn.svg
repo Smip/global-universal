@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <style>.cls-1{fill:#fff;}.cls-2{fill:#e7f6fd;}.cls-3{fill:#24609b;}</style>
+    </defs>
+    <title>connection-icn</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <rect class="cls-1" width="200" height="200"/>
+            <g id="_Group_" data-name="&lt;Group&gt;">
+                <g id="_Group_2" data-name="&lt;Group&gt;">
+                    <circle class="cls-2" cx="100" cy="100" r="89.88"/>
+                </g>
+                <g id="_Group_3" data-name="&lt;Group&gt;">
+                    <path class="cls-3"
+                          d="M32.67,88.15a3.57,3.57,0,1,1,3.57-3.57A3.57,3.57,0,0,1,32.67,88.15Zm0-5.32a1.75,1.75,0,1,0,1.75,1.75A1.76,1.76,0,0,0,32.67,82.83Z"/>
+                </g>
+                <g id="_Group_4" data-name="&lt;Group&gt;">
+                    <g id="_Group_5" data-name="&lt;Group&gt;">
+                        <path class="cls-3"
+                              d="M83.14,39.56a1.21,1.21,0,0,1-.86-.36L74.1,31a1.21,1.21,0,0,1,1.71-1.72L84,37.48a1.23,1.23,0,0,1,0,1.72A1.21,1.21,0,0,1,83.14,39.56Z"/>
+                    </g>
+                    <g id="_Group_6" data-name="&lt;Group&gt;">
+                        <path class="cls-3"
+                              d="M75,39.56a1.18,1.18,0,0,1-.86-.36,1.21,1.21,0,0,1,0-1.72l8.18-8.18a1.21,1.21,0,0,1,1.72,0A1.23,1.23,0,0,1,84,31L75.81,39.2A1.17,1.17,0,0,1,75,39.56Z"/>
+                    </g>
+                </g>
+                <g id="_Group_7" data-name="&lt;Group&gt;">
+                    <g id="_Group_8" data-name="&lt;Group&gt;">
+                        <g id="_Group_9" data-name="&lt;Group&gt;">
+                            <path class="cls-3" d="M29,140.16H3.47a.91.91,0,1,1,0-1.81H29a.91.91,0,0,1,0,1.81Z"/>
+                        </g>
+                        <g id="_Group_10" data-name="&lt;Group&gt;">
+                            <path class="cls-3" d="M196.53,140.16h-22a.91.91,0,1,1,0-1.81h22a.91.91,0,1,1,0,1.81Z"/>
+                        </g>
+                        <g id="_Group_11" data-name="&lt;Group&gt;">
+                            <path class="cls-3"
+                                  d="M169.37,140.16H38.76a.91.91,0,0,1,0-1.81H169.37a.91.91,0,0,1,0,1.81Z"/>
+                        </g>
+                    </g>
+                    <g id="_Group_12" data-name="&lt;Group&gt;">
+                        <g id="_Group_13" data-name="&lt;Group&gt;">
+                            <path class="cls-3" d="M53.53,150.6H32.67a.45.45,0,1,1,0-.9H53.53a.45.45,0,1,1,0,.9Z"/>
+                        </g>
+                        <g id="_Group_14" data-name="&lt;Group&gt;">
+                            <path class="cls-3" d="M87.11,150.6H66.23a.45.45,0,1,1,0-.9H87.11a.45.45,0,1,1,0,.9Z"/>
+                        </g>
+                        <g id="_Group_15" data-name="&lt;Group&gt;">
+                            <path class="cls-3" d="M142,150.6H99a.45.45,0,1,1,0-.9h43a.45.45,0,0,1,0,.9Z"/>
+                        </g>
+                        <g id="_Group_16" data-name="&lt;Group&gt;">
+                            <path class="cls-3" d="M179.18,150.6H154.72a.45.45,0,1,1,0-.9h24.46a.45.45,0,0,1,0,.9Z"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="_Group_17" data-name="&lt;Group&gt;">
+                    <path class="cls-3"
+                          d="M131.16,47.21a6.38,6.38,0,1,1,6.37-6.38A6.38,6.38,0,0,1,131.16,47.21Zm0-10.33a4,4,0,1,0,3.94,3.95A4,4,0,0,0,131.16,36.88Z"/>
+                </g>
+                <g id="_Group_18" data-name="&lt;Group&gt;">
+                    <path class="cls-3"
+                          d="M167,91a6.38,6.38,0,1,1,6.38-6.38A6.38,6.38,0,0,1,167,91Zm0-10.32a3.95,3.95,0,1,0,4,3.94A3.95,3.95,0,0,0,167,80.64Z"/>
+                </g>
+                <g id="_Group_19" data-name="&lt;Group&gt;">
+                    <path class="cls-3"
+                          d="M72.64,132.51H49.7a1.82,1.82,0,0,1-1.82-1.81v-41a1.82,1.82,0,0,1,1.82-1.82H72.64a1.82,1.82,0,0,1,1.82,1.82v41A1.82,1.82,0,0,1,72.64,132.51Zm-21.12-3.63H70.83V91.5H51.52Z"/>
+                </g>
+                <g id="_Group_20" data-name="&lt;Group&gt;">
+                    <path class="cls-3"
+                          d="M105.48,132.51H82.54a1.81,1.81,0,0,1-1.81-1.81V74.8A1.81,1.81,0,0,1,82.54,73h22.94a1.81,1.81,0,0,1,1.82,1.81v55.9A1.81,1.81,0,0,1,105.48,132.51Zm-21.12-3.63h19.31V76.62H84.36Z"/>
+                </g>
+                <g id="_Group_21" data-name="&lt;Group&gt;">
+                    <path class="cls-3"
+                          d="M139.19,132.51H116.25a1.81,1.81,0,0,1-1.82-1.81V61.16a1.81,1.81,0,0,1,1.82-1.81h22.94A1.81,1.81,0,0,1,141,61.16V130.7A1.81,1.81,0,0,1,139.19,132.51Zm-21.13-3.63h19.31V63H118.06Z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

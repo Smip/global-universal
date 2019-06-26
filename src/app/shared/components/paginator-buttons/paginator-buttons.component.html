@@ -1,0 +1,33 @@
+<ul class="pagination center" *ngIf="count > 0">
+    <li class="waves-effect">
+        <a class="btn btn-flat waves-effect waves-light btn-small" (click)="onPrev()"
+           [ngClass]="{ 'disabled': page === 1}">
+            <i class="material-icons left">chevron_left</i>
+            {{"Предыдущая"| translate}}
+        </a>
+    </li>
+    <li
+            class="waves-effect"
+            *ngFor="let pageNum of getPages()"
+            [ngClass]="{'active': pageNum === page}"
+    >
+        <a
+                class="btn btn-flat waves-effect waves-light btn-small"
+                (click)="onPage(pageNum)"
+                [routerLink]="[link, pageNum]"
+                *ngIf="link"
+        >{{ pageNum }}</a>
+        <a
+                class="btn btn-flat waves-effect waves-light btn-small"
+                (click)="onPage(pageNum)"
+                *ngIf="!link"
+        >{{ pageNum }}</a>
+    </li>
+    <li class="waves-effect">
+        <a class="btn btn-flat btn-small waves-effect waves-light" (click)="onNext(true)"
+           [ngClass]="{ 'disabled': lastPage()}">
+            <i class="material-icons right">chevron_right</i>
+            {{"Следующая"| translate}}
+        </a>
+    </li>
+</ul>

@@ -1,0 +1,93 @@
+<div class="container">
+    <div class="card-panel">
+        <h1>Новости</h1>
+        <div *ngIf="!isLoaded" class="center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                    <div class="circle-clipper left">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="gap-patch">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="circle-clipper right">
+                        <div class="circle"></div>
+                    </div>
+                </div>
+            </div>
+            <p>{{'Загрузка...' | translate}}</p>
+        </div>
+        <div class="row" *ngIf="isLoaded">
+            <div class="col s12">
+                <a [routerLink]="'news/add'"
+                   class="waves-effect waves-light btn right">
+                    <i class="material-icons left">add</i>Добавить
+                </a>
+            </div>
+            <div class="col s12" *ngFor="let article of articles">
+                <div class="card-panel">
+                    <div class="row">
+                        <div class="col s4">
+                            <strong>{{(article.contents | findLang: translate.currentLang) ? (article.contents |
+                                findLang: translate.currentLang).title : article.slug}}</strong>
+                        </div>
+                        <div class="col s4">
+                            <ul class="list-inline right">
+                                <li>Редактировать:</li>
+                                <li *ngFor="let lang of ['uk', 'ru', 'en']">
+                                    <a [routerLink]="('/admin/pages/' + article.slug + '/' + lang) | localize">{{lang}}</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col s2">
+                            {{article.createdAt | moment:"YYYY-MM-DD[T]HH:mm:ss.SSS[Z]":"YYYY.MM.DD HH:mm"}}
+                        </div>
+                        <div class="col s2">
+                            <button
+                                    type="button"
+                                    class="waves-effect waves-light btn-floating red modal-trigger right"
+                                    data-target="deleteConfirmModal"
+                                    (click)="onDelete(article)"
+                            ><i class="material-icons left">delete_forever</i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <global-parinator-buttons
+                    (goPage)="goToPage($event)"
+                    (goNext)="onNext()"
+                    (goPrev)="onPrev()"
+                    [pagesToShow]="3"
+                    [page]="currentPage"
+                    [perPage]="itemsOnPage"
+                    [count]="totalItems">
+            </global-parinator-buttons>
+        </div>
+    </div>
+</div>
+
+
+<div
+        id="deleteConfirmModal"
+        class="modal"
+        globalModal
+
+>
+    <div class="modal-content" *ngIf="toDelete">
+        <h4>{{"Удалить "+toDelete.slug+"?"}}</h4>
+        <div class="row">
+            <div class="col s12">
+                <p>{{"После удаления, материал нельзя будет восстановить. Для подтверждения, нажмите удалить."|
+                    translate}}</p>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="modal-close waves-effect waves-green btn-flat">{{"Отмена"| translate}}</button>
+        <button type="button" class="modal-close waves-effect waves-light red btn" (click)="confirmDelete(toDelete)">
+            {{"Удалить"| translate}}
+        </button>
+    </div>
+</div>
+
+

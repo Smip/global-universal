@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:400,700&subset=cyrillic,cyrillic-ext');
+
+$font-stack: 'Comfortaa', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+@import "./variables";
+
+$h1-fontsize: 3rem;
+$h2-fontsize: 2.6rem;
+$h3-fontsize: 2.2rem;
+$h4-fontsize: 1.9rem;
+$h5-fontsize: 1.64rem;
+$h6-fontsize: 1.15rem;
+
+@import '../node_modules/materialize-css/sass/materialize.scss';
+
+strong {
+  font-weight: 700;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+@media #{$large-and-up} {
+  .container {
+    width: 85%;
+  }
+}
+
+@media #{$extra-large-and-up} {
+  .container {
+    width: 70%;
+  }
+}
+
+.orange-block {
+  margin-top: -25px;
+  padding-top: 25px;
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+@media #{$small-and-down} {
+  ul.browser-default {
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    font-size: $h1-fontsize / 1.5;
+    line-height: 110%;
+    margin: ($h1-fontsize / 1.5) 0 ($h1-fontsize / 2.5) 0;
+  }
+  h2 {
+    font-size: $h2-fontsize / 1.5;
+    line-height: 110%;
+    margin: ($h2-fontsize / 1.5) 0 ($h2-fontsize / 2.5) 0;
+  }
+  h3 {
+    font-size: $h3-fontsize / 1.5;
+    line-height: 110%;
+    margin: ($h3-fontsize / 1.5) 0 ($h3-fontsize / 2.5) 0;
+  }
+  h4 {
+    font-size: $h4-fontsize / 1.5;
+    line-height: 110%;
+    margin: ($h4-fontsize / 1.5) 0 ($h4-fontsize / 2.5) 0;
+  }
+  h5 {
+    font-size: $h5-fontsize / 1.5;
+    line-height: 110%;
+    margin: ($h5-fontsize / 1.5) 0 ($h5-fontsize / 2.5) 0;
+  }
+  h6 {
+    font-size: $h6-fontsize / 1.5;
+    line-height: 110%;
+    margin: ($h6-fontsize / 1.5) 0 ($h6-fontsize / 2.5) 0;
+  }
+}
+
+nav {
+  border-bottom-color: $primary-color-light;
+  background-color: $primary-color;
+}
+
+blockquote.bordered {
+  border: 3px solid #607d8b;
+  color: #607d8b;
+  border-radius: 20px;
+  padding: 30px 25px;
+  position: relative;
+  p {
+    margin: 0;
+  }
+  &:before {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    line-height: 0.7;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    content: 'format_quote';
+    font-size: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: $button-raised-background;
+    margin-top: -10px;
+    margin-right: -5px;
+    background-color: #fff;
+  }
+  &:after {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    line-height: 0.7;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    content: 'format_quote';
+    font-size: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: $button-raised-background;
+    margin-bottom: -10px;
+    margin-left: -5px;
+    transform: rotate(180deg);
+    background-color: #fff;
+  }
+}
+
+.blockquote-block {
+  position: relative;
+  width: 100%;
+  min-height: 230px;
+  padding: 30px 0;
+  background-color: $primary-color;
+
+  blockquote.bordered {
+    border: 3px solid #fff;
+    color: #fff;
+    padding: 35px;
+    &:before, &:after {
+      background-color: $primary-color;
+    }
+  }
+}

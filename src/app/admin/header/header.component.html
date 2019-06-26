@@ -1,0 +1,95 @@
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper">
+            <div class="container">
+                <a href="#" class="brand-logo"><img src="/assets/logo_60.png" class="responsive-img" alt=""> global<span
+                        class="orange-text">.ua</span></a>
+                <a href="#" class="sidenav-trigger" data-target="slide"><i class="material-icons">menu</i></a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li>
+                        Привет {{user.firstName}}!
+                    </li>
+                    <li
+                            routerLinkActive="active"
+                            [routerLinkActiveOptions]="{exact: true}"
+                    >
+                        <a
+                                class="dropdown-trigger"
+                                data-target="dropdown_admin"
+                                globalDropdown
+                        >
+                            <i class="material-icons left">edit</i> Меню
+                        </a>
+                    </li>
+
+                    <li
+                            routerLinkActive="active"
+                            [routerLinkActiveOptions]="{exact: true}"
+                    >
+                        <a (click)="logOut()">
+                            <i class="material-icons left">exit_to_app</i>
+                            Выйти
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                                class="dropdown-trigger"
+                                data-target="dropdown_lang"
+                                globalDropdown
+                        >
+                            <i class="material-icons left">language</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+<ul id='dropdown_lang' class='dropdown-content'>
+    <li><a (click)="changeLang('uk')">Українська</a></li>
+    <li><a (click)="changeLang('ru')">Русский</a></li>
+    <li><a (click)="changeLang('en')">English</a></li>
+</ul>
+<ul id='dropdown_admin' class='dropdown-content'>
+    <li
+            routerLinkActive="active"
+            [routerLinkActiveOptions]="{exact: true}"
+    ><a [routerLink]="'/admin/'">Новости</a></li>
+    <li
+            routerLinkActive="active"
+            [routerLinkActiveOptions]="{exact: true}"
+    ><a [routerLink]="'/admin/pages'">Страницы</a></li>
+    <li
+            routerLinkActive="active"
+            [routerLinkActiveOptions]="{exact: true}"
+    ><a [routerLink]="'/admin/tarifs'">Тарифы</a></li>
+</ul>
+<ul class="sidenav" id="slide" globalSidenav>
+    <li
+            routerLinkActive="active"
+            [routerLinkActiveOptions]="{exact: true}"
+    >
+        <a [routerLink]="'/'| localize" class="sidenav-close">
+            {{ "Главная"| translate }}
+        </a>
+    </li>
+
+    <li
+            routerLinkActive="active"
+            [routerLinkActiveOptions]="{exact: true}"
+    >
+        <a [routerLink]="'/tarifs'| localize" class="sidenav-close">
+            {{ "Тарифы"| translate }}
+        </a>
+    </li>
+    <li>
+        <a href="https://play.google.com/store/apps/details?id=com.globalua" class="waves-effect waves-light btn">{{'Скачать'|
+            translate}} <i class="material-icons right">chevron_right</i></a>
+    </li>
+    <li>
+        <div class="divider"></div>
+    </li>
+    <li><a (click)="changeLang('uk')"><i class="material-icons left">language</i> Українська</a></li>
+    <li><a (click)="changeLang('ru')"><i class="material-icons left">language</i> Русский</a></li>
+    <li><a (click)="changeLang('en')"><i class="material-icons left">language</i> English</a></li>
+</ul>

@@ -1,0 +1,41 @@
+@import "../node_modules/materialize-css/sass/components/color-variables";
+
+//$num-cols: 24;
+$primary-color: color("light-blue", "darken-4");
+$primary-color-light: color("light-blue", "darken-3");
+$primary-color-dark: color("light-blue", "lighten-5");
+
+$button-raised-background: color("orange", "base");
+$button-raised-background-hover: color("orange", "accent-1");
+
+$button-radius: 5px;
+
+$off-black: color("blue-grey", "darken-4");
+
+h2 {
+  color: color("orange", "base");
+}
+
+//$button-raised-color: #fff !default;
+
+//
+//$dropdown-color: color("shades", "black");
+//
+//$secondary-color: color("light-blue", "base");
+//
+//$success-color: color("light-green", "base");
+//$error-color: color("red", "base");
+//$link-color: color("blue", "lighten-1");
+//
+//$navbar-font-color: color("blue", "darken-2");
+//$tabs-text-color: color("shades", "black");
+//
+//$footer-font-color: color("shades", "black");
+//$footer-bg-color: color("grey", "lighten-4");
+//
+//$footer-copyright-font-color: color("shades", "black");
+//$footer-copyright-bg-color: color("grey", "lighten-2");
+//
+
+
+
